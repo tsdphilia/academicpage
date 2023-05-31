@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome To Lyra's Homewpage"
 excerpt: ""
 author_profile: true
 redirect_from: 
