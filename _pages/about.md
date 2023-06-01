@@ -58,4 +58,4 @@ Research direction is to be decided.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.10 - 2023.01*, [XiMaLaYa](https://www.ximalaya.com/), ShangHai.
+- *2022.11 - 2023.01*, [XiMaLaYa](https://www.ximalaya.com/), ShangHai.
