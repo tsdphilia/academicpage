@@ -19,6 +19,8 @@ redirect_from:
 
 I am Hao Liu (刘豪), an independent researcher currently seeking a Ph.D. position in the field of Artificial Intelligence. I served as an intern researcher at the China Academy of Launch Vehicle Technology (CALT), where I was responsible for designing and developing real-time object detection systems for visual AI, as well as software copyright writing.
 
+I am currently working on several projects within the field of computer vision, including the enhancement and optimization of 3D point cloud models, comparative learning of multimodal pre-training models, applications of diffusion models in neuroscience, and practical implementations of artificial intelligence.If you are seeking any form of academic cooperation, please feel free to email me at <a href="mailto:lh@computer.org">lh@computer.org</a>.
+
 I received my Bachelor of Engineering degree in Software Engineering from the School of Computer Science (National Pilot Software Engineering School) at Beijing University of Posts and Telecommunications in China. Later, I earned my Master of Science degree in International Technology Management with a focus on Artificial Intelligence and Cybersecurity from the WMG at the University of Warwick, UK.
 
 
