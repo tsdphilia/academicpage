@@ -35,10 +35,12 @@ Please feel free to contact me to discuss potential opportunities or share ideas
 # 🔥 Recent Wworks
 - *Applications and Improvements of Multimodal Pre-training Models in Computer Vision and Point Cloud Algorithms*: By integrating pre-training models along with text-image features, we have refined issues of domain adaptation and generalization under the framework of deformed reconstruction and point cloud fusion, leveraging various attention mechanisms and contrastive learning methods. The paper is expected to be submitted to AAAI 2024 in August.
 - *Generation of Human Brain Activity Graphs Using Diffusion Models*: We conduct research on the generation of brain activity graphs by integrating fMRI, EGG and MEG data with CLIP and diffusion models.
-- *Analysis on the development and financial performance of Chinese banking sector*: 
+- *Analysis on the Development and Financial Performance of the Chinese Banking Sector*: Utilizing quantitative data, We analyze the financial performance of the Chinese banking industry from multiple perspectives, carrying out forward-looking research and providing predictions for future development trends within the sector.
 
 # 📝 Papers 
-
+- *Cybersecurity for artificial intelligence in operations and supply chains: A theoretical framework based on a systematic literature review*[Dissertation]
+- *Design and Implementation of a Crowd Sensing Multi-task Allocation System*[Dissertation]
+- 
 
 # 🎖 Related Links
 - [GitHub](https://github.com/Akibaru)
