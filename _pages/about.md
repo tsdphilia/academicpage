@@ -38,7 +38,7 @@ Please feel free to contact me to discuss potential opportunities or share ideas
 - *Analysis on the Development and Financial Performance of the Chinese Banking Sector*: Utilizing quantitative data, We analyze the financial performance of the Chinese banking industry from multiple perspectives, carrying out forward-looking research and providing predictions for future development trends within the sector.
 
 # 📝 Papers 
-- *Cybersecurity for artificial intelligence in operations and supply chains: A theoretical framework based on a systematic literature review* [Dissertation](https://drive.google.com/file/d/1ex_L5dd32cEgBBwfVCeSmbPbazgknme8/view?usp=drive_link)
+- *Cybersecurity for artificial intelligence in operations and supply chains: A theoretical framework based on a systematic literature review* [Dissertation](https://drive.google.com/file/d/12t5ipGujaEpdOYv5aoAI71kONEnhx-3C/view?usp=drive_link)
 - *Design and Implementation of a Crowd Sensing Multi-task Allocation System* [Dissertation]
 - *Research on the Status and Development of Regional Integration: A Case Study of the Guangdong-Hong Kong-Macao Greater Bay Area* [Link](https://drive.google.com/file/d/13UxXQieaxw-gP_OXT2iz57t2OsM0DtWp/view?usp=drive_link)
 - *Study on the Formalized Development of the Street Stall Economy-based on Domestic and International Experiences and Perspective* [Link](https://drive.google.com/file/d/1DKrDhcfrkhHdfhLdX_rkDATRZ82SMwRv/view?usp=drive_link)
