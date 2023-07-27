@@ -32,15 +32,16 @@ I warmly invite those interested in my research or potential collaborations to c
 Please feel free to contact me to discuss potential opportunities or share ideas. I am eager to interact with other professionals passionate about these fields, and I am confident that together, we can drive innovation and discovery.
 
 
-# 🔥 Recent Wworks
+# 🔥 Recent Works
 - *Applications and Improvements of Multimodal Pre-training Models in Computer Vision and Point Cloud Algorithms*: By integrating pre-training models along with text-image features, we have refined issues of domain adaptation and generalization under the framework of deformed reconstruction and point cloud fusion, leveraging various attention mechanisms and contrastive learning methods. The paper is expected to be submitted to AAAI 2024 in August.
 - *Generation of Human Brain Activity Graphs Using Diffusion Models*: We conduct research on the generation of brain activity graphs by integrating fMRI, EGG and MEG data with CLIP and diffusion models.
 - *Analysis on the Development and Financial Performance of the Chinese Banking Sector*: Utilizing quantitative data, We analyze the financial performance of the Chinese banking industry from multiple perspectives, carrying out forward-looking research and providing predictions for future development trends within the sector.
 
 # 📝 Papers 
-- *Cybersecurity for artificial intelligence in operations and supply chains: A theoretical framework based on a systematic literature review*[Dissertation]
-- *Design and Implementation of a Crowd Sensing Multi-task Allocation System*[Dissertation]
-- 
+- *Cybersecurity for artificial intelligence in operations and supply chains: A theoretical framework based on a systematic literature review* [Dissertation]
+- *Design and Implementation of a Crowd Sensing Multi-task Allocation System* [Dissertation]
+- *Research on the Status and Development of Regional Integration: A Case Study of the Guangdong-Hong Kong-Macao Greater Bay Area* [Link]
+- *Study on the Formalized Development of the Street Stall Economy-based on Domestic and International Experiences and Perspective* [Link]
 
 # 🎖 Related Links
 - [GitHub](https://github.com/Akibaru)
