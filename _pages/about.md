@@ -23,7 +23,6 @@ I am currently working on several projects within the field of computer vision, 
 
 I received my Bachelor of Engineering degree in Software Engineering from the School of Computer Science (National Pilot Software Engineering School) at Beijing University of Posts and Telecommunications in China. Later, I earned my Master of Science degree in International Technology Management with a focus on Artificial Intelligence and Cybersecurity from the WMG at the University of Warwick, UK.
 
-
 In addition to my primary skills, I have a rich background in interdisciplinary academic research. I served as a research assistant in the field of Financial Mathematics at St. John's College, University of Cambridge, UK. Simultaneously, I participated in the National Governance program at Tsinghua University in China, further strengthening my understanding of digital governance and public policy. To supplement my education further, I took specialized courses in Finance at the Central University of Finance and Economics in China. My diverse academic pursuits demonstrate my intellectual curiosity and adaptability, as they span across computer science, finance, and governance.
 
 In my spare time, I am consistently expanding my knowledge base. Currently, I am enrolled in an online Bachelor's degree program in Chinese Language and Literature at the Open University of China. Additionally, I am pursuing an online MBA and a Master's degree in Big Data and Business Intelligence, a program co-offered by ENEB and the University Isabel I of Spain. My continuous learning attitude reflects my dedication to personal and professional growth and my ambition to stay at the forefront of various disciplines.
@@ -39,27 +38,20 @@ Please feel free to contact me to discuss potential opportunities or share ideas
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Related Links
+- [GitHub](https://github.com/Akibaru)
+- [Kaggle](https://www.kaggle.com/asunay)
+- [Hugging Face](https://huggingface.co/Asuna-Yuuki)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10 - 2022.11*, MSc in International Technology Management, WMG, Faculty of Science, Engineering and Medicine, the University of Warwick, United Kingdom.
+- *2017.09 - 2021.06*, BEng in Software Engineering, School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications, China.
+- *2023.01 - Present (Part-time)*, MBA & MSc student in Big Data and Business Intelligence, ENEB & the University Isabel I of Spain, Online.
+- *2022.09 - Present (Part-time)*, BA student in Chinese Language and Literature, the Open University of China, Online.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.03 - 2023.05*, [China Academy of Launch Vehicle Technology](http://calt.com/), Beijing, China.
+- *2022.01 - 2022.03*, [St John's College, University of Cambridge](https://www.joh.cam.ac.uk/), United Kingdom.
+- *2020.09 - 2020.12*, [China Electronics System Technology](https://www.cestc.cn/), Beijing, China.
+- *2020.09*, [Yingda International Trust](https://www.yditc.com.cn/), Beijing, China.
