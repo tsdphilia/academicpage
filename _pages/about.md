@@ -41,7 +41,7 @@ Please feel free to contact me to discuss potential opportunities or share ideas
 - *Cybersecurity for artificial intelligence in operations and supply chains: A theoretical framework based on a systematic literature review* [Dissertation]
 - *Design and Implementation of a Crowd Sensing Multi-task Allocation System* [Dissertation]
 - *Research on the Status and Development of Regional Integration: A Case Study of the Guangdong-Hong Kong-Macao Greater Bay Area* [Link]
-- *Study on the Formalized Development of the Street Stall Economy/-based on Domestic and International Experiences and Perspective* [Link]
+- *Study on the Formalized Development of the Street Stall Economy-based on Domestic and International Experiences and Perspective* [Link]
 
 # 🎖 Related Links
 - [GitHub](https://github.com/Akibaru)
