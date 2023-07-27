@@ -24,6 +24,15 @@ I am currently working on several projects within the field of computer vision, 
 I received my Bachelor of Engineering degree in Software Engineering from the School of Computer Science (National Pilot Software Engineering School) at Beijing University of Posts and Telecommunications in China. Later, I earned my Master of Science degree in International Technology Management with a focus on Artificial Intelligence and Cybersecurity from the WMG at the University of Warwick, UK.
 
 
+In addition to my primary skills, I have a rich background in interdisciplinary academic research. I served as a research assistant in the field of Financial Mathematics at St. John's College, University of Cambridge, UK. Simultaneously, I participated in the National Governance program at Tsinghua University in China, further strengthening my understanding of digital governance and public policy. To supplement my education further, I took specialized courses in Finance at the Central University of Finance and Economics in China. My diverse academic pursuits demonstrate my intellectual curiosity and adaptability, as they span across computer science, finance, and governance.
+
+In my spare time, I am consistently expanding my knowledge base. Currently, I am enrolled in an online Bachelor's degree program in Chinese Language and Literature at the Open University of China. Additionally, I am pursuing an online MBA and a Master's degree in Big Data and Business Intelligence, a program co-offered by ENEB and the University Isabel I of Spain. My continuous learning attitude reflects my dedication to personal and professional growth and my ambition to stay at the forefront of various disciplines.
+
+I warmly invite those interested in my research or potential collaborations to contact me. My broad range of expertise and my interdisciplinary research background enable me to make significant contributions to a variety of projects. Whether your interest lies in artificial intelligence, computer vision, big data, finance, or governance, I am ready to apply my unique skills to new challenges. With my relentless pursuit of knowledge, I am always seeking to apply what I have learned to real-world situations. I would be delighted to explore how my research could benefit your organization or project.
+
+Please feel free to contact me to discuss potential opportunities or share ideas. I am eager to interact with other professionals passionate about these fields, and I am confident that together, we can drive innovation and discovery.
+
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -51,10 +60,6 @@ I received my Bachelor of Engineering degree in Software Engineering from the Sc
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
