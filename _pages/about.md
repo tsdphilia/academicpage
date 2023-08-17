@@ -33,7 +33,7 @@ Please feel free to contact me to discuss potential opportunities or share ideas
 
 
 # 🔥 Recent Works
-- *Applications and Improvements of Multimodal Pre-training Models in Computer Vision and Point Cloud Algorithms*: By integrating pre-training models along with text-image features, we have refined issues of domain adaptation and generalization under the framework of deformed reconstruction and point cloud fusion, leveraging various attention mechanisms and contrastive learning methods. The paper is expected to be submitted to AAAI 2024 in August.
+- *Applications and Improvements of Multimodal Pre-training Models in Computer Vision and Point Cloud Algorithms*: By integrating pre-training models along with text-image features, we have refined issues of domain adaptation and generalization under the framework of deformed reconstruction and point cloud fusion, leveraging various attention mechanisms and contrastive learning methods. The paper is expected to be submitted to CVPR 2024 in September.
 - *Generation of Human Brain Activity Graphs Using Diffusion Models*: We conduct research on the generation of brain activity graphs by integrating fMRI, EGG and MEG data with CLIP and diffusion models.
 - *Analysis on the Development and Financial Performance of the Chinese Banking Sector*: Utilizing quantitative data, We analyze the financial performance of the Chinese banking industry from multiple perspectives, carrying out forward-looking research and providing predictions for future development trends within the sector.
 
