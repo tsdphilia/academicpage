@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Litzy"
-description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : " "
 repository               : "L0I6T1Z9Y/L0I6T1Z9Y.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziyue Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "University of Maryland"
   location         : "College Park, Maryland"
   employer         :
   pubmed           : 
