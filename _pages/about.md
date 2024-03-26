@@ -26,7 +26,7 @@ I am a first-year Ph.D. Student in Computer Science at the University of Marylan
 
 # 📝 Publications 
 
-- [Many-Objective Multi-Solution Transport](https://arxiv.org/abs/2403.04099), **Ziyue Li**, T. Li, V. Smith, J. Bilmes, T. Zhou, **ArXiv**
+- [Many-Objective Multi-Solution Transport](https://arxiv.org/abs/2403.04099), **Z. Li**, T. Li, V. Smith, J. Bilmes, T. Zhou, **ArXiv**
   - Explores a framework that finds multiple diverse solutions in the Pareto front of many objectives.
 
 - [SIMPLE: Specialized Model-Sample Matching for Domain Generalization](https://seqml.github.io/simple/), **Z. Li**, K. Ren, X. Jiang, Y. Shen, H. Zhang, D. Li, **ICLR'23**
