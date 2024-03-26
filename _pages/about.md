@@ -35,7 +35,7 @@ I am a first-year Ph.D. Student in Computer Science at the University of Marylan
 - [Towards Inference Efficient Deep Ensemble Learning](https://seqml.github.io/irene/), **Z. Li**, K. Ren, Y. Yang, X. Jiang, Y. Yang, D. Li, **AAAI 2023**
   - An inference efficient ensemble learning method to simultaneously optimize for both model effectiveness and efficiency in ensemble learning.
  
-- [Protecting the Future: Neonatal Seizure Detection with Spatial-Temporal Modeling](https://ieeexplore.ieee.org/abstract/document/10394628), **Z. Li**$^\dagger$, Y. Fang $^\dagger$, Y. Li, K. Ren, Y. Wang, X. Luo, J. Duan, C. Huang, D. Li, L. Qiu, **SMC'23**
+- [Protecting the Future: Neonatal Seizure Detection with Spatial-Temporal Modeling](https://seqml.github.io/statenet/), **Z. Li**$^\dagger$, Y. Fang $^\dagger$, Y. Li, K. Ren, Y. Wang, X. Luo, J. Duan, C. Huang, D. Li, L. Qiu, **SMC'23**
   - Utilizing spatial-temporal modeling for neonatal seizure detection.
 
 - [Why does the president tweet this? Discovering reasons and contexts for politicians’ tweets from news articles](https://www.sciencedirect.com/science/article/pii/S0306457322000218), **Z. Li**, H. Hu, H. Wang, C. Lu, H. Zhang, K. Zhang, **Information Processing & Management 2022**
