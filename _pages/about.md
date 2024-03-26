@@ -41,7 +41,7 @@ I am a first-year Ph.D. Student in Computer Science at the University of Marylan
 - [Why does the president tweet this? Discovering reasons and contexts for politicians’ tweets from news articles](https://www.sciencedirect.com/science/article/pii/S0306457322000218), **Z. Li**, H. Hu, H. Wang, C. Lu, H. Zhang, K. Zhang, **Information Processing & Management 2022**
   - A tweet interpretation framework which automatically extracts focal tweet clauses and tracks previous news to discover the event-specific reasons that trigger politicians to tweet them.
 
-- [One Step Ahead: A Framework for Detecting Unexpected Incidents and Predicting the Stock Markets](https://ieeexplore.ieee.org/document/9354149), **Z. Li**, S. Lyu, H. Zhang, T. Jiang, **IEEE Access 2021**
+- [One Step Ahead: A Framework for Detecting Unexpected Incidents and Predicting the Stock Markets](https://ieeexplore.ieee.org/document/9354149), **Z. Li**$^\dagger$, S. Lyu$^\dagger$, H. Zhang, T. Jiang, **IEEE Access 2021**
   - An early-warning framework for market trend prediction by extracting real-time unexpected incident facts and feeding them into models built on global event databases cross-referenced with satellite light.
 
 
