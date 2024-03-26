@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. Student in Computer Science at the University of Maryland advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/cv/). My research focuses on pioneering efficient machine learning methods, encompassing computer vision, natural language processing, and multi-modality. I am particularly passionate about developing adaptive and personalized machine learning models. Before pursuing my Ph.D., I earned my M.S. and B.Eng in Computer Science from ShanghaiTech University, where I delved into research areas such as Mixture of Experts, Domain Generalization, and Ensemble Learning. 
+I am a first-year Ph.D. Student in Computer Science at the University of Maryland advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/cv/). My research focuses on pioneering efficient machine learning methods, encompassing computer vision, natural language processing, and multi-modality. I am particularly passionate about developing adaptive and personalized machine learning models. Before pursuing my Ph.D., I earned my M.S. and B.Eng in Computer Science from ShanghaiTech University, where I delved into research areas such as mixture of experts, domain generalization, and ensemble learning. 
 
 
 # 🔥 News
