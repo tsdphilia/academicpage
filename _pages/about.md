@@ -17,42 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a first-year Ph.D. Student in Computer Science at the University of Maryland advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/cv/). My research focuses on pioneering efficient machine learning methods, encompassing computer vision, natural language processing, and multi-modality. I am particularly passionate about developing adaptive and personalized machine learning models. Before pursuing my Ph.D., I earned my M.S. and B.Eng in Computer Science from ShanghaiTech University, where I delved into research areas such as Mixture of Experts, Domain Generalization, and Ensemble Learning. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03*: &nbsp;🎉🎉 **New Publication on arXiv**: "Many-Objective Multi-Solution Transport" by Ziyue Li is now available on arXiv.
+- *2023.08*: &nbsp;🎉🎉 **Entering University of Maryland (UMD)** as a Ph.D. Candidate in Computer Science.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[Many-Objective Multi-Solution Transport](https://arxiv.org/abs/your-paper-link)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Ziyue Li**, T. Li, V. Smith, J. Bilmes, T. Zhou
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[**Project**](https://arxiv.org/abs/your-paper-link)
+- Explores a framework that finds multiple diverse solutions in the Pareto front of many objectives.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Mixture of Experts for Domain Generalization](https://openreview.net/forum?id=BqrPeZ_e5P), **Z. Li**, K. Ren, X. Jiang, H. Zhang, D. Li, **ICLR 2023**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023*: Dean’s Fellowship, University of Maryland.
+- *2022*: Award of Excellence for Stars of Tomorrow Internship Program, Microsoft Research Asia.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Education
+- *2023 - Present*, Ph.D. in Computer Science, University of Maryland.
+- *2019 - 2022*, M.S. in Computer Science, ShanghaiTech University.
+- *2015 - 2019*, B.Eng in Computer Science, ShanghaiTech University.
+- 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.06 - 2022.12*, Research Assistant, AI/ML group, Microsoft Research Asia, Shanghai, China.
+- *2021.06 - 2022.03*, Research Intern, AI/ML group, Microsoft Research Asia, Shanghai, China.
