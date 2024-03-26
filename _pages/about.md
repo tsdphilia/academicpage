@@ -49,7 +49,7 @@ I am a first-year Ph.D. Student in Computer Science at the University of Marylan
 - *2023*: Dean’s Fellowship, University of Maryland.
 - *2022*: Award of Excellence for Stars of Tomorrow Internship Program, Microsoft Research Asia.
 
-# 📖 Education
+# 📖 Educations
 - *2023 - Present*, Ph.D. in Computer Science, University of Maryland.
 - *2019 - 2022*, M.S. in Computer Science, ShanghaiTech University.
 - *2015 - 2019*, B.Eng in Computer Science, ShanghaiTech University.
