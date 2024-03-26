@@ -29,10 +29,10 @@ I am a first-year Ph.D. Student in Computer Science at the University of Marylan
 - [Many-Objective Multi-Solution Transport](https://arxiv.org/abs/2403.04099), **Ziyue Li**, T. Li, V. Smith, J. Bilmes, T. Zhou, **ArXiv**
   - Explores a framework that finds multiple diverse solutions in the Pareto front of many objectives.
 
-- [SIMPLE: Specialized Model-Sample Matching for Domain Generalization](https://seqml.github.io/simple/), **Z. Li**, K. Ren, X. Jiang, Y. Shen, H. Zhang, D. Li, **ICLR’23**
+- [SIMPLE: Specialized Model-Sample Matching for Domain Generalization](https://seqml.github.io/simple/), **Z. Li**, K. Ren, X. Jiang, Y. Shen, H. Zhang, D. Li, **ICLR'23**
   - An alternative direction for domain generalization via efficiently leveraging a pool of pretrained models without fine-tuning.
 
-- [Towards Inference Efficient Deep Ensemble Learning](https://seqml.github.io/irene/), **Z. Li**, K. Ren, Y. Yang, X. Jiang, Y. Yang, D. Li, **AAAI‘23**
+- [Towards Inference Efficient Deep Ensemble Learning](https://seqml.github.io/irene/), **Z. Li**, K. Ren, Y. Yang, X. Jiang, Y. Yang, D. Li, **AAAI'23**
   - An inference efficient ensemble learning method to simultaneously optimize for both model effectiveness and efficiency in ensemble learning.
  
 - [Protecting the Future: Neonatal Seizure Detection with Spatial-Temporal Modeling](https://seqml.github.io/statenet/), **Z. Li**$^\dagger$, Y. Fang $^\dagger$, Y. Li, K. Ren, Y. Wang, X. Luo, J. Duan, C. Huang, D. Li, L. Qiu, **SMC'23**
