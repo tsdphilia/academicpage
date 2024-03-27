@@ -53,6 +53,7 @@ I am a first-year Ph.D. Student in Computer Science at the University of Marylan
 - *2023 - Present*, Ph.D. in Computer Science, University of Maryland.
 - *2019 - 2022*, M.S. in Computer Science, ShanghaiTech University.
 - *2015 - 2019*, B.Eng in Computer Science, ShanghaiTech University.
+- *2015 - 2019*, Minor in Finance, ShanghaiTech University.
 
 # 💻 Internships
 - *2022.06 - 2022.12*, Research Assistant, AI/ML group, Microsoft Research Asia, Shanghai, China.
