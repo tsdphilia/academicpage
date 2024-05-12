@@ -33,7 +33,9 @@ redirect_from:
  
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top undergraduateational AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
+# 📅 News
 
+* I will be visiting UCSD as an intern supervised by [Zhiting Hu](http://zhiting.ucsd.edu/) this summer!
 
 
 # 📝 Publications 
@@ -50,7 +52,7 @@ redirect_from:
 
     <p>Chen Lu, Shaofeng Li, <b>Benhao Huang</b>, Fan Yang, Yuan Luo </p>
 
-<p><b><a href="https://openreview.net/forum?id=Un868a0SCZ&referrer=%5Bthe%20profile%20of%20Benhao%20Huang%5D(%2Fprofile%3Fid%3D~Benhao_Huang1)"> ICML2024 (Under Review) </a></b></p>
+<p><b><a href="https://openreview.net/forum?id=Un868a0SCZ&referrer=%5Bthe%20profile%20of%20Benhao%20Huang%5D(%2Fprofile%3Fid%3D~Benhao_Huang1)"> In Submission </a></b></p>
 <p>Discovered that we can add a substantial amount of noise to the original image with little impact on the model’s classification accuracy, even when this noise is significant enough that it prevents us from classifying the image correctly as humans. 
 </p>
   </div>
@@ -140,6 +142,28 @@ redirect_from:
 
 
 # 📇 Experience
+
+<div class="paper-box-right">
+  <div class="paper-box-text">
+    <p>
+    Moonshot AI
+</p>
+
+
+    <p>Research Intern, <em>2024.3 - current</em></p>
+
+    <p>Advisor: <a href="https://github.com/floodsung">Flood Sung</a>,<a href="https://scholar.google.com/citations?user=0DqJ8eIAAAAJ">Yanan Zheng</a> </p>
+  </div>
+  <div class="paper-box-image">
+    <div>
+      <a href="[https://mvig-rhos.com/](https://www.moonshot.cn/)">
+      <img src="https://media.licdn.com/dms/image/D560BAQHwFiXHVZqcpA/company-logo_100_100/0/1704352802668?e=1723680000&v=beta&t=SiZAN757UtuJFa5CZ6N3esV0HeTZZtPG205Lm-XQVyY" alt="sym" width="80px" style="padding: 10px">
+      </a>
+    </div>
+  </div>
+</div>
+
+<br>
 
 <div class="paper-box-right">
   <div class="paper-box-text">
@@ -245,7 +269,8 @@ redirect_from:
   
   </center>
 
-<br>
+<be>
+Last Updated: 05/12/2024
 <br>
 
 
