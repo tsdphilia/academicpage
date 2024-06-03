@@ -82,7 +82,7 @@ Grass carp exhibited great adaptability to low salinity (2 ppt), with no signif
 
 # 💬 Invited Talks
 - *2024.06*, Effects of salinity on fish: From microbiota to muscle quality, The First Postgraduate Academic Achievements Exchange Report of Science Department of Sun Yat-sen University. 
-- *2023.10*,Effects of salinity on growth, physiology, biochemistry and gut microbiota of juvenile grass carp (*Ctenopharyngodon idella*), the 2nd Academic Forum Competition of School of Life Sciences.  \| [\[video\]](https://github.com/)
+- *2023.10*, Effects of salinity on growth, physiology, biochemistry and gut microbiota of juvenile grass carp (*Ctenopharyngodon idella*), the 2nd Academic Forum Competition of School of Life Sciences.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2023.04 - 2022.08*, Guangzhou Nansha aquatic park industry co, ltd. Guangzhou, China.
