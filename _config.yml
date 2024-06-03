@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Dingrui Liu (刘鼎瑞)"
-description              : " I am now a postgraduate student from Sun Yat-sen_University, majoring in Biology. My research interests primarily lie in the application of bioinformatics in animal breeding. I have participated in several relevant research  projects and published several articles during my postgraduate times. Looking forward, I will be a Ph.D. candidate at Westlake University in biology in Fall 2024. If you are interested in my work, please feel free to drop me an email.
-"
+description              : "Ph.D. candidate of Westlake University. Uncovering the secrets of life by coding and calculating."
 repository               : "LiuDingrui9/Dingrui.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Dingrui Liu (刘鼎瑞)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/dingruiliu.png"
   bio              : "Sun Yat-sen University"
-  location         : "Beijing, China"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "liudr5@mail2.sysu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Dingrui-Liu-2"
   uri              :
   bitbucket        :
   codepen          :
