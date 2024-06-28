@@ -19,6 +19,8 @@ redirect_from:
 
 Jiahui Wang is a Ph.D. student in Hospitality and Tourism Management - Isenberg School of Management at the University of Massachusetts, Amherst, USA. She completed her master's degree in the Department of Culture and Tourism Management, School of Management, Shandong University. Her research interests include quality of life, and tourists' behavior.
 
+Born and raised in Shangrao, Jiangxi. She loves music and badminton in her leisure time.
+
 # 🔥 News
 - *2022.09*: &nbsp;🎉🎉 Jiahui Wang is officially headed to UMass Amherst to purse her PhD in Hospitality and Tourism Management, Isenberg School of Management.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
