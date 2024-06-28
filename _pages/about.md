@@ -45,17 +45,17 @@ Jiahui Wang is a Ph.D. student in Hospitality and Tourism Management - Isenberg 
 
 ## 🖥️ Conferences
 
-- **Wang, J.**, Coyne, M., Lee, Y., Uysal, M. (2024). Global Insights on Scale Development Practice: Shaping Tourism Research. 54th Travel and Tourism Research Association Annual International Conference (TTRA), 11-13 June, Vermont, USA.
+- **Wang, J.**, Coyne, M., Lee, Y., Uysal, M. Global Insights on Scale Development Practice: Shaping Tourism Research. The 54th Travel and Tourism Research Association Annual International Conference (TTRA). Vermont, USA. Jun 11-13, 2024.
 
-- **Wang, J.**, Berbekova, A., Uysal, M., & Wang, S. Understanding the Interaction Between Narrative Transportation, Positive Emotions, and Tourists’ Life Satisfaction in Red Tourism Sites. The 28th Graduate Education and Graduate Student Research Conference in Hospitality and Tourism. California, USA. Jan 5-7, 2023. (Poster)
+- **Wang, J.**, Berbekova, A., Uysal, M., & Wang, S. Understanding the Interaction Between Narrative Transportation, Positive Emotions, and Tourists’ Life Satisfaction in Red Tourism Sites. The 28th Graduate Education and Graduate Student Research Conference in Hospitality and Tourism. California, USA. Jan 5-7, 2023. 
 
-- **Wang, J.** & Leung, X. How do Tourists Experience Happiness in Dark Tourism?. The 28th Graduate Education and Graduate Student Research Conference in Hospitality and Tourism. California, USA. Jan 5-7, 2023. (Paper)
+- **Wang, J.** & Leung, X. How do Tourists Experience Happiness in Dark Tourism?. The 28th Graduate Education and Graduate Student Research Conference in Hospitality and Tourism. California, USA. Jan 5-7, 2023. 
 
-- Wang, S., **Wang, J.**, Song, G., Wang, X. (2021). How tourists’ experience of value co-creation affects their green behavior: The mediating role of STE and QOL. 6th World Research Summit for Tourism and Hospitality, 14-15 December, Webinar. (Accepted)
+- Wang, S., **Wang, J.**, Song, G., Wang, X. How tourists’ experience of value co-creation affects their green behavior: The mediating role of STE and QOL. 6th World Research Summit for Tourism and Hospitality, Webinar. Dec 14-15, 2021. 
 
-- **Wang, J.**, Wang, X., Wang, S. (2021). Residents’ support for rural tourism:Community empowerment and QOL. 51st Travel and Tourism Research Association Annual International Conference (TTRA), 16-17 June, Webinar. https://scholarworks.umass.edu/ttra/2021/ (Runner-up for the Best Visual Paper Presented Awards)
+- **Wang, J.**, Wang, X., Wang, S. Residents’ support for rural tourism:Community empowerment and QOL. 51st Travel and Tourism Research Association Annual International Conference (TTRA), Webinar. Jun 16-17, 2021. https://scholarworks.umass.edu/ttra/2021/ (Runner-up for the Best Visual Paper Presented Awards)
 
-- **Wang, J.**, Wang, S. (2020). Residents’ attitude explained by emotional well-being, emotional solidarity the moderation of community attachment. APacCHRIE Conference 2020, 28 October, Webinar.
+- **Wang, J.**, Wang, S. Residents’ attitude explained by emotional well-being, emotional solidarity the moderation of community attachment. APacCHRIE Conference 2020, Webinar. Oct 28, 2020.
 
 # 💡 Projects
 
