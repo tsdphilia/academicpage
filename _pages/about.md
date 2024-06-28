@@ -17,42 +17,73 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+Jiahui Wang is a Ph.D. student in Hospitality and Tourism Management - Isenberg School of Management at the University of Massachusetts, Amherst, USA. She completed her master's degree in the Department of Culture and Tourism Management, School of Management, Shandong University. Her research interests include quality of life, and tourists' behavior.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09*: &nbsp;🎉🎉 Jiahui Wang is officially headed to UMass Amherst to purse her PhD in Hospitality and Tourism Management, Isenberg School of Management.
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📢 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 📝 Journal Papers 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Wang, S., Berbekova, A., Uysal, M., & **Wang, J.** (2022). Emotional Solidarity and Co-creation of Experience as Determinants of Environmentally Responsible Behavior: A Stimulus-Organism-Response Theory Perspective. [Journal of Travel Research, 00472875221146786.](https://doi.org/10.1177/00472875221146786)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- </div>
+</div> -->
+
+## 📖 Book Chapters
+
+- Berbekova, A., Wang, S., **Wang, J.**, Song, J., & Wang, X. Empowerment and support for tourism: giving control to the residents. (2023). In Uysal, M., Sirgy, J., & Kruger, S. (Eds.) Handbook of Tourism and Quality-of-Life Research II: Enhancing the Lives of Tourists and Residents of Host Communities. Cham: Springer.
+
+- **Wang, J.**, & Uysal, M. S. (2024). Quality of life and tourism experience. In Handbook of Experience Science (pp. 116-130). Edward Elgar Publishing.
+
+## 🖥️ Conferences
+
+- **Wang, J.**, Coyne, M., Lee, Y., Uysal, M. (2024). Global Insights on Scale Development Practice: Shaping Tourism Research. 54th Travel and Tourism Research Association Annual International Conference (TTRA), 11-13 June, Vermont, USA.
+
+- **Wang, J.**, Berbekova, A., Uysal, M., & Wang, S. Understanding the Interaction Between Narrative Transportation, Positive Emotions, and Tourists’ Life Satisfaction in Red Tourism Sites. The 28th Graduate Education and Graduate Student Research Conference in Hospitality and Tourism. California, USA. Jan 5-7, 2023. (Poster)
+
+- **Wang, J.** & Leung, X. How do Tourists Experience Happiness in Dark Tourism?. The 28th Graduate Education and Graduate Student Research Conference in Hospitality and Tourism. California, USA. Jan 5-7, 2023. (Paper)
+
+- Wang, S., **Wang, J.**, Song, G., Wang, X. (2021). How tourists’ experience of value co-creation affects their green behavior: The mediating role of STE and QOL. 6th World Research Summit for Tourism and Hospitality, 14-15 December, Webinar. (Accepted)
+
+- **Wang, J.**, Wang, X., Wang, S. (2021). Residents’ support for rural tourism:Community empowerment and QOL. 51st Travel and Tourism Research Association Annual International Conference (TTRA), 16-17 June, Webinar. https://scholarworks.umass.edu/ttra/2021/ (Runner-up for the Best Visual Paper Presented Awards)
+
+- **Wang, J.**, Wang, S. (2020). Residents’ attitude explained by emotional well-being, emotional solidarity the moderation of community attachment. APacCHRIE Conference 2020, 28 October, Webinar.
+
+# 💡 Projects
+
+- Quality of life research in hospitality and tourism: A bibliometric analysis and thematic content analysis. Muzaffer Uysal, Adiyukh Berbekova, **Jiahui Wang**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022 - Present* Isenberg School of Management Doctoral Assistantship
+- *2022 - Present* Isenberg School of Management Doctoral Travel Grant
+- *2021* Excellent Student Cadre (Awarded by Shandong University)
+- *2020* Runner-up for the Best Visual Paper Presented Awards (51st TTRA)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎓 Educations
+- *2022.09 - 2026.06*, University of Massachusetts Amherst. *Ph.D. in Hospitality & Tourism Management*
+- *2019.09 - 2022.06*, Shandong University. *Master in Tourism Management*
+- *2015.09 - 2019.06*, Central China Normal University. *Bachelor in Tourism Management*
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 👩‍🏫 Teaching
+
+- Instructor
+  - *Fall 2024* Tourism Policy and Planning
+  
+- Teaching Assistant
+  - *Spring 2024* HT-MGT 433 Tourism Policy and Planning, Prof. Muzzo Uysal
+  - *Spring 2024* SCH-MGMT 499F Applied Research Methods in Services Management, Prof. Muzzo Uysal
+  - *Spring 2024* HT-MGT 317 Casino Management, Prof. Albert Assaf
+  - *Fall 2023* SCH-MGMT 499E Applied Research Methods in Services Management, Prof. Muzzo Uysal
+  - *Fall 2023* HT-MGT 317 Casino Management, Prof. Albert Assaf
+  - *Spring 2023* HT-MGT 317 Casino Management, Prof. Albert Assaf
+  - *Fall 2022* HT-MGT 317 Casino Management, Prof. Albert Assaf
+  - *Fall 2022* HT-MGT 387 Information Technology and Social Media in Hospitality and Tourism Management, Prof. Irem Onder Neuhofer
