@@ -28,22 +28,21 @@ My research interest includes AI for health, with a methodology that involves di
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMRM 2024</div><img src='images/pj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitative MRI Reconstruction](https://arxiv.org/pdf/2401.12004)
 
 **Xinrui Jiang**, Yohan Jun, Jaejin Cho, Mengze Gao, Xingwang Yong, Berkin Bilgic
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Presentation**](https://www.youtube.com/watch?v=nFp378a-ygU) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We purposed NLCG-Net, a model-based learning framework informed by medical physics, which incorporates nonlinear conjugate gradient optimization and Neural Network iteratively and achieves zero-shot self-supervised quantitative MRI reconstruction. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2023.09* SuiWei Scholarship named by Weiqi Wang, Academician, Chinese Academy of Engineering (the first prize, top 1%).
+- *2022.12* The First Prize of the 14th Mathematics Competition of Chinese College Students in Shanghai
 - *2022.09* National Scholarship of Fudan University (top 1% at Fudan University).
 - *2021.12* The First Prize of the 13th Mathematics Competition of Chinese College Students in Shanghai
 
