@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic.
+I am a fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic. Prior to that, I was an undergraduate research assistant at <a href='https://www.fudanroilab.com/'>Fudanroilab, mentored by Dr.Qianyu Guo.
 
 My research interest includes AI for health, with a methodology that involves distilling specific challenges into rigorous formulations and designing tailored algorithms. I have worked on problem scenes such as inverse problems and MRI reconstruction, medical image analysis. For specific techniques, I have rigorous experiences in self-supervised learning and computer vision.
 
