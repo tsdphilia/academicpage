@@ -45,11 +45,11 @@ My research interest includes:
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2023* UT Austin Professional Development Awards
-- *2023* ASHG 2023 Charles Epstein Award Finalist (**18/over 1000**).
+- *2023* ASHG 2023 Charles Epstein Award Finalist (**18 / over 1000**).
 
 # 📖 Educations
 - *2022.06 - now*, PhD, The University of Texas at Austin. 
