@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+## Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinrui Jiang (蒋欣瑞)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  avatar           : "images/personal_img.jpg"
+  bio              : "Undergraduate student majoring in biomedical engineering at Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -48,9 +48,7 @@ author:
   pinterest        :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   vine             :
-  weibo            :
   xing             :
-  youtube          :
   wikipedia        :
 
 
