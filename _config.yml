@@ -9,6 +9,7 @@
 title                    : "Xinrui Jiang"
 description              : "Passionate about AI and its applications"
 repository               : "Xinrui-Jiang/xinrui_jiang.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
