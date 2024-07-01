@@ -19,7 +19,7 @@ redirect_from:
 
 I am a fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. Prior to that, I was an undergraduate research assistant at <a href='https://www.fudanroilab.com/'>Fudanroilab</a>, mentored by Dr.Qianyu Guo.
 
-My research interest lies in utilizing computational methods, especially AI, to solve complicated domain challenges. Sepecifically, I'm interested in distilling specific challenges into rigorous formulations, combining domain knowledge and designing tailored algorithms. I have worked on problem scenes such as Medical Image Analysis and Inverse Problem. Typical techniques I implement derives from self-supervised learning and computer vision.
+My research interest lies in developing computational methods, especially AI, to solve complicated domain challenges. Sepecifically, I'm interested in distilling specific challenges into rigorous formulations, combining domain knowledge and designing tailored algorithms. I have worked on problem scenes such as Medical Image Analysis and Inverse Problem. Typical techniques I implement derives from self-supervised learning and computer vision.
 
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 Fortunate to start my internship working on developing algorithms for Tiktok advertisement analysis and recommendation at Bytedance.
