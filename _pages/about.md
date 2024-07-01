@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a>. Prior to that, I was an undergraduate research assistant at <a href='https://www.fudanroilab.com/'>Fudanroilab</a>, mentored by Dr.Qianyu Guo.
+I am a fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. Prior to that, I was an undergraduate research assistant at <a href='https://www.fudanroilab.com/'>Fudanroilab</a>, mentored by Dr.Qianyu Guo.
 
-My research interest includes AI for health, with a methodology that involves distilling specific challenges into rigorous formulations and designing tailored algorithms. I have worked on problem scenes such as inverse problems and MRI reconstruction, medical image analysis. For specific techniques, I have rigorous experiences in self-supervised learning and computer vision.
-
+My research interest lies in utilizing computational methods, especially AI, to solve complicated domain challenges. Sepecifically, I'm interested in distilling specific challenges into rigorous formulations, combining domain knowledge and designing tailored algorithms. I have worked on problem scenes such as Medical Image Analysis and Inverse Problem. Typical techniques I implement derives from self-supervised learning and computer vision.
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Fortunate to start my internship at Tiktok/Bytedance. 
-- *2023.09*: &nbsp;🎉🎉 Glad to start my exchange study with ECE major at the University of Toronto. 
+- *2024.01*: &nbsp;🎉🎉 Fortunate to start my internship working on developing algorithms for Tiktok advertisement analysis and recommendation at Bytedance.
+- *2024.01*: &nbsp;🎉🎉 My first paper was accepted by ISMRM 2024 as digital poster.
+- *2023.09*: &nbsp;🎉🎉 Glad to start my exchange study at the University of Toronto majoring in ECE.
+- *2023.06*: &nbsp;🎉🎉 Formally start my summer research internship under supervision of Prof.Berkin Bilgic.
+- *2022.08*: &nbsp;🎉🎉 Worked out a project on Style Transfer for CSCI-S89 Deep Learning (graduate level) at Harvard summer school.
 
 # 📝 Publications 
 
