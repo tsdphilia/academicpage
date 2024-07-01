@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there 👋 I'm Liaoyi Xu a PhD candidate in UT Austin.
+Hi there 👋 I'm Liaoyi Xu, a PhD candidate in UT Austin.
 
 My research interest includes:
 
