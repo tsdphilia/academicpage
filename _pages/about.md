@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://vztu.github.io/'>Zhengzhong Tu</a> at TAMU and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. Prior to that, I was an undergraduate research student at <a href='https://www.fudanroilab.com/'>Fudanroilab</a>, mentored by Dr.Qianyu Guo.
+I am a fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://vztu.github.io/'>Zhengzhong Tu</a> at TAMU and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. Prior to that, I was an undergraduate research student at <a href='https://www.fudanroilab.com/'>Fudanroilab</a>, supervised by Professor Wenqiang Zhang.
 
 My research interest lies in developing computational methods, especially AI, to solve complicated domain challenges. Sepecifically, I'm interested in distilling specific challenges into rigorous formulations, combining domain knowledge and designing tailored algorithms. I have worked on problem scenes such as Imaging Neuroscience and Inverse Problem. Typical techniques I implement derives from self-supervised learning, computer vision and numerical optimization.
 
