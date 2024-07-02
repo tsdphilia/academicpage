@@ -26,6 +26,7 @@ My research interest lies in developing computational methods, especially AI, to
 - *2024.01*: &nbsp;🎉🎉 My first paper was accepted by ISMRM 2024 as digital poster.
 - *2023.09*: &nbsp;🎉🎉 Glad to start my exchange study at the University of Toronto majoring in ECE.
 - *2023.06*: &nbsp;🎉🎉 Formally start my summer research internship under supervision of Prof.Berkin Bilgic.
+- *2022.06*: &nbsp;🎉🎉 Start graduate course CSCI-S89 Introduction to Deep Learning study at Harvard Summer School.
 
 # 📝 Publications 
 
@@ -50,8 +51,8 @@ My research interest lies in developing computational methods, especially AI, to
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, Fudan University, GPA: 3.78/4.00 (top 1%)
-- *2023.09 - 2023.12*, University of Toronto, GPA: 3.9/4.0 
-- *2022.06 - 2022.8*, Harvard University Summer School, grade A+ for graudate course Introduction to Deep Learning
+- *2023.09 - 2023.12*, University of Toronto
+- *2022.06 - 2022.8*, Harvard University Summer School
 
 # 💻 Internships
 - *2024.01 - 2024.04*, [Tiktok (Bytedance)](https://www.bytedance.com/en/), China.
