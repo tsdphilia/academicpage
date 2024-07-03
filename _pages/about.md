@@ -26,6 +26,7 @@ My research interest includes bioinformatics and animal breeding. I have publish
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Won the **first-class award** of the 1st Academic Forum Competition of department of science, Sun Yat-sen University! 🎉🎉
+- *2024.06*: &nbsp;🎉🎉 Been awarded as the **outstanding graduates** of Sun Yat-sen University! 🎉🎉
 - *2024.05*: &nbsp;🎉🎉 Officially accept PhD offer from **Westlake University--SMART joint PhD programme**! 🎉🎉
 - *2024.05*: &nbsp;🎉🎉 Received PhD offer from **Westlake University--SMART joint PhD programme**! 🎉🎉
 - *2024.05*: &nbsp;🎉🎉 Received PhD offer from **University of Chinese Academy of Sciences--BGI joint PhD programme** as rank No.1! 🎉🎉
@@ -67,6 +68,8 @@ Grass carp exhibited great adaptability to low salinity (2 ppt), with no signif
 </div>
 
 # 🎖 Honors and Awards
+- *2024.06*: &nbsp;🎉🎉 the **first-class award** of the the 1st Academic Forum Competition of department of science, Sun Yat-sen University 🎉🎉
+- *2024.06*: &nbsp;🎉🎉 the **Outstanding Graduates** of Sun Yat-sen University 🎉🎉
 - *2023.12*: &nbsp;🎉🎉 the **first-class award** of the 2nd Academic Forum Competition of School of Life Sciences, Sun Yat-sen University 🎉🎉
 - *2023.10*: &nbsp;🎉🎉 the **National postgraduate schloaship** (TOP 1%) 🎉🎉
 - *2023.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
