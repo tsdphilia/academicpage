@@ -25,6 +25,7 @@ My research interest includes bioinformatics and animal breeding. I have publish
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Won the **first-class award** of the 1st Academic Forum Competition of department of science, Sun Yat-sen University! 🎉🎉
 - *2024.05*: &nbsp;🎉🎉 Officially accept PhD offer from **Westlake University--SMART joint PhD programme**! 🎉🎉
 - *2024.05*: &nbsp;🎉🎉 Received PhD offer from **Westlake University--SMART joint PhD programme**! 🎉🎉
 - *2024.05*: &nbsp;🎉🎉 Received PhD offer from **University of Chinese Academy of Sciences--BGI joint PhD programme** as rank No.1! 🎉🎉
