@@ -17,18 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Hao Liu (刘豪), and I am currently pursuing a PhD at Beihang University. My research areas include artificial intelligence, multi-agent systems, navigation and control, robotics and drones, as well as spacecraft swarms. Additionally, I have conducted research in finance and blockchain, game theory, and economics. If you are interested in any form of academic collaboration, please feel free to email me at <a href="mailto:lh@computer.org">lh@computer.org</a>.
+My name is Hao Liu (刘豪), and I am currently pursuing a PhD at Beihang University. My research areas include artificial intelligence, cyberspace security, multi-agent systems, navigation and control, robotics and drones, as well as spacecraft swarms. Additionally, I have conducted research in finance and blockchain, game theory, and economics. If you are interested in any form of academic collaboration, please feel free to email me at <a href="mailto:lh@computer.org">lh@computer.org</a>.
 
 # 📝 Papers 
+- *PointAdaptNet: Progressing Across Domains through Novel Self-Supervised Learning on Point Clouds*
 - *Cybersecurity for artificial intelligence in operations and supply chains: A theoretical framework based on a systematic literature review*
 - *Design and Implementation of a Crowd Sensing Multi-task Allocation System*
 - *Research on the Status and Development of Regional Integration: A Case Study of the Guangdong-Hong Kong-Macao Greater Bay Area*
 - *Study on the Formalized Development of the Street Stall Economy-based on Domestic and International Experiences and Perspective*
-
-# 🎖 Related Links
-- [GitHub](https://github.com/Akibaru)
-- [Kaggle](https://www.kaggle.com/asunay)
-- [Hugging Face](https://huggingface.co/Asuna-Yuuki)
 
 # 📖 Educations
 - *2024.05 - Present*, PhD in Cyberspace Security, Hangzhou International Innovation Institute, Beihang University, China.
