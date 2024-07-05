@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Hao Liu (刘豪), and I am currently pursuing a PhD at Beihang University. My research areas include artificial intelligence, cyberspace security, multi-agent systems, navigation and control, robotics and drones, as well as spacecraft swarms. Additionally, I have conducted research in finance and blockchain, game theory, and economics. If you are interested in any form of academic collaboration, please feel free to email me at <a href="mailto:lh@computer.org">lh@computer.org</a>.
+My name is Hao Liu (刘豪), and I am currently pursuing a PhD at the Hangzhou International Innovation Institute, Beihang University. I am based in both Hangzhou and Beijing, China. My research areas include artificial intelligence, cyberspace security, multi-agent systems, navigation and control, robotics and drones, and spacecraft swarms. Additionally, I have conducted research in finance and blockchain, game theory, and economics. If you are interested in academic collaboration, please feel free to email me at <a href="mailto:lh@computer.org">lh@computer.org</a>.
 
 # 📝 Papers 
 - *PointAdaptNet: Progressing Across Domains through Novel Self-Supervised Learning on Point Clouds*
