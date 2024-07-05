@@ -30,8 +30,8 @@ My name is Hao Liu (刘豪), and I am currently pursuing a PhD at the Hangzhou I
 - *2024.05 - Present*, PhD in Cyberspace Security, Hangzhou International Innovation Institute, Beihang University, China.
 - *2021.10 - 2022.11*, MSc in International Technology Management, WMG, the University of Warwick, United Kingdom.
 - *2017.09 - 2021.06*, BEng in Software Engineering, School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications, China.
-- *2023.01 - Present (Part-time)*, MBA & MSc student in Big Data and Business Intelligence, ENEB & the University Isabel I of Spain, Online.
-- *2022.09 - Present (Part-time)*, BA student in Chinese Language and Literature, the Open University of China, Online.
+- *2023.01 - Present (Part-time)*, MBA & MSc in Big Data and Business Intelligence, ENEB & the University Isabel I of Spain, Online.
+- *2022.09 - Present (Part-time)*, BA in Chinese Language and Literature, the Open University of China, Online.
 
 # 💻 Internships
 - *2023.03 - 2023.05*, [China Academy of Launch Vehicle Technology](http://calt.com/), Beijing, China.
