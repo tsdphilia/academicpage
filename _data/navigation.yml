@@ -3,20 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Recent Wworks"
-    url: "/#-recent-works"
-
   - title: "Papers"
     url: "/#-papers"
-
-  - title: "Related Links"
-    url: "/#-related-links"
 
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Internships"
     url: "/#-internships"
-
-  - title: "Society Members"
-    url: "/#-society-members"
