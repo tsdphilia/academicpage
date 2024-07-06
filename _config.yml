@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D. candidate of Department of Computing"
   location         : "Hong Kong"
-  employer         : "Hong Kong Polytechnic University"
+  employer         : #"Hong Kong Polytechnic University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n4rWRCYAAAAJ"
   email            : "wilsonlu0410@gmail.com"
