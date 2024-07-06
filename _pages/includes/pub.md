@@ -13,4 +13,7 @@
 </div>
 </div>
 
+- <b> Rui Lu* </b>, S. Shi*, D. Wang, C. Hu, and B. Zhang, "[Preva: Protecting Inference Privacy through Policy-based Video-frame Transformation](https://ieeexplore.ieee.org/abstract/document/9996786)", in Proceedings of <u><i> the 7th IEEE/ACM Symposium on Edge Computing (SEC'22)</i></u>, Seattle, WA, US, Dec., 2022.
+- **Rui Lu**, C. Hu, D. Wang, and J. Zhang, "[Gemini: a Real-time Video Analytics System with Dual Computing Resource Control](https://ieeexplore.ieee.org/abstract/document/9996757)", in Proceedings of <u><i> the 7th IEEE/ACM Symposium on Edge Computing (SEC'22)</i></u>, Seattle, WA, US, Dec., 2022.
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
