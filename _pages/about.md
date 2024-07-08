@@ -20,7 +20,7 @@ redirect_from:
 Hi there! My name is Liyi(Shelley) Xu许立怡, which is pronunced as Hsu-Lee-Yee. I'm a gradute student from [Master of Educational Technology & Applied Learning Science](https://metals.hcii.cmu.edu/), [Carnegie Mellon University](https://cmu.edu/), affilitated with the [HCI Institute at School of Computer Science](https://hcii.cmu.edu/). My research interest includes AI-enabled learning experiences, Accessibility, AR/VR, Social Computing, Design Research and User Experience.
 I am very fortunate to be advised by [Prof. Vincent Aleven](https://scholar.google.com/citations?user=ztkfnCsAAAAJ&hl=en&oi=ao) of [LearnLab](https://learnlab.org/) from HCII CMU.
 
-You can find my CV here: [Liyi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Liyi Shelley Xu's Curriculum Vitae](assets/Liyi Shelley Xu-CV.pdf).
 
 [Email](mailto:liyix@andrew.cmu.edu) / [Github](https://github.com/xuliyi0112) / [Wechat](../images/wechat.jpg) 
 
