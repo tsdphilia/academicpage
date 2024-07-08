@@ -39,7 +39,10 @@ You can find my CV here: [Liyi Shelley Xu's Curriculum Vitae](../assets/Liyi She
 Jingze Tian\*, Yingna Wang\*, Keye Yu, **Liyi Xu**, Junan Xie, Franklin Mingzhe Li, Yafeng Niu, and Mingming Fan.
 
 [**Project**](https://dl.acm.org/doi/10.1145/3613904.3642884) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Our research will contribute to creating better gesture-based input methods for people with motor impairments to interact with VR. 
+- Our research will contribute to creating better gesture-based input methods for people with motor impairments to interact with VR.
+
+
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese CHI 2023</div><img src='images/hai.png' alt="sym" width="100%"></div></div>
