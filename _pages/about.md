@@ -39,7 +39,7 @@ You can find my CV here: [Liyi Shelley Xu's Curriculum Vitae](../assets/Liyi She
 Jingze Tian\*, Yingna Wang\*, Keye Yu, **Liyi Xu**, Junan Xie, Franklin Mingzhe Li, Yafeng Niu, and Mingming Fan.
 
 [**Project**](https://dl.acm.org/doi/10.1145/3613904.3642884) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-#- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Our research will contribute to creating better gesture-based input methods for people with motor impairments to interact with VR. 
 </div>
 </div>
 
@@ -50,7 +50,8 @@ Jingze Tian\*, Yingna Wang\*, Keye Yu, **Liyi Xu**, Junan Xie, Franklin Mingzhe 
 
 Yuru Huang, **Liyi Xu**, You Zhou, Qiongyan Chen, Zhiqing Wu, Li Feng, Mingming Fan.
 
-[**Project**](https://dl.acm.org/doi/10.1145/3629606.3629658) An AR REMOTE CO-COOKING system to innovate and strengthen intergenerational communication among family members, combining the characteristics of traditional Chinese food culture. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://dl.acm.org/doi/10.1145/3629606.3629658) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- An AR REMOTE CO-COOKING system to innovate and strengthen intergenerational communication among family members, combining the characteristics of traditional Chinese food culture. 
 </div>
 </div>
 
