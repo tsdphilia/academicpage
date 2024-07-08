@@ -50,11 +50,11 @@ You can find my CV here: [Liyi's Curriculum Vitae](../assets/Curriculum_Vitae.pd
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2024.08 - 2025.08 (expected)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2020.09 - 2024.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - 2025.08 (expected)*, Master of Educational Technology and Applied Learning Sciences at Carnegie Mellon University, School of Computer Science
+- *2020.09 - 2024.06*, B.F.A in Visual Communication Design | Specialization in Digital Media Arts at Nanjing University of the Arts, School of Design.
 
 # 💬 Invited Talks
-- *2021.06*, Master of Educational Technology and Applied Learning Sciences at Carnegie Mellon University, School of Computer Science
-- *2021.03*, B.F.A in Visual Communication Design | Specialization in Digital Media Arts at Nanjing University of the Arts, School of Design.
+- *2021.06*, 
+- *2021.03*, 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
