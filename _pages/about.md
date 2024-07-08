@@ -71,13 +71,45 @@ Yuru Huang, **Liyi Xu**, You Zhou, Qiongyan Chen, Zhiqing Wu, Li Feng, Mingming 
 - *2022.03 - 2022.06*, UX & Visual Design Intern @ URBAN CONSTRUCTION TUNNEL & BRIDGE, China.
 - *2021.12 - 2021.07*, Visual Design & Curatorial Intern @ BANANA Art Space & AMNUA, China
 
-</div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            min-height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .content {
+            flex: 1;
+            text-align: center;
+            padding: 20px;
+        }
+        .footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #f0f0f0;
+        }
+    </style>
+    <title>居中显示</title>
+</head>
 <body>
-  <div class='content'>
-© 2024 Liyi Shelley Xu. All rights reserved.
-    <div class='push'></div>
-  </div>
-  <div class='footer'></div>
+    <div class='content'>
+        <hr>
+        <p>© 2024 Liyi Shelley Xu. All rights reserved.</p>
+        <div class='push'></div>
+    </div>
+    <div class='footer'>
+        <p>Footer © 2024 Liyi Shelley Xu. All rights reserved.
+</p>
+    </div>
 </body>
+</html>
+
+
 
