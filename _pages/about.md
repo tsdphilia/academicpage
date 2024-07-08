@@ -105,7 +105,6 @@ Yuru Huang, **Liyi Xu**, You Zhou, Qiongyan Chen, Zhiqing Wu, Li Feng, Mingming 
         <div class='push'></div>
     </div>
     <div class='footer'>
-        <p>Footer © 2024 Liyi Shelley Xu. All rights reserved.
 </p>
     </div>
 </body>
