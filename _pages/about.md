@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm a gradute student from [Master of Educational Technology & Applied Learning Science](https://metals.hcii.cmu.edu/), [Carnegie Mellon University](https://cmu.edu/), affilitated with the [HCI Institute at School of Computer Science] (https://hcii.cmu.edu/). My research interest includes AI-enabled learning experiences, Accessibility, AR/VR, Social Computing, Design Research and User Experience.
-
 I am very fortunate to be advised by [Prof. Vincent Aleven](https://scholar.google.com/citations?user=ztkfnCsAAAAJ&hl=en&oi=ao) of [LearnLab] from HCII CMU(https://learnlab.org/).
 
 You can find my CV here: [Liyi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
@@ -27,8 +26,8 @@ You can find my CV here: [Liyi's Curriculum Vitae](../assets/Curriculum_Vitae.pd
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 I joined the TEA Lab directed by Prof. Maitraye Das at Northeastern University, and began my research journey at Carnegie Mellon University!
+- *2024.06*: &nbsp;🎉🎉 I received my BFA degree from Nanjing University of the Arts with 'distinguished undergraduate award'! 
 
 # 📝 Publications 
 
@@ -51,12 +50,11 @@ You can find my CV here: [Liyi's Curriculum Vitae](../assets/Curriculum_Vitae.pd
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - 2025.08 (expected)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+- *2021.06*, Master of Educational Technology and Applied Learning Sciences at Carnegie Mellon University, School of Computer Science
+- *2021.03*, B.F.A in Visual Communication Design | Specialization in Digital Media Arts at Nanjing University of the Arts, School of Design.
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
