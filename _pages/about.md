@@ -52,6 +52,8 @@ Yuru Huang, **Liyi Xu**, You Zhou, Qiongyan Chen, Zhiqing Wu, Li Feng, Mingming 
 
 [**Project**](https://dl.acm.org/doi/10.1145/3629606.3629658) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An AR REMOTE CO-COOKING system to innovate and strengthen intergenerational communication among family members, combining the characteristics of traditional Chinese food culture. 
+</div>
+</div>
 
 # 🏅 Honors and Awards
 - *2024.04* **Muse Design Award in Product Design - Educational Tools**, Honored with Silver Award among Professional Group, invited and reported the interview.
@@ -70,8 +72,3 @@ Yuru Huang, **Liyi Xu**, You Zhou, Qiongyan Chen, Zhiqing Wu, Li Feng, Mingming 
 - *2022.05 - 2022.08*, UX & Visual Design Intern @ Nanjing Sunsite Advertising CO., Ltd., China.
 - *2022.03 - 2022.06*, UX & Visual Design Intern @ URBAN CONSTRUCTION TUNNEL & BRIDGE, China.
 - *2021.12 - 2021.07*, Visual Design & Curatorial Intern @ BANANA Art Space & AMNUA, China
-
-
-
-
-
