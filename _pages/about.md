@@ -46,15 +46,19 @@ Jingze Tian*, Yingna Wang*, Keye Yu, **Liyi Xu**, Junan Xie, Franklin Mingzhe Li
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2024.04* Muse Design Award in Product Design - Educational Tools, Honored with Silver Award among Professional Group, invited and reported the interview.
+- *2023.06* The 18th Challenge Cup College Student Curricular Academic Science of China, Group project: Selected from over 30,000 projects to become one of the 446 finalists and won the second prize.
+- *2023.01* Honor for top 7 among 12000+ students with the title of most distinguishedStudent, also received a $1100 scholarship for outstanding comprehensive accomplishments.
+  
 # 📖 Educations
 - *2024.08 - 2025.08 (expected)*, Master of Educational Technology and Applied Learning Sciences at Carnegie Mellon University, School of Computer Science
 - *2020.09 - 2024.06*, B.F.A in Visual Communication Design, Specialization in Digital Media Arts at Nanjing University of the Arts, School of Design.
 
 # 💬 Invited Talks
-- *2021.06*, 
-- *2021.03*, 
+- *2024.06*, I was invited by my undergraduate school, Nanjing University of the Arts, to give speech on past learning experience towards 'Distinguished Undergraduate student' and have networking session at the Activity Center!
+
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.02 - 2023.05*, UX & Service Design Intern @ Bosch (China) Investment Ltd., China.
+- *2022.05 - 2022.08*, UX & Visual Design Intern @ Nanjing Sunsite Advertising CO., Ltd., China.
+- *2022.03 - 2022.06*, UX & Visual Design Intern @ URBAN CONSTRUCTION TUNNEL & BRIDGE, China.
+- *2021.12 - 2021.07*, Visual Design & Curatorial Intern @ BANANA Art Space & AMNUA, China
