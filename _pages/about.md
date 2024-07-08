@@ -50,7 +50,7 @@ Jingze Tian\*, Yingna Wang\*, Keye Yu, **Liyi Xu**, Junan Xie, Franklin Mingzhe 
 
 Yuru Huang, **Liyi Xu**, You Zhou, Qiongyan Chen, Zhiqing Wu, Li Feng, Mingming Fan.
 
-[**Project**]((https://dl.acm.org/doi/10.1145/3629606.3629658) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://dl.acm.org/doi/10.1145/3629606.3629658)An AR REMOTE CO-COOKING system to innovate and strengthen intergenerational communication among family members, combining the characteristics of traditional Chinese food culture. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
