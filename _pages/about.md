@@ -54,7 +54,6 @@ Yuru Huang, **Liyi Xu**, You Zhou, Qiongyan Chen, Zhiqing Wu, Li Feng, Mingming 
 </div>
 </div>
 
-#- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2024.04* **Muse Design Award in Product Design - Educational Tools**, Honored with Silver Award among Professional Group, invited and reported the interview.
