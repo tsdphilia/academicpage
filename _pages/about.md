@@ -46,9 +46,9 @@ Jingze Tian*, Yingna Wang*, Keye Yu, **Liyi Xu**, Junan Xie, Franklin Mingzhe Li
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024.04* Muse Design Award in Product Design - Educational Tools, Honored with Silver Award among Professional Group, invited and reported the interview.
-- *2023.06* The 18th Challenge Cup College Student Curricular Academic Science of China, Group project: Selected from over 30,000 projects to become one of the 446 finalists and won the second prize.
-- *2023.01* Honor for top 7 among 12000+ students with the title of most distinguishedStudent, also received a $1100 scholarship for outstanding comprehensive accomplishments.
+- *2024.04* **Muse Design Award in Product Design - Educational Tools**, Honored with Silver Award among Professional Group, invited and reported the interview.
+- *2023.06* **The 18th Challenge Cup College Student Curricular Academic Science of China, Group project**: Selected from over 30,000 projects to become one of the 446 finalists and won the second prize.
+- *2023.01* **Liu Haisu Scholarship, NUA (top 0.06%, highest honor at NUA)**, Honor for top 7 among 12000+ students with the title of most distinguishedStudent, also received a $1100 scholarship for outstanding comprehensive accomplishments.
   
 # 📖 Educations
 - *2024.08 - 2025.08 (expected)*, Master of Educational Technology and Applied Learning Sciences at Carnegie Mellon University, School of Computer Science
