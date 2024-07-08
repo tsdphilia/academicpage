@@ -74,5 +74,4 @@ Yuru Huang, **Liyi Xu**, You Zhou, Qiongyan Chen, Zhiqing Wu, Li Feng, Mingming 
 - *2022.03 - 2022.06*, UX & Visual Design Intern @ URBAN CONSTRUCTION TUNNEL & BRIDGE, China.
 - *2021.12 - 2021.07*, Visual Design & Curatorial Intern @ BANANA Art Space & AMNUA, China
 
-<!-- START FOOTER -->
-<!-- END FOOTER -->
+
