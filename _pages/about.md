@@ -56,7 +56,7 @@ Yuru Huang, **Liyi Xu**, You Zhou, Qiongyan Chen, Zhiqing Wu, Li Feng, Mingming 
 </div>
 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2024.04* **Muse Design Award in Product Design - Educational Tools**, Honored with Silver Award among Professional Group, invited and reported the interview.
 - *2023.06* **The 18th Challenge Cup College Student Curricular Academic Science of China, Group project**: Selected from over 30,000 projects to become one of the 446 finalists and won the second prize.
 - *2023.01* **Liu Haisu Scholarship, NUA (top 0.06%, highest honor at NUA)**, Honor for top 7 among 12000+ students with the title of most distinguishedStudent, also received a $1100 scholarship for outstanding comprehensive accomplishments.
