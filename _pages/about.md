@@ -43,14 +43,14 @@ Jingze Tian\*, Yingna Wang\*, Keye Yu, **Liyi Xu**, Junan Xie, Franklin Mingzhe 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/hai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese CHI 2023</div><img src='images/hai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Toward Leveraging Augmented Reality (AR) for Enhancing Remote Intergenerational Communication in Cooking Scenarios](https://dl.acm.org/doi/pdf/10.1145/3629606.3629658)
 
 Yuru Huang, **Liyi Xu**, You Zhou, Qiongyan Chen, Zhiqing Wu, Li Feng, Mingming Fan.
 
-[**Project**](https://dl.acm.org/doi/10.1145/3629606.3629658)An AR REMOTE CO-COOKING system to innovate and strengthen intergenerational communication among family members, combining the characteristics of traditional Chinese food culture. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://dl.acm.org/doi/10.1145/3629606.3629658) An AR REMOTE CO-COOKING system to innovate and strengthen intergenerational communication among family members, combining the characteristics of traditional Chinese food culture. <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
