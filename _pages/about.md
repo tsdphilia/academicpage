@@ -74,4 +74,35 @@ Yuru Huang, **Liyi Xu**, You Zhou, Qiongyan Chen, Zhiqing Wu, Li Feng, Mingming 
 - *2022.03 - 2022.06*, UX & Visual Design Intern @ URBAN CONSTRUCTION TUNNEL & BRIDGE, China.
 - *2021.12 - 2021.07*, Visual Design & Curatorial Intern @ BANANA Art Space & AMNUA, China
 
-
+ 1 <!DOCTYPE html>
+ 2 <html>
+ 3     <head>
+ 4         <meta charset="utf-8">
+ 5         <title>footer需要固定在底部</title>
+ 6         <style type="text/css">
+ 7             html,body{font-size: 14px;font-family: "微软雅黑";text-align: center;width: 100%;height: 100%;min-height: 100%;border:0;line-height: none;}
+ 8             p{border: 0;margin: 0;padding: 0;line-height: none;}
+ 9             body{padding:0px; margin:0px ;}
+10             .container{position:relative;height: auto;min-height: 100%;margin: 0}
+11             .container .header{height: 100px;background: #0000FF;}
+12             .container .push{padding-bottom: 100px;}
+13             .footer{position:relative;height: 100px;margin-top:-100px;background: #0000FF;}
+14             
+15         </style>
+16     </head>
+17     <body>
+18         <div class="container">
+19             <div class="header">
+20                 <p>头部文本</p>
+21             </div>
+22             <div class="content">
+23                 <p>主体内容</p>
+24             </div>
+25             <div class="push"></div><!--push在此为footer占位，高度和footer的一样-->
+26         </div>
+27         <div class="footer">
+28             <p>底部文本</p>
+29         </div>
+30         
+31     </body>
+32 </html>
