@@ -31,7 +31,7 @@ You can find my CV here: [Liyi Shelley Xu's Curriculum Vitae](../assets/Liyi She
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/designub.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Designing Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR](https://dl.acm.org/doi/pdf/10.1145/3613904.3642884)
