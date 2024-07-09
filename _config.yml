@@ -12,7 +12,9 @@ repository               : "xuliyi0112/liyixu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  "G-RZPWCVTVFD"
+google_analytics_id      :  # Google Analytics
+ga_track_id: 'G-RZPWCVTVFD'            # Format: G-RZPWCVTVFD
+ga_domain: auto
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
