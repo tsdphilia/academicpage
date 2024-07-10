@@ -1,6 +1,5 @@
-
+Jianbin Wang - AcadHomepage
 <h1 align="center">
-AcadHomepage
 </h1>
 
 <div align="center">
