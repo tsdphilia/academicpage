@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Jianbin Wang"
 excerpt: ""
 author_profile: true
 redirect_from: 
