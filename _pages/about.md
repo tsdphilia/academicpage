@@ -24,8 +24,10 @@ Wang jianbin is studying at the State Key Laboratory of Grassland Agro-ecosystem
 At present, he mainly discusses the mechanism for the production, oxidation, transmission and release process of greenhouse gases in the alpine wetland ecosystems, especially during spring-thawing and autumn-freezing season.
 
 # 🧐 Research Interests：
-  Methane
-  Freezing and thawing
+  Climate Change;
+  Methane;
+  Freezing and Thawing.
+  
 
 # 🎓 Education
 
@@ -41,19 +43,7 @@ Lanzhou University, Lanzhou, China.
 B.S. (2015–2019) | Grassland Science
 Lanzhou University, Lanzhou, China.
 
-# 📝 Publications
-
-
-# 📖 Collaborations
-
-
 # 🏅 Fellowships & Awards
-
-
-# 🏛️ Presentations & Posters
-
-
-# 🤝 Service
 
 
 # 🦾 Skills & Expertise
