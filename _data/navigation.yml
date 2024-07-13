@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: "/publications"
 
-  - title: "Service"
-    url: "/servics"
+  - title: "Services"
+    url: "/services"
 
   - title: "Activities"
     url: "/activities"    
