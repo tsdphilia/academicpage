@@ -10,6 +10,3 @@ author_profile: true
 <pr>
 
 **🖨️ Posters**
-
-<pr>
-
