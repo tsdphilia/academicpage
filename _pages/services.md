@@ -1,7 +1,7 @@
 ---
-permalink:/services
-title:"Services"
-excerpt:""
+permalink: /services
+title: "Services"
+excerpt: ""
 author_profile: true
 ---
 
