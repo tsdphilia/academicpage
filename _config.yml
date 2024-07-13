@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jianbin Wang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lanzhou University"
+  avatar           : "images/王健斌.jpg"
+  bio              : "Grassland Research"
   location         : "Lanzhou, China"
   employer         :
   pubmed           : 
@@ -42,7 +42,8 @@ author:
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  lastfm
+           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0001-8651-5886"
