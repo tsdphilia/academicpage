@@ -19,7 +19,7 @@ redirect_from:
 
 # Jianbin Wang (王健斌)
 
-Wang jianbin is studying at the State Key Laboratory of Herbage Improvement and Grassland Agro-ecosystems, Lanzhou University. He wants to explore the carbon cycling in wetland ecosystems on the Tibetan plateau. 
+Jianbin Wang is studying at the State Key Laboratory of Herbage Improvement and Grassland Agro-ecosystems, Lanzhou University. He wants to explore the carbon cycling in wetland ecosystems on the Tibetan plateau. 
 
 At present, he mainly discusses the mechanism for the production, oxidation, transmission and release process of greenhouse gases in the alpine wetland ecosystems, especially during spring-thawing and autumn-freezing season.
 
