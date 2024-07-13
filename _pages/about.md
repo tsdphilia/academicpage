@@ -26,7 +26,7 @@ At present, he mainly discusses the mechanism for the production, oxidation, tra
 # 🧐 Research Interests：
   - Climate Change;
   - Methane;
-  - Freezing and Thawing.
+  - Seasonal Freezing and Thawing.
   
 
 # 🎓 Education
