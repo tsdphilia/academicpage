@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianbin Wang"
-description              : "Lanzhou University"
+description              : "<p>PhD Candidate<br>Grassland Science</p>"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jianbin Wang"
   avatar           : "images/jianbinpage2.png"
-  bio              : "<p>PhD Candidate<br>Grassland Science</p>"
+  bio              : "Lanzhou University"
   location         : "Lanzhou, China"
   employer         :
   pubmed           : 
