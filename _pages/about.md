@@ -31,18 +31,18 @@ At present, he mainly discusses the mechanism for the production, oxidation, tra
 
 # 🎓 Education
 
-**Ph.D. (2022–) | Grassland Science** <br>
-Lanzhou University, Lanzhou, China.
-
-**Visiting Student (202301–202304)** <br>
-University of Helsinki, Helsinki, Finland.
-
-**M.S. (2019–2022) | Grassland Science** <br>
-Lanzhou University, Lanzhou, China.
-
-**B.S. (2015–2019) | Grassland Science** <br>
-Lanzhou University, Lanzhou, China.
-
+  **Ph.D. (2022–) | Grassland Science** <br>
+  Lanzhou University, Lanzhou, China.
+<br>
+  **Visiting Student (202301–202304)** <br>
+  University of Helsinki, Helsinki, Finland.
+<br>
+  **M.S. (2019–2022) | Grassland Science** <br>
+  Lanzhou University, Lanzhou, China.
+<br>
+  **B.S. (2015–2019) | Grassland Science** <br>
+  Lanzhou University, Lanzhou, China.
+<br>
 # 🏅 Fellowships & Awards
  
 <br>
