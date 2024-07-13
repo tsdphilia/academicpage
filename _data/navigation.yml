@@ -3,26 +3,13 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Research Interests"
-    url: "/#-Research Interests"
-
-  - title: "Education"
-    url: "/#-Education"
-
   - title: "Publications"
-    url: "/#-Publications"
-
-  - title: "Collaborations"
-    url: "/#-Collaborations"
-
-  - title: "Fellowships & Awards"
-    url: "/#-Fellowships & Awards"
-
-  - title: "Presentations & Posters"
-    url: "/#-Presentations & Posters"
+    url: "/#-publications"
 
   - title: "Service"
-    url: "/#-Servics"
-     
-  - title: "Skills & Expertise"
-    url: "/#-Skills & Expertise"
+    url: "/#-servics"
+
+  - title: "Activities"
+    url: "/#-activities"    
+
+    
