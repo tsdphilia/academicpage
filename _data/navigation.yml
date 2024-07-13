@@ -6,17 +6,23 @@ main:
   - title: "Research Interests"
     url: "/#-Research Interests"
 
+  - title: "Education"
+    url: "/#-Education"
+
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-Publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Collaborations"
+    url: "/#-Collaborations"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Fellowships & Awards"
+    url: "/#-Fellowships & Awards"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Presentations & Posters"
+    url: "/#-Presentations & Posters"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Service"
+    url: "/#-Servics"
+     
+  - title: "Skills & Expertise"
+    url: "/#-Skills & Expertise"
