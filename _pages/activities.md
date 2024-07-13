@@ -1,6 +1,6 @@
 ---
-permalink: /blog/
-title: "Blog"
+permalink: /activities
+title: "Activities"
 excerpt: ""
 author_profile: true
 ---
