@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Jianbin Wang (王健斌)
+# Jianbin Wang (王健斌)  <a href='https://scholar.google.com/citations?user=YXUc9QMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 
 Jianbin Wang is studying at the State Key Laboratory of Herbage Improvement and Grassland Agro-ecosystems, Lanzhou University. He wants to explore the carbon cycling in wetland ecosystems on the Tibetan plateau. 
 
 At present, he mainly discusses the mechanism for the production, oxidation, transmission and release process of greenhouse gases in the alpine wetland ecosystems, especially during spring-thawing and autumn-freezing season.
 
+<br>
 # 🧐 Research Interests：
   - Climate Change;
   - Methane;
   - Seasonal Freezing and Thawing.
   
-
+<br>
 # 🎓 Education
 
   - **Ph.D. (2022–) | Grassland Science** <br>
@@ -43,7 +44,7 @@ At present, he mainly discusses the mechanism for the production, oxidation, tra
   - **B.S. (2015–2019) | Grassland Science** <br>
   Lanzhou University, Lanzhou, China.
   <br>
-  
+  <br>
 # 🏅 Fellowships & Awards
  
 <br>
