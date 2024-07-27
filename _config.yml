@@ -9,7 +9,7 @@
 title                    : "Jianbin Wang"
 description              : "<p>PhD Candidate<br>Grassland Science</p>"
 repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      : G-4R14D5X2XP # get google_analytics_id from https://analytics.google.com/analytics/
