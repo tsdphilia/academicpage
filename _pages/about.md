@@ -8,21 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 # ✌️ About me
-I am now a postgraduate student from [School of life science](https://lifesciences.sysu.edu.cn/),[Sun Yat-sen_University](https://www.sysu.edu.cn/), majoring in Biology. My research interests primarily lie in the application of bioinformatics in animal breeding. I have participated in several relevant research  projects and published several articles during my postgraduate times. Currently,I am working on projects related to genome-wide association study and transcriptome study on fish breeding. Looking forward, I will be a Ph.D. candidate at [Westlake University](https://www.westlake.edu.cn/) in [Westlake University--SMART joint PhD programme](https://www.westlake.edu.cn/admissions_aid/graduate/zsdt1/202403/t20240304_37512.shtml) beginning Fall 2024.You can find my CV here:[Dingrui's Curriculum Vitae](assets/LIUDINGRUI CV.pdf). If you are interested in my work, please feel free to drop me an email.
+I am now a Ph.D. candidate of [Westlake University--SMART joint PhD programme](https://www.westlake.edu.cn/admissions_aid/graduate/zsdt1/202403/t20240304_37512.shtml) at [Westlake University](https://www.westlake.edu.cn/) and [SMART]([https://www.westlake.edu.cn/](https://smart.org.cn/)). You can find my CV here:[Dingrui's Curriculum Vitae](assets/LIUDINGRUI CV.pdf). If you are interested in my work, please feel free to drop me an email.
 
-
-My research interest includes bioinformatics and animal breeding. I have published more than 10 papers at the top peer-reviewed journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interest lays broadly in Bioinformatics and Computational Biology.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Won the **first-class award** of the 1st Academic Forum Competition of department of science, Sun Yat-sen University! 🎉🎉
@@ -85,8 +76,8 @@ Grass carp exhibited great adaptability to low salinity (2 ppt), with no signif
 - *2017.09 - 2021.06*, Bachelor of Agriculture, South China Agrigulture University. School of Marine Science, majoring in aquaculture.
 
 # 💬 Invited Talks
-- *2024.06*, Effects of salinity on fish: From microbiota to muscle quality, The First Postgraduate Academic Achievements Exchange Report of Science Department of Sun Yat-sen University. 
-- *2023.10*, Effects of salinity on growth, physiology, biochemistry and gut microbiota of juvenile grass carp (*Ctenopharyngodon idella*), the 2nd Academic Forum Competition of School of Life Sciences.  \| [\[video\]](https://github.com/)
+- *2024.06*, Effects of salinity on fish: From microbiota to muscle quality, The First Postgraduate Academic Achievements Exchange Report of Science Department of Sun Yat-sen University.  \| [\[news\]]([https://github.com/](https://lifesciences.sysu.edu.cn/zh-hans/article/4646))
+- *2023.10*, Effects of salinity on growth, physiology, biochemistry and gut microbiota of juvenile grass carp (*Ctenopharyngodon idella*), the 2nd Academic Forum Competition of School of Life Sciences.  \| [\[news\]]([https://github.com/](https://lifesciences.sysu.edu.cn/zh-hans/article/2544))
 
 # 💻 Internships
 - *2023.04 - 2022.08*, Guangzhou Nansha aquatic park industry co, ltd. Guangzhou, China.
