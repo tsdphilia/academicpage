@@ -11,9 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ✌️ About me
-I am now a Ph.D. candidate of [Westlake University--SMART joint PhD programme](https://www.westlake.edu.cn/admissions_aid/graduate/zsdt1/202403/t20240304_37512.shtml) at [Westlake University](https://www.westlake.edu.cn/) and [SMART]([https://www.westlake.edu.cn/](https://smart.org.cn/)). You can find my CV here:[Dingrui's Curriculum Vitae](assets/LIUDINGRUI CV.pdf). If you are interested in my work, please feel free to drop me an email.
-
-My research interest lays broadly in Bioinformatics and Computational Biology.
+I am now a Ph.D. candidate of [Westlake University--SMART joint PhD programme](https://www.westlake.edu.cn/admissions_aid/graduate/zsdt1/202403/t20240304_37512.shtml) at [Westlake University](https://www.westlake.edu.cn/) and [SMART](https://smart.org.cn/). You can find my CV here:[Dingrui's Curriculum Vitae](assets/LIUDINGRUI CV.pdf). My previous research mainly focus on the application of bioinformatics in animal breeding. I have the background of processing sequencing data, analysis of transcriptome and GWAS, data visualization and wet experiment. My research interest now lays broadly in Bioinformatics and Computational Biology. My strength lies in my excellent command of English and my amiable personality, which empowers me to collaborate effectively with team members and achieve high productivity. If you are interested in my work, please feel free to drop me an email. 
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Won the **first-class award** of the 1st Academic Forum Competition of department of science, Sun Yat-sen University! 🎉🎉
