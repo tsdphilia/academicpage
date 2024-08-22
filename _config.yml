@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dingrui Liu (刘鼎瑞)"
-description              : "Ph.D. candidate of Westlake University. Uncovering the secrets of life by coding and calculating."
+description              : "A proud SMARTer."
 repository               : "LiuDingrui9/Dingrui.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dingrui Liu (刘鼎瑞)"
   avatar           : "images/dingruiliu.png"
-  bio              : "Sun Yat-sen University"
-  location         : "Guangzhou, China"
+  bio              : "SMART/Westlake University"
+  location         : "ShenZhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "liudr5@mail2.sysu.edu.cn"
+  email            : "liudingrui@smart.org.cn"
   researchgate     : "https://www.researchgate.net/profile/Dingrui-Liu-2"
   uri              :
   bitbucket        :
