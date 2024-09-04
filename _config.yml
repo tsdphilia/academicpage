@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jizhou Kang"
-  avatar           : "images/me.JPG"
+  avatar           : "images/me.png"
   bio              : "University of California, San Francisco"
   location         : "San Francisco, CA, USA"
   employer         :
