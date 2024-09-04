@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jizhou Kang (康济州)"
+  name             : "Jizhou Kang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of California, San Francisco"
   location         : "San Francisco, CA, USA"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : Jizhou Kang # e.g., "linkedin username"
+  linkedin         : jizhou-kang-78b179128 # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
