@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jizhou Kang"
-description              : "Jizhou Kang's Academic Homepage. "
+description              : "Postdoctoral Scholar, Department of Epidemiology & Biostatistics"
 repository               : "gzerokang/gzerokang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jizhou Kang"
   avatar           : "images/me.jpg"
-  bio              : "University of California, San Francisco"
+  bio              : "UC San Francisco"
   location         : "San Francisco, CA, USA"
   employer         :
   pubmed           : 
