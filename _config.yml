@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Liyi Shelley Xu （许立怡）"
-  avatar           : "profile1.png"
+  avatar           : "/images/profile1.png"
   bio              : "Carnegie Mellon University"
   location         : "Pittsburgh, United States"hua
   employer         :
