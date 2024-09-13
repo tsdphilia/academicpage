@@ -17,42 +17,105 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm currently a M.S. student at [Georgia Institute of Technology](https://www.shenzhen.gatech.edu/) and a research intern at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html). Previously, I received my B.E. degree from [Soochow University](https://www.suda.edu.cn/), in 2022. I am privileged to work closely with [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN) and [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN).  
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests are at the intersection of machine learning and real-world applications. Recently, I am focusing on:  
+* **Machine Learning and Data Mining**: Representation Learning, Transfer Learning, Information Retrieval.
+* **AI for Science**: LLM for Scientific Problems, Computational Biology, ML for Healthcare.
 
+**Email**: <u>fanzhang@gatech.edu</u> or <u>zfkarl1998@gmail.com</u>
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span style="color:red;">I am seeking a Ph.D. position starting from 2025 Fall. Feel free to contact me if you think I am a good fit.</span>
 
-# 📝 Publications 
+<h1 id='news'>News</h1>
+- *2024.08:* I start my internship at Tencent YouTu Lab.
+- *2024.06:* One paper is accepted by **TPAMI 2024** (First Author). 
+- *2024.05:* One paper is accepted by **TIP 2024** (First Author). 
+- *2024.03:* One paper is accepted by **NAACL 2024** (First Author). 
+- *2024.02:* One paper is accepted by **CVPR 2024** (First Author).  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<h1 id='publications'>Selected Publications</h1>
+
+For **full** publications, please refer to my [Google Scholar](https://scholar.google.com.hk/citations?user=KbC_-7cAAAAJ&hl=zh-CN&oi=ao).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI-HOPE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[HOPE: A Hierarchical Perspective for Semi-supervised 2D-3D Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10553262)  
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Fan Zhang**, Hang Zhou, Xian-Sheng Hua, Chong Chen, Xiao Luo  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024*  
+
+<span style="color:red;">*(CCF Rank A, JCR Q1, IF=23.6)*</span>  
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+---
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/TIP_FATE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[FATE: Learning Effective Binary Descriptors with Group Fairness](https://ieeexplore.ieee.org/document/10547662)  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+**Fan Zhang**, Chong Chen, Xian-Sheng Hua, Xiao Luo  
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+*IEEE Transactions on Image Processing (TIP), 2024*  
+
+<span style="color:red;">*(CCF Rank A, JCR Q1, IF=10.6)*</span>  
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/NAACL24_DEMO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DEMO: A Statistical Perspective for Efficient Image-Text Matching](https://arxiv.org/pdf/2405.11496)  
+
+**Fan Zhang**, Xian-Sheng Hua, Chong Chen, Xiao Luo  
+
+*North American Chapter of the Association for Computational Linguistics (NAACL), 2024*  
+
+<span style="color:red;">*(CCF Rank B)*</span>  
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24_FIVE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fine-grained Prototypical Voting with Heterogeneous Mixup for Semi-supervised 2D-3D Cross-modal Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Fine-grained_Prototypical_Voting_with_Heterogeneous_Mixup_for_Semi-supervised_2D-3D_Cross-modal_CVPR_2024_paper.pdf)  
+
+**Fan Zhang**, Xian-Sheng Hua, Chong Chen, Xiao Luo  
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*  
+
+<span style="color:red;">*(CCF Rank A)*</span>  
+</div>
+</div>
+
+
+<h1 id='experience'>Experience</h1>
+
+* *2024.08 -- Present:*          Research Intern, at [Tencent YouTu Lab](https://jarvislab.tencent.com/index-en.html).
+  
+* *2023.05 -- Present:*          Remote Research Intern, advised by [Xiao Luo](https://scholar.google.com.hk/citations?user=yJgX8agAAAAJ&hl=zh-CN)@UCLA.
+
+* *2022.07 -- 2024.04:*          Visiting Student, advised by [Xiaojiang Peng](https://scholar.google.com/citations?user=7oRD67kAAAAJ&hl=zh-CN)@SZTU.
+
+<h1 id='services'>Academic Services</h1>
+
+### Conference Reviewer / PC Member
+* International Conference on Learning Representations (ICLR), 2025  
+* Annual Conference on Neural Information Processing Systems (NeurIPS), 2024  
+* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024-2025  
+* Conference on Information and Knowledge Management (CIKM), 2024  
+* ACM Multimedia (MM), 2024  
+* Association for Computational Linguistics Rolling Review (ACL ARR), 2023  
+
+### Journal Reviewer
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
+* IEEE Transactions on Multimedia (TMM)  
+* PLOS ONE  
