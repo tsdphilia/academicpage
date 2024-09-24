@@ -29,7 +29,7 @@ You can find my CV here: [Liyi Shelley Xu's Curriculum Vitae](../assets/Liyi She
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/designub.png' alt="sym" width="100%"></div></div>
+*<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/designub.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Balancing Teacher and Student Agency: Control Distribution in Co-Orchestration Tools for Dynamically Combining Individual and Collaborative Learning Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’25) Under Review]
