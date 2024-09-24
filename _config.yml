@@ -6,13 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Liyi (Shelley) Xu"
+description              : "Since I was 4, I've been rocking the piano keys🎹, busting dance moves💃, and painting🎨. These hobbies are my life's secret sauce. If you can't find me at my desk, don't worry—I'm probably sweating it out at the gym🏋️‍♀️, throwing some punches in a boxing class🥊, or catching some rays on the golf course⛳️ (when the sun's not being a total diva, of course)! "
+repository               : "https://xuliyi0112.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # Google Analytics
+ga_track_id: 'G-RZPWCVTVFD'            # Format: G-RZPWCVTVFD
+ga_domain: auto
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Liyi Shelley Xu （许立怡）"
+  avatar           : "../assets/android-chrome-512x511212.png"
+  bio              : "Carnegie Mellon University"
+  location         : "Pittsburgh, United States"hua
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Xs_pDCgAAAAJ&hl=zh-CN"
+  email            : "liyix@andrew.cmu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +45,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "liyi-xu0112"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -136,7 +138,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
