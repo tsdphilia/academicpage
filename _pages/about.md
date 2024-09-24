@@ -33,6 +33,17 @@ You can find my CV here: [Liyi Shelley Xu's Curriculum Vitae](../assets/Liyi She
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/designub.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Balancing Teacher and Student Agency: Control Distribution in Co-Orchestration Tools for Dynamically Combining Individual and Collaborative Learning Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’25) Under Review]
+
+K Yang\*, M Liu\*, L Xu\*, N Rummel, V Aleven.
+
+[**Project**](https://dl.acm.org/doi/10.1145/3613904.3642884) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Our research will contribute to creating better gesture-based input methods for people with motor impairments to interact with VR.
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/designub.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Designing Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR](https://dl.acm.org/doi/pdf/10.1145/3613904.3642884)
 
 Jingze Tian\*, Yingna Wang\*, Keye Yu, **Liyi Xu**, Junan Xie, Franklin Mingzhe Li, Yafeng Niu, and Mingming Fan.
