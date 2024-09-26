@@ -17,42 +17,52 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now a first-year PhD student at the Nanyang Technological University, CCDS, supervised by Prof. [Mengmi Zhang](https://scholar.google.com/citations?user=G2sVOhcAAAAJ&hl=en).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am working as a research intern at Peking University, advised by Prof. [Li Yuan](https://www.ece.pku.edu.cn/info/1046/2678.htm).
 
+Before joining PKU, I have been an AI4Edu Algorithm Researcher and lead the developer team of [OpenXLab-Edu](https://xedu.readthedocs.io/zh/master/about/team.html) at Shanghai AI Lab in 2021-2023.
+
+🤔 My research interests include Multi-Modal Retrieval, AI4Science Tasks, and NeuronScience. I keep collobration with Dr. [Hao Li](https://scholar.google.com/citations?user=y4va91AAAAAJ&hl=en) and Dr. [Peng Jin](https://jpthu17.github.io/) on Multi-Modal Tasks, Dr. [Zhaokun Zhou](https://scholar.google.com/citations?user=4nz-h1QAAAAJ&hl=en&oi=ao) on Spiking Neural Network and Dr. [Xinyi Wu](https://riesummer.github.io/) on AI4Education. Specially, I aim to develop models with human reasoning capabilities and liberate human productivity.
+
+
+🤝 **Looking for collobration. If you are interested in working with me in AI tasks or AI4Sci tasks, please drop me an email.**
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *09/2024*: &nbsp;🎉🎉 1 paper is accepted by NIPS2024!
+- *07/2024*: &nbsp;🎉🎉 1 paper is accepted by ECCV2024!
+- *06/2024*: &nbsp;🎉🎉 1 paper is accepted by Nuclear Instruments and Methods in Physics Research, A!
+- *04/2024*: &nbsp;🎉🎉 1 paper is accepted by Sensors!
+- *03/2024*: &nbsp;🎉🎉 2 papers are accepted by Nuclear Science and Techniques!
+- **Reviewer Service**: ACM MM 2024, ECCV 2024 
 
-# 📝 Publications 
+# 📝 Publications <a href='https://scholar.google.com/citations?user=jQx7NpQAAAAJ&hl=en'>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- ``NIPS 2024`` [Spiking Transformer with Experts Mixture](), Zhaokun Zhou, Yijie Lu, **Yanhao Jia**, Kaiwei Che, Jun Niu, Liwei Huang, Xinyu Shi, Yuesheng Zhu, Guoqi Li, Zhaofei Yu, Li Yuan.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- ``ECCV 2024`` [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://arxiv.org/abs/2312.02428), Hao Li, **Yanhao Jia**, Peng Jin, Zesen Cheng, Kehan Li, Jialu Sui, Chang Liu, Li Yuan.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- ``Nuclear Science and Techniques`` [OML: An online multi-particle locating method for high-resolution single event effects studies](), **Yanhao Jia**, Jianwei Liao, Haibo Yang, Qihao Duan, Longjie Wang, Jiangyong Du, Honglin Zhang, Chengxin Zhao.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- ``Nuclear Science and Techniques`` [A real-time calibration method based on time-to-digital converter for accelerator timing system](https://link.springer.com/article/10.1007/s41365-024-01510-5), Qihao Duan, Liang Ge, **Yanhao Jia**, Jieyu Zhu, Wei Zhang.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- ``Nuclear Instruments and Methods in Physics Research, A`` [A pixel sensor-based heavy ion positioning system for high-resolution single event effects studies](https://www.sciencedirect.com/science/article/abs/pii/S0168900224004649), Jianwei Liao, Xianglun Wei, Haibo Yang, Honglin Zhang, **Yanhao Jia**, Ju Huang, Yuansheng Yang, Peixiong Zhao, Herun Yang, Jiangyong Du, Shun Liao, Xianqin Li, Xiaoyang Niu, Weijia Han, Rui He, Chengxin Zhao
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ``Sensors`` [Development of a Time Projection Chamber Readout with Hybrid Pixel Sensors for Beam Monitoring](https://www.mdpi.com/1424-8220/24/8/2387), Yingdong Song, Haibo Yang, Yuezhao Zhang, Jianwei Liao, **Yanhao Jia**, Peng Ma, Yufeng Hou, Xiangming Sun, Hulin Wang, Haisheng Song, Chengxin Zhao.
+
+- ``Journal of Instrumentation`` [Design and characterization of multichannel front-end electronics for detectors at HIRFL and HIAF](https://iopscience.iop.org/article/10.1088/1748-0221/18/11/C11006/meta), Shucai Wan, Haibo Yang, Jieyu Zhu, Chengcheng Liu, Yingdong Song, **Yanhao Jia**, T Liu, C Zhao.
+
+
+# 👨‍💻 Open-Source Projects
+- [OpenXLab-Edu](https://xedu.readthedocs.io/)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.07 - (now)*, Ph.D. in Computer Science, Nanyang Technological University
+- *2021.09 - 2024.06*, M.S. in Computer Science, University of Chinese Academy of Sciences
+- *2017.09 - 2021.06*, B.S. in Computer Science, Shandong University
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.07 - (now)*, Research Intern, Centre for Frontier AI Research, A*STAR
+- *2023.05 - (now)*, Research Intern, Peking University
+- *2021.11 - 2023.03*, AI Research Engineer, Shanghai AI Lab
+- *2021.08 - 2021.09*, AI Teaching Assistant, State Gird Fujian Electric Power Company
