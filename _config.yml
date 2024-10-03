@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "ZhiJian Li"
-description              : "A senior undergraduate from ShanDong University. "
+description              : "ShanDong University"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "ZhiJian Li(李志坚)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/ZhiJianLi.png"
   bio              : "A senior undergraduate"
-  location         : "Beijing, China"
+  location         : "WeiHai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
