@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+ # 👨‍🎓 About me
  &nbsp; &nbsp; I'm **ZhiJian Li**, a senior student from [ShanDong University](https://www.wh.sdu.edu.cn/). And I will start my doctoral reaearch at the [Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**)](http://www.aircas.cn/) in September 2025.
 
  &nbsp; &nbsp;My research interest includes **Computer Vision** and **Remote Sensing Image Interpreting**.
