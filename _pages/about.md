@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- &nbsp &nbsp I'm **ZhiJian Li**, a senior student from [ShanDong University](https://www.wh.sdu.edu.cn/). And I will start my doctoral reaearch at the [Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**)](http://www.aircas.cn/) in September 2025.
+ &nbsp; &nbsp; I'm **ZhiJian Li**, a senior student from [ShanDong University](https://www.wh.sdu.edu.cn/). And I will start my doctoral reaearch at the [Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**)](http://www.aircas.cn/) in September 2025.
 
 My research interest includes **Computer Vision** and **Remote Sensing Image Interpreting**.
 
@@ -25,6 +25,12 @@ My research interest includes **Computer Vision** and **Remote Sensing Image Int
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 推免至中国科学院空天信息创新研究院（AIRCAS）攻读博士学位. 
 - *2024.07*: &nbsp;🎉🎉 获得北京大学软件与微电子学院“优秀营员（高端芯片方向）”称号. 
+
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 
@@ -42,17 +48,13 @@ My research interest includes **Computer Vision** and **Remote Sensing Image Int
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
+# 📖 Educations and Work experience
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+# 💬 Contact Me
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Compeleted Projects
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
