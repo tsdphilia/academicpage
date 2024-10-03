@@ -7,16 +7,16 @@ main:
     url: "/#-news"
 
   - title: "Honors and Awards"
-    url: "/#-publications"
-
-  - title: "Publications"
     url: "/#-honors-and-awards"
 
-  - title: "Competition Experience and Compeleted Projects"
-    url: "/#-educations"
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Competition Projects"
+    url: "/#-competition-projects"
 
   - title: "Educations and Work experience"
-    url: "/#-invited-talks"
+    url: "/#-educations-and-work-experience"
 
   - title: "Contact Me"
-    url: "/#-internships"
+    url: "/#-contact-me"
