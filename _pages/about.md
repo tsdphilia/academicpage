@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm ZhiJian Li, a senior student from ShanDong University. And I will start my doctoral reaearch at the Aerospace Information Research Institute, Chinese Academy of Sciences(AIRCAS) in September 2025.
+ &nbsp &nbsp I'm **ZhiJian Li**, a senior student from [ShanDong University](https://www.wh.sdu.edu.cn/). And I will start my doctoral reaearch at the [Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**)](http://www.aircas.cn/) in September 2025.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes **Computer Vision** and **Remote Sensing Image Interpreting**.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 推免至中国科学院空天信息创新研究院（AIRCAS）攻读博士学位. 
+- *2024.07*: &nbsp;🎉🎉 获得北京大学软件与微电子学院“优秀营员（高端芯片方向）”称号. 
 
 # 📝 Publications 
 
