@@ -55,8 +55,8 @@ redirect_from:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Educations and Work experience
-- ***2025.06 - 2030.06 (future)***, **Ph.D.student(Supervisor: [Prof. Fu Kun](http://www.aircas.ac.cn/sourcedb/cn/expert/yjy/201811/t20181106_5165762.html))**, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China
-- ***2021.09 - 2025.06 (now)***, **B.Eng.in Electronic Science and Technology**, School of Mechanial and Information Engineering, Shandong University, Weihai, China. 
+- ***2025.06 - 2030.06 (future)***,  &nbsp;Ph.D.student(Supervisor: [Prof. Fu Kun](http://www.aircas.ac.cn/sourcedb/cn/expert/yjy/201811/t20181106_5165762.html)), &nbsp;Aerospace Information Research Institute,&nbsp; Chinese Academy of Sciences,&nbsp; Beijing, &nbsp;China
+- ***2021.09 - 2025.06 (now)***,  &nbsp;B.Eng. in Electronic Science and Technology, &nbsp;School of Mechanial and Information Engineering, &nbsp;Shandong University, &nbsp;Weihai,&nbsp; China. 
 
 # 💬 Talk and Contact
 - *2024.04*, Talk:["机信青年说（山东大学机电与信息工程学院公众号推文）"](https://mp.weixin.qq.com/s?__biz=MzAwNjI2NzM0NQ==&mid=2247534606&idx=1&sn=e2d0664c1999eb6a3a72556f2f55cbf6). 
