@@ -31,13 +31,16 @@ redirect_from:
 
 # 🏅 Honors and Awards
 - *2024.05* Excellent University Student of Shandong Province.
-- *2023.12* National Scholarship for Undergraduate Student in 2023.
+- *2023.12* National Scholarship for Undergraduate Student in 2023(Top 1%).
 - *2023.09* Merit Student of Shandong University.
-- *2022.12* National Scholarship for Undergraduate Student in 2022.
+- *2022.12* National Scholarship for Undergraduate Student in 2022(Top 1%).
 - *2022.09* Excellent Student Cadre of Shandong University.
 
 # 📝 Publications 
+- viajin [WIP] - Side project
+- viajin [WIP] - Side project
 
+# 🏆 Competition Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,11 +54,6 @@ redirect_from:
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-
-# 🏆 Competition Projects
-- viajin [WIP] - Side project
-- viajin [WIP] - Side project
 
 # 📖 Educations and Work experience
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
