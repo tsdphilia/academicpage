@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Zhijian Li(李志坚)"
+excerpt: "welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👨‍🎓 About Me
- &nbsp; &nbsp; I'm **ZhiJian Li**, a senior student from [ShanDong University](https://www.wh.sdu.edu.cn/). And I will start my doctoral reaearch at the [Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**)](http://www.aircas.cn/) in September 2025.
+ &nbsp; &nbsp; I'm **ZhiJian Li**, a senior student from [ShanDong University](https://www.wh.sdu.edu.cn/). And I will start my doctoral research at the [Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**)](http://www.aircas.cn/) in September 2025.
 
  &nbsp; &nbsp;My research interest includes **Computer Vision** and **Remote Sensing Image Interpreting**.
 
@@ -37,8 +37,7 @@ redirect_from:
 - *2022.09* Excellent Student Cadre of Shandong University.
 
 # 📝 Publications 
-- viajin [WIP] - Side project
-- viajin [WIP] - Side project
+- waiting for hard working🏃‍♂️ ......
 
 # 🏆 Competition Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 18th Smart Car Competition</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
