@@ -30,8 +30,11 @@ redirect_from:
 
 
 # 🏅 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05* Excellent University Student of Shandong Province.
+- *2023.12* National Scholarship for Undergraduate Student in 2023.
+- *2023.09* Merit Student of Shandong University.
+- *2022.12* National Scholarship for Undergraduate Student in 2022.
+- *2022.09* Excellent Student Cadre of Shandong University.
 
 # 📝 Publications 
 
