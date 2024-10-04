@@ -55,11 +55,11 @@ redirect_from:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Educations and Work experience
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06 - 2030.06 (future)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06 (now)*, B.Eng.in Electronic Science and Technology, School of Mechanial and Information Engineering, Shandong University, Weihai, China. 
 
 # 💬 Talk and Contact
-- *2024.04*, Talk:[机信青年说（山东大学机电与信息工程学院公众号推文）](https://mp.weixin.qq.com/s?__biz=MzAwNjI2NzM0NQ==&mid=2247534606&idx=1&sn=e2d0664c1999eb6a3a72556f2f55cbf6). 
+- *2024.04*, Talk:["机信青年说（山东大学机电与信息工程学院公众号推文）"](https://mp.weixin.qq.com/s?__biz=MzAwNjI2NzM0NQ==&mid=2247534606&idx=1&sn=e2d0664c1999eb6a3a72556f2f55cbf6). 
 - *Email:* lizhijian_sdu@163.com
 - *github:* [warriorLZJ](https://github.com/warriorLZJ)
 - *gitee:* [warrior_Li](https://gitee.com/warrior_Li)
