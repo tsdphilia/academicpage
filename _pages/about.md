@@ -41,7 +41,7 @@ redirect_from:
 - viajin [WIP] - Side project
 
 # 🏆 Competition Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 18th Smart Car Competition</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -59,7 +59,9 @@ redirect_from:
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Contact Me
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Talk and Contact
+- *2024.04*, Talk:[机信青年说（山东大学机电与信息工程学院公众号推文）](https://mp.weixin.qq.com/s?__biz=MzAwNjI2NzM0NQ==&mid=2247534606&idx=1&sn=e2d0664c1999eb6a3a72556f2f55cbf6). 
+- *Email:* lizhijian_sdu@163.com
+- *github:* [warriorLZJ](https://github.com/warriorLZJ)
+- *gitee:* [warrior_Li](https://gitee.com/warrior_Li)
 
