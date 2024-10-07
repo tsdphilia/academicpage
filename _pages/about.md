@@ -47,7 +47,12 @@ redirect_from:
 
 **Zhijian Li**, Zhang Yu, Tianyu Zhou, Yanmao He, Yuesheng Liu
 
-[**Features**](https://github.com/warriorLZJ/warriorLZJ.github.io/blob/main/images/5Gproject.png) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Features**](<a href="#" onclick="document.getElementById('myModal').style.display='block'">Features</a>
+
+<div id="myModal" style="display:none; position:fixed; left:0; top:0; width:100%; height:100%; background-color:rgba(0,0,0,0.8); z-index:1000;">
+    <span onclick="document.getElementById('myModal').style.display='none'" style="color:white; float:right; font-size:30px; cursor:pointer;">&times;</span>
+    <img src="https://github.com/warriorLZJ/warriorLZJ.github.io/blob/main/images/5Gproject.png" style="display:block; margin:auto; max-width:80%; max-height:80%; padding-top:50px;">
+</div>) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - GNSS/INS Combination Positioning based on EKF.
 - Visual Navigation based on CV
 - Stanley Path Tracking and Fuzzy PID Control
@@ -55,6 +60,9 @@ redirect_from:
 - Drive brushless DC electric Motor(BLDC)
 </div>
 </div>
+
+
+
 
 - [First Prize of 18th National University Student Smart Car Competition(5G Autonomous Driving Group, National runner-up🥈)](https://github.com), **Zhijian Li**, Zhang Yu, Tianyu Zhou, Yanmao He, Yuesheng Liu, &nbsp;2023.12,&nbsp;Chongqing,&nbsp;China
 
