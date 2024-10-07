@@ -47,12 +47,12 @@ redirect_from:
 
 **Zhijian Li**, Zhang Yu, Tianyu Zhou, Yanmao He, Yuesheng Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Features**](https://github.com/warriorLZJ/warriorLZJ.github.io/blob/main/images/5Gproject.png) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - GNSS/INS Combination Positioning based on EKF.
 - Visual Navigation based on CV
 - Stanley Path Tracking and Fuzzy PID Control
 - Sound Source Location based on TDOA
-- Developed only in C/C++ 
+- Drive brushless DC electric Motor(BLDC)
 </div>
 </div>
 
