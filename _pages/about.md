@@ -47,7 +47,7 @@ redirect_from:
 
 **Zhijian Li**, Zhang Yu, Tianyu Zhou, Yanmao He, Yuesheng Liu
 
-**Features**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Features**](https://github.com/ZhijianLi2003/ZhijianLi2003.github.io/blob/main/images/5G_Team_Introduce.pdf)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - GNSS/INS Combination Positioning based on EKF.
 - Visual Navigation based on CV
 - Stanley Path Tracking and Fuzzy PID Control
