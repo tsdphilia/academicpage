@@ -68,6 +68,6 @@ redirect_from:
 # 💬 Talk and Contact
 - *2024.04*, Talk:["机信青年说（山东大学机电与信息工程学院公众号推文）"](https://mp.weixin.qq.com/s?__biz=MzAwNjI2NzM0NQ==&mid=2247534606&idx=1&sn=e2d0664c1999eb6a3a72556f2f55cbf6). 
 - *Email:* lizhijian_sdu@163.com
-- *github:* [warriorLZJ](https://github.com/warriorLZJ)
+- *github:* [ZhijianLi2003](https://github.com/ZhijianLi2003)
 - *gitee:* [warrior_Li](https://gitee.com/warrior_Li)
 
