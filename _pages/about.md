@@ -43,11 +43,11 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 18th Smart Car Competition</div><img src='images/5Gproject.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**5G Outdoor Autonomous Vehicle With Multi-sensor Fusion**
+[**5G Outdoor Autonomous Vehicle With Multi-sensor Fusion**](https://zhijianli2003.github.io/images/5G_Team_Introduce.pdf)
 
 **Zhijian Li**, Zhang Yu, Tianyu Zhou, Yanmao He, Yuesheng Liu
 
-[**Features**](https://github.com/ZhijianLi2003/ZhijianLi2003.github.io/blob/main/images/5G_Team_Introduce.pdf)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Features**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - GNSS/INS Combination Positioning based on EKF.
 - Visual Navigation based on CV
 - Stanley Path Tracking and Fuzzy PID Control
