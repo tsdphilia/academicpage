@@ -40,7 +40,7 @@ redirect_from:
 - waiting for hard working🏃‍♂️ ......
 
 # 🏆 Competition Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 18th Smart Car Competition</div><img src='images/5Gproject.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 18th Smart Car Competition</div><img src='images/5G_Project.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**5G Outdoor Autonomous Vehicle With Multi-sensor Fusion**](https://zhijianli2003.github.io/images/5G_Team_Introduce.pdf)
