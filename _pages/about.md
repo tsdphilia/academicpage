@@ -29,7 +29,7 @@ redirect_from:
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_gender.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_gender.jpg' alt="sym" height="70%" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Pro-Woman, Anti-Man? Identifying Gender Bias in Stance Detection.**
