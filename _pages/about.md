@@ -25,12 +25,14 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 顺利通过学校答辩，获得本科生“詹天佑”奖学金.
 - *2024.10*: &nbsp;🎉🎉 顺利通过学院答辩，连续三年蝉联本科生国家奖学金. 
 - *2024.09*: &nbsp;🎉🎉 推免至中国科学院空天信息创新研究院（AIRCAS）攻读博士学位. 
 - *2024.07*: &nbsp;🎉🎉 获得北京大学软件与微电子学院夏令营“优秀营员（高端芯片方向）”称号. 
 
 
 # 🏅 Honors and Awards
+- *2024.10* "ZhanTianYou" Scholarship,ZhanTianYou Development Foundation of Science and Technology (Only 3 Students in Shandong University).
 - *2024.05* Excellent University Student of Shandong Province.
 - *2023.12* National Scholarship for Undergraduate Student in 2023(Top 1%).
 - *2023.09* Merit Student of Shandong University.
