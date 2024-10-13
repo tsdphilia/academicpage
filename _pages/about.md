@@ -94,7 +94,70 @@ WWW 2023.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='images/EMNLP2021_mdl.png' alt="sym" height="80%" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**Improving Stance Detection with Multi-Dataset Learning and Knowledge Distillation.**
+
+**Yingjie Li**, Chenye Zhao, Cornelia Caragea
+
+EMNLP 2021.
+
+[[**Paper**](https://aclanthology.org/2021.emnlp-main.511)] [[**Code**](https://github.com/chuchun8/MDL-Stance-Distillation)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/ACL2021_pstance.png' alt="sym" height="80%" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**P-Stance: A Large Dataset for Stance Detection in Political Domain.**
+
+**Yingjie Li**, Tiberiu Sosea, Aditya Sawant, Ajith Jayaraman Nair, Diana Inkpen, Cornelia Caragea
+
+ACL 2021 Findings.
+
+[[**Paper**](https://aclanthology.org/2021.findings-acl.208)] [[**Code**](https://github.com/chuchun8/PStance)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/ACL2021_mtstance.png' alt="sym" height="80%" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Multi-Task Learning Framework for Multi-Target Stance Detection.**
+
+**Yingjie Li**, Cornelia Caragea
+
+ACL 2021 Findings.
+
+[[**Paper**](https://aclanthology.org/2021.findings-acl.204)] [[**Code**](https://github.com/chuchun8/MTSD)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2021</div><img src='images/NAACL2021_asda.png' alt="sym" height="80%" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Target-Aware Data Augmentation for Stance Detection.**
+
+**Yingjie Li**, Cornelia Caragea
+
+NAACL 2021.
+
+[[**Paper**](https://aclanthology.org/2021.naacl-main.148)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2019</div><img src='images/EMNLP2019_jss.png' alt="sym" height="80%" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-Task Stance Detection with Sentiment and Stance Lexicons.**
+
+**Yingjie Li**, Cornelia Caragea
+
+EMNLP 2019.
+
+[[**Paper**](https://aclanthology.org/D19-1657)]
+</div>
+</div>
 
 
 # 📨 Service
