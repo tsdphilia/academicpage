@@ -29,14 +29,68 @@ redirect_from:
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_gender.jpg' alt="sym" height="70%" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_gender.jpg' alt="sym" height="80%" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Pro-Woman, Anti-Man? Identifying Gender Bias in Stance Detection.**
 
 **Yingjie Li**, Yue Zhang
 
+Findings of the Association for Computational Linguistics ACL 2024 (ACL 2024 Findings).
+
 [[**Paper**](https://aclanthology.org/2024.findings-acl.192)] [[**Code**](https://github.com/chuchun8/GenderStance)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_dataset.png' alt="sym" height="80%" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ZeroStance: Leveraging ChatGPT for Open-Domain Stance Detection via Dataset Generation.**
+
+Chenye Zhao\*, **Yingjie Li\***, Cornelia Caragea, Yue Zhang
+
+Findings of the Association for Computational Linguistics ACL 2024 (ACL 2024 Findings).
+
+[[**Paper**](https://aclanthology.org/2024.findings-acl.794)] [[**Code**](https://github.com/chenyez/ZeroStance)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/ACL2023_tse.png' alt="sym" height="80%" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A New Direction in Stance Detection: Target-Stance Extraction in the Wild.**
+
+**Yingjie Li\***, Krishna Garg\*, Cornelia Caragea
+
+The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023).
+
+[[**Paper**](https://aclanthology.org/2023.acl-long.560)] [[**Code**](https://github.com/chuchun8/TSE)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/ACL2023_ckd.png' alt="sym" height="80%" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Distilling Calibrated Knowledge for Stance Detection.**
+
+**Yingjie Li\***, Cornelia Caragea
+
+Findings of the Association for Computational Linguistics ACL 2023 (ACL 2023 Findings).
+
+[[**Paper**](https://aclanthology.org/2023.findings-acl.393)] [[**Code**](https://github.com/chuchun8/CKD)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/WWW2023_tts.png' alt="sym" height="80%" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TTS: A Target-based Teacher-Student Framework for Zero-Shot Stance Detection.**
+
+**Yingjie Li\***, Chenye Zhao\*, Cornelia Caragea
+
+The Web Conference 2023 (WWW 2023).
+
+[[**Paper**](https://dl.acm.org/doi/abs/10.1145/3543507.3583250)] [[**Code**](https://github.com/chenyez/TTS)]
 </div>
 </div>
 
