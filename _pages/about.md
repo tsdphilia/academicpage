@@ -29,7 +29,13 @@ redirect_from:
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_gender.jpg' alt="sym" height="200px" width="300px" object-fit="contain"></div></div>
+<head>
+    <style>
+        .paper-box-image img {width: 300px; height: 200px; object-fit: contain;}
+    </style>
+</head>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_gender.jpg' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Pro-Woman, Anti-Man? Identifying Gender Bias in Stance Detection.**
@@ -42,7 +48,7 @@ ACL 2024 Findings.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_dataset.png' alt="sym" height="200px" width="300px" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_dataset.png' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ZeroStance: Leveraging ChatGPT for Open-Domain Stance Detection via Dataset Generation.**
@@ -55,7 +61,7 @@ ACL 2024 Findings.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/ACL2023_tse.png' alt="sym" height="200px" width="300px" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/ACL2023_tse.png' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A New Direction in Stance Detection: Target-Stance Extraction in the Wild.**
@@ -68,7 +74,7 @@ ACL 2023.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/ACL2023_ckd.png' alt="sym" height="200px" width="300px" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/ACL2023_ckd.png' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Distilling Calibrated Knowledge for Stance Detection.**
@@ -81,7 +87,7 @@ ACL 2023 Findings.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/WWW2023_tts.png' alt="sym" height="200px" width="300px" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/WWW2023_tts.png' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TTS: A Target-based Teacher-Student Framework for Zero-Shot Stance Detection.**
@@ -94,7 +100,7 @@ WWW 2023.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='images/EMNLP2021_mdl.png' alt="sym" height="200px" width="300px" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='images/EMNLP2021_mdl.png' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Improving Stance Detection with Multi-Dataset Learning and Knowledge Distillation.**
@@ -107,7 +113,7 @@ EMNLP 2021.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/ACL2021_pstance.png' alt="sym" height="200px" width="300px" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/ACL2021_pstance.png' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **P-Stance: A Large Dataset for Stance Detection in Political Domain.**
@@ -120,7 +126,7 @@ ACL 2021 Findings.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/ACL2021_mtstance.png' alt="sym" height="200px" width="300px" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2021</div><img src='images/ACL2021_mtstance.png' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Multi-Task Learning Framework for Multi-Target Stance Detection.**
@@ -133,7 +139,7 @@ ACL 2021 Findings.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2021</div><img src='images/NAACL2021_asda.png' alt="sym" height="200px" width="300px" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2021</div><img src='images/NAACL2021_asda.png' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Target-Aware Data Augmentation for Stance Detection.**
@@ -146,7 +152,7 @@ NAACL 2021.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2019</div><img src='images/EMNLP2019_jss.png' alt="sym" height="200px" width="300px" object-fit="contain"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2019</div><img src='images/EMNLP2019_jss.png' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-Task Stance Detection with Sentiment and Stance Lexicons.**
