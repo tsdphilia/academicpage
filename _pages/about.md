@@ -29,6 +29,12 @@ redirect_from:
 
 # 📝 Selected Publications 
 
+<head>
+<style>
+.paper-box-image img {width: 300px; height: 200px; object-fit: contain;}
+</style>
+</head>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_gender.jpg' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
