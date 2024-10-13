@@ -139,7 +139,7 @@ ACL 2021 Findings.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2021</div><img src='images/NAACL2021_asda.png' alt="sym" height="200px" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2021</div><img src='images/NAACL2021_asda.png' alt="sym" height="70%" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Target-Aware Data Augmentation for Stance Detection.**
@@ -152,7 +152,7 @@ NAACL 2021.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2019</div><img src='images/EMNLP2019_jss.png' alt="sym" height="200px" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2019</div><img src='images/EMNLP2019_jss.png' alt="sym" height="80%" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-Task Stance Detection with Sentiment and Stance Lexicons.**
