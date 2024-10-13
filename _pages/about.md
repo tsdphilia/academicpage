@@ -36,7 +36,7 @@ redirect_from:
 
 **Yingjie Li**, Yue Zhang
 
-Findings of the Association for Computational Linguistics ACL 2024 (ACL 2024 Findings).
+ACL 2024 Findings.
 
 [[**Paper**](https://aclanthology.org/2024.findings-acl.192)] [[**Code**](https://github.com/chuchun8/GenderStance)]
 </div>
@@ -49,7 +49,7 @@ Findings of the Association for Computational Linguistics ACL 2024 (ACL 2024 Fin
 
 Chenye Zhao\*, **Yingjie Li\***, Cornelia Caragea, Yue Zhang
 
-Findings of the Association for Computational Linguistics ACL 2024 (ACL 2024 Findings).
+ACL 2024 Findings.
 
 [[**Paper**](https://aclanthology.org/2024.findings-acl.794)] [[**Code**](https://github.com/chenyez/ZeroStance)]
 </div>
@@ -62,7 +62,7 @@ Findings of the Association for Computational Linguistics ACL 2024 (ACL 2024 Fin
 
 **Yingjie Li\***, Krishna Garg\*, Cornelia Caragea
 
-The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023).
+ACL 2023.
 
 [[**Paper**](https://aclanthology.org/2023.acl-long.560)] [[**Code**](https://github.com/chuchun8/TSE)]
 </div>
@@ -75,7 +75,7 @@ The 61st Annual Meeting of the Association for Computational Linguistics (ACL 20
 
 **Yingjie Li\***, Cornelia Caragea
 
-Findings of the Association for Computational Linguistics ACL 2023 (ACL 2023 Findings).
+ACL 2023 Findings.
 
 [[**Paper**](https://aclanthology.org/2023.findings-acl.393)] [[**Code**](https://github.com/chuchun8/CKD)]
 </div>
@@ -88,11 +88,13 @@ Findings of the Association for Computational Linguistics ACL 2023 (ACL 2023 Fin
 
 **Yingjie Li\***, Chenye Zhao\*, Cornelia Caragea
 
-The Web Conference 2023 (WWW 2023).
+WWW 2023.
 
 [[**Paper**](https://dl.acm.org/doi/abs/10.1145/3543507.3583250)] [[**Code**](https://github.com/chenyez/TTS)]
 </div>
 </div>
+
+
 
 
 # 📨 Service
