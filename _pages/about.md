@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. Student in Computer Science at the University of Maryland advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/cv/). My research focuses on pioneering efficient machine learning methods, encompassing computer vision, natural language processing, and multi-modality. I am particularly passionate about developing adaptive and personalized machine learning models. Before pursuing my Ph.D., I earned my M.S. and B.Eng in Computer Science from ShanghaiTech University, where I delved into research areas such as mixture of experts, domain generalization, and ensemble learning. 
+I am a second-year Ph.D. Student in Computer Science at the University of Maryland advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/cv/). My research focuses on pioneering efficient machine learning methods, encompassing computer vision, natural language processing, and multi-modality. I am particularly passionate about developing adaptive and personalized machine learning models. Before pursuing my Ph.D., I earned my M.S. and B.Eng in Computer Science from ShanghaiTech University, where I delved into research areas such as mixture of experts, domain generalization, and ensemble learning. 
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 **New Publication on arXiv**: "Many-Objective Multi-Solution Transport" by Ziyue Li is now available on arXiv.
+- *2024.10*: &nbsp;🎉🎉 **New on arXiv**: "Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free" is now available on arXiv.
+- *2024.03*: &nbsp;🎉🎉 **New on arXiv**: "Many-Objective Multi-Solution Transport" is now available on arXiv.
 - *2023.08*: &nbsp;🎉🎉 **Entering University of Maryland (UMD)** as a Ph.D. Candidate in Computer Science.
 
 # 📝 Publications 
+
+- [Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free](https://arxiv.org/abs/2410.10814), **Z. Li**, T. Zhou, **ArXiv**
+  - Mixture-of-Experts (MoE) language models can serve as powerful, training-free embedding generators by leveraging the complementarity of routing weights and hidden states, achieving superior performance across diverse embedding tasks.
 
 - [Many-Objective Multi-Solution Transport](https://arxiv.org/abs/2403.04099), **Z. Li**, T. Li, V. Smith, J. Bilmes, T. Zhou, **ArXiv**
   - Explores a framework that finds multiple diverse solutions in the Pareto front of many objectives.
