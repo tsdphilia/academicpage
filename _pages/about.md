@@ -28,8 +28,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *High-Throughput Phenotyping*
 
 # News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp; Cornell CALS Summer Research Scholar 2024. 
+- *2023.05*: &nbsp; Mitacs Summer Research Scholarship 2024.
+- *2022.05*: &nbsp; Summer Intern at University of Campinas.
+- *2022.05*: &nbsp; Summer Intern at Virginia Tech University. 
 
 # Publications 
 
