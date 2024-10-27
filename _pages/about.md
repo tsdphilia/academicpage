@@ -44,9 +44,9 @@ In my free time, I love to play badminton and read books. Other than this, I als
 [A Two-stage Deep-learning Model
  for Detection and Occlusion-based Classification of Kashmiri Orchard Apples for Robotic Harvesting](https://link.springer.com/article/10.1007/s42853-023-00190-0)
 
-Divya Rathore, Divyanth L G, Yogesh Chawla, **Mridula Buragohain**
+Divya Rathore, Divyanth L G, Lalit Reddy, Yogesh Chawla, **Mridula Buragohain**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://link.springer.com/article/10.1007/s42853-023-00190-0) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
