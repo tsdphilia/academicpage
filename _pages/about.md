@@ -41,8 +41,8 @@ In my free time, I love to play badminton and read books. Other than this, I als
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Two-stage Deep-learning Model
- for Detection and Occlusion-based Classification of Kashmiri Orchard Apples for Robotic Harvesting](https://link.springer.com/article/10.1007/s42853-023-00190-0)
+A Two-stage Deep-learning Model
+ for Detection and Occlusion-based Classification of Kashmiri Orchard Apples for Robotic Harvesting
 
 Divya Rathore, Divyanth L G, Lalit Reddy, Yogesh Chawla, **Mridula Buragohain**
 
@@ -54,8 +54,8 @@ Divya Rathore, Divyanth L G, Lalit Reddy, Yogesh Chawla, **Mridula Buragohain**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Recent advances in non-destructive techniques for grain quality
- monitoring]
+Recent advances in non-destructive techniques for grain quality
+ monitoring
 
  **Mridula Buragohain**, Jitendra Palliwal, Mohammad Nadimi
 
