@@ -90,16 +90,16 @@ Vanshika Sahu, Ayushi Saha, Marcus da Silva Ferreira, Sylvio Barbon Junior, Soms
 </div>
 
 # Publications and Conference Proceedings
-- *2023*  A Two-stage Deep-learning Model for Detection and Occlusion-based Classification of Kashmiri Orchard Apples for Robotic Harvesting. 
-- *2023*  Recent advances in non-destructive techniques for grain quality monitoring.
-- *2023*  Classification of carambola (Averrhoa carambola l.) according to the maturation stage using computer vision
-- *2024*  Adaptability and Effectiveness of inbuilt vision foundational model to quantify grape foliage powdery mildew infection.
+- *2023*,  A Two-stage Deep-learning Model for Detection and Occlusion-based Classification of Kashmiri Orchard Apples for Robotic Harvesting. 
+- *2023*,  Recent advances in non-destructive techniques for grain quality monitoring.
+- *2023*,  Classification of carambola (Averrhoa carambola l.) according to the maturation stage using computer vision
+- *2024*,  Adaptability and Effectiveness of inbuilt vision foundational model to quantify grape foliage powdery mildew infection.
 # Competitions 
-- *2021.10* Silver Medalist, Cloud Physician’s Vital Extraction Challenge, Inter IIT Tech Meet 11.0, IIT Kanpur
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10*, Silver Medalist, Cloud Physician’s Vital Extraction Challenge, Inter IIT Tech Meet 11.0, IIT Kanpur
+- *2021.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 # Scholarships and Awards
-- *2024* Selected as a Cornell CALS Summer Scholar Student at the Horticultural Section of Cornell CALS
-- *2023* Selected as a Mitacs Summer Research Intern at the Biosystems Engineering Department, University of Manitoba
+- *2024*, Selected as a Cornell CALS Summer Scholar Student at the Horticultural Section of Cornell CALS
+- *2023*, Selected as a Mitacs Summer Research Intern at the Biosystems Engineering Department, University of Manitoba
 
 # Leadership and Co-curricular
 - *2022.09-2023.09*, Undergraduate Department Representative, IIT Kharagpur
