@@ -80,12 +80,11 @@ Vanshika Sahu, Ayushi Saha, Marcus da Silva Ferreira, Sylvio Barbon Junior, Soms
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- Adaptability and Effectiveness of inbuilt vision foundational model to quantify grape foliage powdery mildew infection
-
- **Mridula Buragohain**, Yu Jiang, Yiyuan Lin
-
-[**Poster Presentation**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Adaptability and Effectiveness of inbuilt vision foundational model to quantify grape foliage powdery mildew infection
+**Mridula Buragohain**, Yu Jiang, Yiyuan Lin
+**Poster Presentation** 
+-  Tested our built vision foundation model for adaptability results across different vineyards in the US
+-  Obtained bird-eye view severity assessment results of mildew infection in the fields compared with human assessment.
 </div>
 </div>
 
@@ -97,7 +96,6 @@ Vanshika Sahu, Ayushi Saha, Marcus da Silva Ferreira, Sylvio Barbon Junior, Soms
 
 # Competitions 
 - *2021.10*, Silver Medalist, Cloud Physician’s Vital Extraction Challenge, Inter IIT Tech Meet 11.0, IIT Kanpur
-- *2021.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # Scholarships and Awards
 - *2024*, Selected as a Cornell CALS Summer Scholar Student at the Horticultural Section of Cornell CALS
