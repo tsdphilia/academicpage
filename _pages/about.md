@@ -36,7 +36,7 @@ In my free time, I love to play badminton and read books. Other than this, I als
 - *2022.05*: &nbsp; Summer Intern at University of Campinas.
 - *2022.05*: &nbsp; Summer Intern at Virginia Tech University. 
 
-# Publications and Conference Proceedings
+# Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/rgb_img.jpg' alt="sym" width="100%" height="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -89,9 +89,14 @@ Vanshika Sahu, Ayushi Saha, Marcus da Silva Ferreira, Sylvio Barbon Junior, Soms
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-# Projects
+# Publications and Conference Proceedings
+- *2023*  A Two-stage Deep-learning Model for Detection and Occlusion-based Classification of Kashmiri Orchard Apples for Robotic Harvesting. 
+- *2023*  Recent advances in non-destructive techniques for grain quality monitoring.
+- *2023*  Classification of carambola (Averrhoa carambola l.) according to the maturation stage using computer vision
+- *2024*  Adaptability and Effectiveness of inbuilt vision foundational model to quantify grape foliage powdery mildew infection.
 # Competitions 
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 # Scholarships and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
