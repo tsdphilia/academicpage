@@ -38,7 +38,7 @@ In my free time, I love to play badminton and read books. Other than this, I als
 
 # Publications and Conference Proceedings
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/rgb_img.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Two-stage Deep-learning Model
