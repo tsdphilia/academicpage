@@ -46,8 +46,8 @@ In my free time, I love to play badminton and read books. Other than this, I als
 
 Divya Rathore, Divyanth L G, Lalit Reddy, Yogesh Chawla, **Mridula Buragohain**
 
-[**Paper**](https://link.springer.com/article/10.1007/s42853-023-00190-0) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://link.springer.com/article/10.1007/s42853-023-00190-0) 
+- Proposed a novel two-stage deep-learning-based approach that can detect the apples using YOLOv7 and utilized EfficientNet to classify the apple's occlusion condition.
 </div>
 </div>
 
