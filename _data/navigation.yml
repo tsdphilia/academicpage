@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#About-me"
+    url: "/#-About-me"
 
   - title: "News"
     url: "/#-news"
@@ -10,10 +10,10 @@ main:
     url: "/#-projects"
 
   - title: "Publications and Conferences"
-    url: "/#-publications-and-Conference Proceedings"
+    url: "/#-publications-and-conference-proceedings"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
     
   - title: "Leadership"
-    url: "/#-leadership-and-Co-curricular "
+    url: "/#-leadership-and-co-curricular "
