@@ -51,7 +51,7 @@ Divya Rathore, Divyanth L G, Lalit Reddy, Yogesh Chawla, **Mridula Buragohain**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSBE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Recent advances in non-destructive techniques for grain quality monitoring
@@ -63,7 +63,7 @@ Recent advances in non-destructive techniques for grain quality monitoring
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">15 SLACAN 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  Classification of carambola (Averrhoa carambola l.) according to the maturation stage using computer vision
@@ -77,7 +77,7 @@ Vanshika Sahu, Ayushi Saha, Marcus da Silva Ferreira, Sylvio Barbon Junior, Soms
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Adaptability and Effectiveness of inbuilt vision foundational model to quantify grape foliage powdery mildew infection
