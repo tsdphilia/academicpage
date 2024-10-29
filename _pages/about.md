@@ -72,7 +72,7 @@ Dhanus Raj, Ingrid Moraes, **Mridula Buragohain**, Sai Chaitanya K, Vansh Agrawa
 Vanshika Sahu, Ayushi Saha, Marcus da Silva Ferreira, Sylvio Barbon Junior, Somsubhra Chakraborty, Jayeeta Mitra, Douglas Fernandes Barbin
 
 [**Presentation**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Developed machine learning models, including SVM, Random Forest, and ANNs, for classification based on using color, texture, and morphological features extracted from RGB images. Achieved a peak prediction accuracy of 89% with the Random Forest classifier.
 </div>
 </div>
 
@@ -85,6 +85,44 @@ Adaptability and Effectiveness of inbuilt vision foundational model to quantify 
 **Poster Presentation** 
 -  Tested our built vision foundation model for adaptability results across different vineyards in the US
 -  Obtained bird-eye view severity assessment results of mildew infection in the fields compared with human assessment.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Mechanical damage assessment in canola using X-ray imaging and computer vision
+**Summer Project**
+-  Utilized X-ray imaging with computer vision techniques, including OpenCV for image enhancement and ROI detection, to classify canola damage into four categories. Tested machine learning and deep learning models, achieving a top mAP of 92.08% with MobileNetV2.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Simulating an autonomous navigation system for ground robot using NAV2
+**Project** 
+-  Developed and tested a ground robot in the Gazebo simulation environment for autonomous navigation and obstacle avoidance using NAV2, Lidar, and the A* algorithm. Gained hands-on experience with ROS2 for controlling both virtual and real-world robot designs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Quality analysis of mangoes during storage using color imaging
+**Project** 
+-  Conducted quality assessments of mangoes during storage by applying classification algorithms on RGB and lab images, comparing machine-vision results with chemical-based methods. Achieved an 84% accuracy in predicting the ripening index of the mangoes.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Wheat yield prediction using aerial imagery-based spike counting approach
+**Project** 
+-  Developed and tested deep learning models for detecting wheat heads from aerial RGB images, optimizing model performance through data augmentation and benchmarking against EfficientDet, YOLO-V4, V6, V7, and MobileNet. Achieved high mAP values, with YOLO-v7 and YOLO-v6 reaching 84% and 82%, respectively.
 </div>
 </div>
 
