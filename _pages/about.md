@@ -103,7 +103,7 @@ Mechanical damage assessment in canola using X-ray imaging and computer vision
 <div class='paper-box-text' markdown="1">
 
 Simulating an autonomous navigation system for ground robot using NAV2
-**Project** 
+**Semester Project** 
 -  Developed and tested a ground robot in the Gazebo simulation environment for autonomous navigation and obstacle avoidance using NAV2, Lidar, and the A* algorithm. Gained hands-on experience with ROS2 for controlling both virtual and real-world robot designs.
 </div>
 </div>
@@ -112,6 +112,7 @@ Simulating an autonomous navigation system for ground robot using NAV2
 <div class='paper-box-text' markdown="1">
 
 Quality analysis of mangoes during storage using color imaging
+
 **Project** 
 -  Conducted quality assessments of mangoes during storage by applying classification algorithms on RGB and lab images, comparing machine-vision results with chemical-based methods. Achieved an 84% accuracy in predicting the ripening index of the mangoes.
 </div>
@@ -121,7 +122,8 @@ Quality analysis of mangoes during storage using color imaging
 <div class='paper-box-text' markdown="1">
 
 Wheat yield prediction using aerial imagery-based spike counting approach
-**Project** 
+
+**Summer Project** 
 -  Developed and tested deep learning models for detecting wheat heads from aerial RGB images, optimizing model performance through data augmentation and benchmarking against EfficientDet, YOLO-V4, V6, V7, and MobileNet. Achieved high mAP values, with YOLO-v7 and YOLO-v6 reaching 84% and 82%, respectively.
 </div>
 </div>
