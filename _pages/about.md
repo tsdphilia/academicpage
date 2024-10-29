@@ -97,7 +97,7 @@ Adaptability and Effectiveness of inbuilt vision foundational model to quantify 
 # Competitions 
 - *2021.10*, Silver Medalist, Cloud Physician’s Vital Extraction Challenge, Inter IIT Tech Meet 11.0, IIT Kanpur
 
-# Scholarships and Awards
+# Honors and Awards
 - *2024*, Selected as a Cornell CALS Summer Scholar Student at the Horticultural Section of Cornell CALS
 - *2023*, Selected as a Mitacs Summer Research Intern at the Biosystems Engineering Department, University of Manitoba
 
