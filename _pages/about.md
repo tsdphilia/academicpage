@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# About Me
 I am a final year student at the Department of Agricultural and Food Engineering, IIT Kharagpur, pursuing my Integrated Mtech (5 Year Course) in Agricultural Systems Management with micro-specialization in Artificial intelligence and its applications. I am currently working with Prof. Yu Jiang on developing an autonomous manipulation system for tissue culture operations at the CAIR lab at Cornell University. 
 
 My research interests lie in agricultural robotics and smart sensing and I am specifically interested in robotics and Vision integration for Agricultural and Food Automation and increasing the robustness and generalization capabilities of the autonomous robotic system method.
