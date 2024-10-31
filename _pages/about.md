@@ -63,7 +63,7 @@ Recent advances in non-destructive techniques for grain quality monitoring
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">15 SLACAN 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">15 SLACAN 2023</div><img src='images/tea.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  Classification of carambola (Averrhoa carambola l.) according to the maturation stage using computer vision
@@ -89,7 +89,7 @@ Adaptability and Effectiveness of inbuilt vision foundational model to quantify 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/manuscript1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Mechanical damage assessment in canola using X-ray imaging and computer vision
