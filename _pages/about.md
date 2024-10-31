@@ -38,7 +38,7 @@ In my free time, I love to play badminton and read books. Other than this, I als
 
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/rgb_img.jpg' alt="sym" width="100%" height="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/apple_paper.png' alt="sym" width="100%" height="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Two-stage Deep-learning Model
@@ -77,7 +77,7 @@ Vanshika Sahu, Ayushi Saha, Marcus da Silva Ferreira, Sylvio Barbon Junior, Soms
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/disease_assessment_bird_eye_view.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Adaptability and Effectiveness of inbuilt vision foundational model to quantify grape foliage powdery mildew infection
@@ -99,7 +99,7 @@ Mechanical damage assessment in canola using X-ray imaging and computer vision
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/btp1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Simulating an autonomous navigation system for ground robot using NAV2
