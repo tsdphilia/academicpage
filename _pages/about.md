@@ -19,7 +19,7 @@ redirect_from:
 
 I am a rising fourth-year Biomedical Engineering undergraduate at Fudan University, currently advised by Professor <a href='https://vztu.github.io/'>Zhengzhong Tu</a> at TAMU and Professor <a href='https://nmr.mgh.harvard.edu/~berkin/index.html'>Berkin Bilgic</a> at Martinos Center for Biomedical Imaging/Harvard Medical School. Prior to that, I was an undergraduate research student at <a href='https://www.fudanroilab.com/'>Fudanroilab</a>, supervised by Professor Wenqiang Zhang.
 
-My research interest lies in developing computational methods, especially AI, to solve complicated domain challenges. Sepecifically, I'm interested in distilling specific challenges into rigorous formulations, combining domain knowledge and designing tailored algorithms. I have worked on problem scenes such as Imaging Neuroscience and Inverse Problem. Typical techniques I implement derives from self-supervised learning, computer vision and numerical optimization.
+My research interest lies in developing computational methods, especially AI, to solve complicated domain challenges. Sepecifically, I'm interested in distilling specific challenges into rigorous formulations, combining domain knowledge and designing tailored algorithms. To achieve this, I have worked on problem scenes such as Imaging Neuroscience and Inverse Problem. Typical techniques I implement derives from self-supervised learning, computer vision and numerical optimization.
 
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 Fortunate to start my internship working on developing algorithms for Tiktok advertisement analysis and recommendation at Bytedance.
@@ -50,9 +50,9 @@ My research interest lies in developing computational methods, especially AI, to
 
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now)*, Fudan University, GPA: 3.78/4.00 (top 1%)
-- *2023.09 - 2023.12*, University of Toronto
-- *2022.06 - 2022.8*, Harvard University Summer School
+- *2021.09 - 2025.06 (now)*, Fudan University, GPA: 3.78/4.00 (ranking 2/272 among college)
+- *2023.09 - 2023.12*, University of Toronto, GPA: 3.9/4.0
+- *2022.06 - 2022.8*, Harvard University Summer School, GPA: 4.0/4.0 (Graduate Credit)
 
 # 💻 Internships
 - *2024.01 - 2024.04*, [Tiktok (Bytedance)](https://www.bytedance.com/en/), China.
