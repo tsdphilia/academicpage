@@ -20,14 +20,18 @@ redirect_from:
 
 # 📝 论文发表
 
-1.[数字经济与边界地区污染治理](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NkPPGNmRdeRaoLw7EbyaojWfrfz97F2RBkmfW6s-X3aCd1VdGdphX32z6_8-x8nwn76E2YvBN5RnqtA1v5xh4-hFwc7a_7VM1fjIyOeUaWMS3fALq7pv-e4F3LYbKh9XaE5kfV1I2D-OhthNxgYtu6ks9z9CF8xnUJke4SN1LsJXNo42NwDbM0&uniplatform=NZKPT&language=CHS)（<font color="blue"> 《经济研究》，2023年 </font> ）
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济研究》，2023年</div><img src='images/jjyj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+1.[数字经济与边界地区污染治理](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NkPPGNmRdeRaoLw7EbyaojWfrfz97F2RBkmfW6s-X3aCd1VdGdphX32z6_8-x8nwn76E2YvBN5RnqtA1v5xh4-hFwc7a_7VM1fjIyOeUaWMS3fALq7pv-e4F3LYbKh9XaE5kfV1I2D-OhthNxgYtu6ks9z9CF8xnUJke4SN1LsJXNo42NwDbM0&uniplatform=NZKPT&language=CHS)
 
  余典范, 龙睿,**王超**
 
 [**摘要**]
 边界污染问题严重影响环境治理的整体效果，阻碍边界地区实现产业提档升级，一直以来受到各界的广泛关注。现有的监察式手段往往治标不治本，并未从根本上削弱边界污染的动机。本文采用2013—2019年边界地级市的面板数据，以边界乡镇面积占比衡量城市边界属性的差异，考察了数字经济对边界地区污染的治理效果及其作用机制。研究发现：数字经济对破解边界地区污染治理难题具有显著效果，且主要通过打破市场分割和增强追踪监管能力的途径发挥作用。与此同时，数字经济的正向溢出效应能够有效化解边界污染中的负外部性，本地区数字经济的发展会通过经济联系对相邻地区的污染水平产生抑制效果，降低地方政府竞争带来的负面激励。异质性分析发现，在区域协同水平较低和连片特困地区，数字经济对边界污染的抑制效应更加明显。本文的研究表明，政府应高度重视数字经济在边界污染治理中的作用，加强政府与市场的协同以及跨区域经济联系，降低边界污染的驱动力，实现边界地区的绿色高质量发展。
 
-
+</div>
+</div>
 
 2.[何种政府采购能发挥靶向创新效应?——来自上市公司的证据](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0Mav8dlZMO1FNZUH6J3SP7NGgWnNvDFpzs96HSkOi-Iv2uW03aU_xeNaW6zAvUd42z9aM4kdrjZvukhUxLrU2rfd7XX2zB4NsHGsACoiBYThlkXQwX2_Cwk2wTNJZWOKqCYLhBcI9RMSg==&uniplatform=NZKPT&language=CHS)（<font color="blue"> 《会计研究》，2023年 </font> ）
 
