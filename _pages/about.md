@@ -28,7 +28,7 @@ redirect_from:
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济研究》，2023年</div><img src='images/jjyj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>余典范,龙睿,王超.数字经济与边界地区污染治理.经济研究,2023.</font>
+<font color=blue size = 3>余典范,龙睿,王超.数字经济与边界地区污染治理.<font color=red>经济研究</font>,2023.</font>
 
  <!-- 余典范, 龙睿,**王超** -->
 
@@ -42,7 +42,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《会计研究》，2023年</div><img src='images/kjyj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>余典范,王超,李鑫.何种政府采购能发挥靶向创新效应?——来自上市公司的证据.</font>
+<font color=blue size = 3>余典范,王超,李鑫.何种政府采购能发挥靶向创新效应?——来自上市公司的证据.会计研究,2023.</font>
 
  <!-- 余典范,**王超**,李鑫 -->
 
