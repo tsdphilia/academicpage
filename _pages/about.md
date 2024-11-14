@@ -31,7 +31,8 @@ redirect_from:
 [**摘要**]
 在贸易摩擦、地缘冲突频发背景下，经济政策不确定性的增加凸显了数字技术的应用价值。基于2008—2021年中国上市公司数据，本文考察了经济政策不确定性对企业数字化的影响。研究发现，经济政策不确定性的增加发挥了“垫脚石”的作用，对企业数字化产生了倒逼效应，有助于提高企业风险承担能力。异质性研究表明，经济政策不确定性冲击对非国有企业、规模较小、融资约束强以及数字技术应用难度较低的服务业企业影响更为显著。进一步分析发现，丰裕的数字化人力资本、高管长远的发展眼光、较好的数字基础设施以及良好的转型预期是经济政策不确定环境下企业抓住数字化机遇的关键。因此，企业在面临经济政策不确定性冲击时，应积极通过推进数字化变革增强自身抗风险能力。同时，政府可以通过加强数字基础设施建设、营造良好的数字化转型氛围来稳定预期，降低企业应对经济政策不确定性的成本、助力企业数字化转型。
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
