@@ -20,7 +20,7 @@ redirect_from:
 
 # 📝 论文发表
 
-[数字经济与边界地区污染治理](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NkPPGNmRdeRaoLw7EbyaojWfrfz97F2RBkmfW6s-X3aCd1VdGdphX32z6_8-x8nwn76E2YvBN5RnqtA1v5xh4-hFwc7a_7VM1fjIyOeUaWMS3fALq7pv-e4F3LYbKh9XaE5kfV1I2D-OhthNxgYtu6ks9z9CF8xnUJke4SN1LsJXNo42NwDbM0&uniplatform=NZKPT&language=CHS)（《经济研究》，2023年第11期）
+[数字经济与边界地区污染治理](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NkPPGNmRdeRaoLw7EbyaojWfrfz97F2RBkmfW6s-X3aCd1VdGdphX32z6_8-x8nwn76E2YvBN5RnqtA1v5xh4-hFwc7a_7VM1fjIyOeUaWMS3fALq7pv-e4F3LYbKh9XaE5kfV1I2D-OhthNxgYtu6ks9z9CF8xnUJke4SN1LsJXNo42NwDbM0&uniplatform=NZKPT&language=CHS)（<font color="red"> 《经济研究》，2023年第11期 </font> ）
 
  余典范, 龙睿,**王超**
 
