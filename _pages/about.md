@@ -54,6 +54,8 @@ redirect_from:
 [**摘要**]
 <font face=楷体>边界污染问题严重影响环境治理的整体效果，阻碍边界地区实现产业提档升级，一直以来受到各界的广泛关注。现有的监察式手段往往治标不治本，并未从根本上削弱边界污染的动机。本文采用2013—2019年边界地级市的面板数据，以边界乡镇面积占比衡量城市边界属性的差异，考察了数字经济对边界地区污染的治理效果及其作用机制。研究发现：数字经济对破解边界地区污染治理难题具有显著效果，且主要通过打破市场分割和增强追踪监管能力的途径发挥作用。与此同时，数字经济的正向溢出效应能够有效化解边界污染中的负外部性，本地区数字经济的发展会通过经济联系对相邻地区的污染水平产生抑制效果，降低地方政府竞争带来的负面激励。异质性分析发现，在区域协同水平较低和连片特困地区，数字经济对边界污染的抑制效应更加明显。本文的研究表明，政府应高度重视数字经济在边界污染治理中的作用，加强政府与市场的协同以及跨区域经济联系，降低边界污染的驱动力，实现边界地区的绿色高质量发展。</font>[文章链接](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NkPPGNmRdeRaoLw7EbyaojWfrfz97F2RBkmfW6s-X3aCd1VdGdphX32z6_8-x8nwn76E2YvBN5RnqtA1v5xh4-hFwc7a_7VM1fjIyOeUaWMS3fALq7pv-e4F3LYbKh9XaE5kfV1I2D-OhthNxgYtu6ks9z9CF8xnUJke4SN1LsJXNo42NwDbM0&uniplatform=NZKPT&language=CHS)
 
+（下载量：12506，被引量：18）
+
 ---
 
 
@@ -72,6 +74,8 @@ redirect_from:
 [**摘要**]
 <font face=楷体>政府采购是提高财政支出效率、节约财政资金的重要政策措施，也是支持企业创新发展的重要手段。本文使用2015—2020年中国政府采购网公布的79万多条采购项目信息，以A股上市公司样本实证检验了不同采购方式对企业创新的促进效果。研究发现：相比其他采购方式，竞争性磋商和谈判通过提高产品质量要求、纾解融资约束困境、增强企业研发意愿，对企业创新有显著促进作用，且通过生产网络传导能够发挥创新溢出效应。异质性分析发现，上述效应在不正当竞争行为处罚力度强的地区、非国有企业、成熟期企业中更为明显。本文的研究表明，政府应进一步优化采购招标评标流程，引导企业由价格竞争转向质量竞争，充分发挥政府采购的靶向创新功能。</font>[文章链接](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0Mav8dlZMO1FNZUH6J3SP7NGgWnNvDFpzs96HSkOi-Iv2uW03aU_xeNaW6zAvUd42z9aM4kdrjZvukhUxLrU2rfd7XX2zB4NsHGsACoiBYThlkXQwX2_Cwk2wTNJZWOKqCYLhBcI9RMSg==&uniplatform=NZKPT&language=CHS)
 
+（人大报刊复印资料《创新政策与管理》2024年第8期全文转载）
+
 ---
 
 
@@ -88,6 +92,8 @@ redirect_from:
 
 [**摘要**]
 <font face=楷体>在贸易摩擦、地缘冲突频发背景下，经济政策不确定性的增加凸显了数字技术的应用价值。基于2008—2021年中国上市公司数据，本文考察了经济政策不确定性对企业数字化的影响。研究发现，经济政策不确定性的增加发挥了“垫脚石”的作用，对企业数字化产生了倒逼效应，有助于提高企业风险承担能力。异质性研究表明，经济政策不确定性冲击对非国有企业、规模较小、融资约束强以及数字技术应用难度较低的服务业企业影响更为显著。进一步分析发现，丰裕的数字化人力资本、高管长远的发展眼光、较好的数字基础设施以及良好的转型预期是经济政策不确定环境下企业抓住数字化机遇的关键。因此，企业在面临经济政策不确定性冲击时，应积极通过推进数字化变革增强自身抗风险能力。同时，政府可以通过加强数字基础设施建设、营造良好的数字化转型氛围来稳定预期，降低企业应对经济政策不确定性的成本、助力企业数字化转型。</font>[文章链接](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0OnNi4PjQEZb6USd0UB8efqnDxhnnzEB_pIN5PXo5JILT6Qts2Ny23dwN5kpxE2vbUYy-LUNBDfMaazccvodFCY_pRAGYkVIRbfamSGolablecx2wf2vdJ7gufwDzBfOzYl2-pk0bXlSsHc6xHnLFNWhKm2Us2PmOIcyhPmYsMbFs2efs7cmgvk&uniplatform=NZKPT&language=CHS)
+
+（下载量：5498，被引量：33）
 
 ---
 
@@ -107,6 +113,8 @@ redirect_from:
 <font face=楷体>本文基于产业数字化和数字产业化互促的视角，在对数字化产业链协同进行理论机制分析的基础上，利用2008—2019年中国上市公司数据实证检验了城市层面数字企业补助对其他企业数字化的影响。研究发现：对数字企业的补助能够通过产业间的传导，为其他产业的数字化转型赋能。经济意义上，数字产业的补助具有正向的普惠性。统计意义上，数字化补助对非国有企业、服务业企业、成长期企业以及所在城市数字化关注度低的企业作用效果更为显著；同时，数字产业的发展对于制造类企业和衰退期企业同样起到了数字化转型的支持作用。机制检验表明，其主要通过增加数字产业服务供给、激励数字化人力资本投入促进了企业数字化。进一步研究发现，由于产业链上游偏垄断且数字化解决方案专用性强，而下游竞争更充分、数字化方案通用性强，更能发挥数字化的规模效应，因此政府对数字企业的补助对产业链下游企业数字化有显著促进作用。在产业数字化中也存在产业链协同效应，上游企业的数字化水平对其下游企业具有显著的正向溢出效应。本文丰富了企业数字化促进机制和产业链协同发展的研究，为企业数字化精准施策提供了一定参考。</font>
 [文章链接](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0PEPq_1Z2LtCatHigP7OMr_rPsuqtATN1xv9ngeMJgzw-aCMSjWvgWsXHtVSLbaZnzdWAkE1xupV-JBWvmmgxfpZZN1jW-3XyePMyaVxybeALvWwxIZMouim1XdZqhrfItQ3lBfZrbE1g==&uniplatform=NZKPT&language=CHS)
 
+（下载量：11020，被引量：182）
+
 ---
 
 
@@ -124,6 +132,8 @@ redirect_from:
 [**摘要**]
 <font face=楷体>跨境电商作为一种贸易新业态,能够优化供需匹配,高效配置各类跨境资源,是外贸高质量发展的新引擎。本文将信息不对称和资金占用成本纳入经济订货批量模型,并基于2008—2016年全国税收调查数据与中国海关进出口数据,从理论和实证上研究了跨境电商政策对企业供应链效率的影响。结果表明,跨境电商政策显著提升了企业的供应链效率。机制分析发现,缓解信息不对称和减少资金占用是跨境电商政策提升企业供应链效率的主要渠道。异质性分析表明,跨境电商政策对缺乏出口经验的企业、小微企业以及所在地区生产性服务业更完善、国内市场一体化水平更高的企业供应链效率的提升作用更大。进一步分析显示,数字贸易规则的签署有助于放大跨境电商政策对企业供应链效率的积极影响。本文为数字经济背景下如何维护产业链供应链稳定畅通,提高微观企业运营效率提供了经验证据。</font>[文章链接](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0Mav8dlZMO1FNZUH6J3SP7NGgWnNvDFpzuz7dpJBlkCp8yaHIyk7UvBbyS_glpWWfSNfV8I-DJl9-_52krWGrAieaVvF2phgxzdasY5PsN1jqWhrqkAUS9rP2aLCOf_Go0=&uniplatform=NZKPT&language=CHS)
 
+（期刊封面文章）
+
 ---
 
 
@@ -140,6 +150,8 @@ redirect_from:
 
 [**摘要**]
 <font face=楷体>利用2006年颁布的《中国鼓励引进技术目录》,从产业内(企业)和产业间的视角全面考察了鼓励技术引进政策的创新溢出效应。经多种稳健性分析和考虑内生性问题后发现，这一政策显著促进了技术引进经费的增加，且具有创新溢出效应。从产业内(企业)溢出效应看，鼓励技术引进政策通过激发企业创新内部动力和增强企业创新外部支撑，促进了本产业内(企业)的创新，主要是激励了非发明专利申请。从产业间溢出效应看，鼓励技术引进政策能够在产业间起到创新涟漪效应，增加研发投入和降低融资约束是企业承接溢出效应的关键。经异质性分析发现：鼓励技术引进政策对混合所有制企业的创新促进效应更强；相比民营企业，鼓励技术引进政策更多地促进了国有企业的发明专利申请。进一步分析发现：鼓励技术引进政策造成国内中间品以及国内最终品的市场占有率下降；上游配套产业加大研发力度、提高竞争力，有助于降低鼓励技术引进政策对国内产品的挤出效应。研究为全面审视鼓励技术引进政策的产业关联创新溢出效应、“靶向”引进先进适用技术、优化创新政策的传导路径、应对技术管制的长臂管辖等提供了实践参考。</font>[文章链接](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0O1MEw7W98jUQVvFnlNoNGRfEThJXI2QmATb-J3T-Fdqvg65MmfBRwF48ppFFcvasM22xCk0P17My7DQHsbWwlMNAgjNDtD9P2L1qtzm1qMNq31nr1Yvs0Gt6r-N-KtkwuigkTMKlOyRXUOwSJw1w8RB8CcFRR0orYI2jhAj1fPWVngSBjzzcUL&uniplatform=NZKPT&language=CHS)
+
+（国研网转载：https://d.drcnet.com.cn/?DocID=6955214&leafid=14746&chnid=3836）
 
 ---
 
@@ -159,6 +171,8 @@ redirect_from:
 [**摘要**]
 <font face=楷体>加快全国统一大市场建设不仅有助于企业提升中间品的质量，还对分散企业供应链风险、实现强链补链有重要的作用。利用2008—2020年中国A股上市公司的数据研究了企业数字化对企业跨区域的供应链布局影响。研究发现，企业数字化可促进企业在省外布局供应链。机制分析发现，企业数字化降低了企业的供应链管理成本和沟通成本，从而可促进企业在省外布局供应链。调节效应分析发现，企业供应链越集中、研发强度越大，越能增强企业数字化对企业跨区域供应链布局的促进作用。进一步研究发现，相比于传统企业，企业数字化对企业跨区域供应链布局的促进作用在高科技企业中更显著。为此，要发挥数字技术在促进企业跨区域供应链布局中的积极作用，总结和推广供应链数字化的典型案例，培育和打造个性化的数字化服务商。</font>[文章链接](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NAvneOKTmC1NAT91EmRUggiXcZQb2C4TQ_sAoyjfkPAGo_CtyghqKpFpFPUaM2XNw2hPNk-rrkRDHzwAXd4J3gvF-ly9XtV0banFCJqRCH3WFTA0AvFEOIx3bGEDzeazxugdJt0mRKtWe0b0Zq4K3ym9wFWGQyQik7czoqAoEGMe5E5tu5rdNl&uniplatform=NZKPT&language=CHS)
 
+（期刊封面文章）
+
 ---
 
 
@@ -176,6 +190,7 @@ redirect_from:
 [**摘要**]
 <font face=楷体>本文基于2010—2020年中国上市公司数据，实证研究了企业数字化对供应链融资的影响。研究结果显示，数字化提高了企业风险承担能力和经营绩效，显著促进了商业信用供给。随着数字化的深入推进，企业延缓了客户销售款的收取并且更快地向供应商支付货款。异质性分析结果表明，企业数字化的供应链融资效应在非国有企业、上下游数字化协同水平较高以及地区信任水平较低的样本中更为显著；企业数字化主要促进了以融资而非交易为目的的商业信用供给；数字化促使供应链中的资金显著流向了交易次数较少、非国有企业以及融资约束较低的上下游供应商和客户。应继续推进数字技术在企业信用评估、风险规避和供应链协作中的应用，为供应链发挥融资作用提供有力支持。</font>[文章链接](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NAvneOKTmC1NAT91EmRUggiXcZQb2C4TS3FCTiyQ8qYnlKqWPvxMCtzN8bxnmsh5NdcROU6oXfM6LcTqdOMfINzHXlBHzLF7i1ZaNUWJTuFd_-ZzMgVkk2flpop0IYnV5gtiDrvC9QR1OWxY18Gusz8ySrqPOKj7fCU032Ds0IZ0pIZ978PrtN&uniplatform=NZKPT&language=CHS)
 
+
 ---
 
 
@@ -192,6 +207,8 @@ redirect_from:
 
 [**摘要**]
 <font face=楷体>在生产高度分工、全球贸易联系不断加强的背景下，一国经济活动的开展往往需要多个国内外企业的中间产品予以支持。企业间形成的复杂供应、销售网络不仅便利了贸易来往、降低生产成本，也带来了外部负面冲击跨区域、跨行业传播的潜在风险。梳理和分析近年来逐渐兴起的生产网络研究发现：(1)生产网络理论的发展在考虑要素替代弹性、市场扭曲和网络内生调整后对现实的解释力增强；(2)生产网络分析在准确刻画产业网络结构特征、合理评估外部冲击上具有重要应用价值；(3)中国复杂的国内外产业网络体系、产业政策的应用、数字经济的发展以及面临的不确定性冲击都为生产网络研究提供了丰富的场景；(4)生产网络除了广泛应用于评估各类冲击的传播外，未来的研究方向主要还在于挖掘大样本的供应网络数据、考虑网络内生变化及其对经济增长和企业经营的影响。</font>[文章链接](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0POsum-rhPo7s7sHMputOWIhojGQdKjotg4KuAtkQE3ui5UAjpIr9hgC5zwVqSbFqFn1qui5n8JYxF9n4ALU8mw4sGTc7g9G9t2_Lj9x172TVy8sYlRyVfFYF5uWek-VhBxQTXrsf1tzYLtzZEXyJDeo0JAm7tcY8_dyWo0zC4FPeVKCBtliaAt&uniplatform=NZKPT&language=CHS)
+
+（人大报刊复印资料《产业经济》2023年第1期全文转载）
 
 ---
 
@@ -259,7 +276,7 @@ Zhang M, and **C Wang**. <font color=blue>External shocks and corporate performa
 <!-- Zhang M, and **C Wang** -->
 
 [**摘要**]
-<font face=Times New Roman>Using difference-in-differences (DID) approach and the data of China’s listed companies, we evaluate the impact of 2011 Fukushima earthquake on Chinese corporate performance. The results show that the Fukushima earthquake reduces the quarterly sales growth rate by an average of 6.71%. This effect is more pronounced for high-tech and non-state-owned enterprises. Firms with ample cash flow and more diverse trading partners are more likely to recover from external shocks.</font>[文章链接](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2259582)
+<font face=Times New Roman> Using difference-in-differences (DID) approach and the data of China’s listed companies, we evaluate the impact of 2011 Fukushima earthquake on Chinese corporate performance. The results show that the Fukushima earthquake reduces the quarterly sales growth rate by an average of 6.71%. This effect is more pronounced for high-tech and non-state-owned enterprises. Firms with ample cash flow and more diverse trading partners are more likely to recover from external shocks.</font>[文章链接](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2259582)
 
 <!-- </div>
 </div> -->
