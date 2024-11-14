@@ -28,13 +28,13 @@ redirect_from:
 
 **研究成果：**
 
-- 发表于`<font color=blue>`《经济研究》《会计研究》《产业经济研究》《经济管理》《财经研究》《国际贸易问题》`</font>`等权威期刊杂志，研究成果多篇入选高被引、高下载论文，并被人大复印资料全文转载和期刊封面推荐。
-- 决策咨询研究成果多次被`<font color=blue>`上海市委宣传部、上海市委办公厅、上海市教委等相关部门采纳，获得省部级领导多项肯定性批示`</font>`。
+- 发表于<font color=blue>《经济研究》《会计研究》《产业经济研究》《经济管理》《财经研究》《国际贸易问题》</font>等权威期刊杂志，研究成果多篇入选高被引、高下载论文，并被人大复印资料全文转载和期刊封面推荐。
+- 决策咨询研究成果多次被<font color=blue>上海市委宣传部、上海市委办公厅、上海市教委等相关部门采纳，获得省部级领导多项肯定性批示</font>。
 - 作为副主编出版《2021-2022年中国产业发展报告——数字经济与产业发展》《乘数而上——数字赋能上海产业高质量发展》研究报告2部，参编《中国特色产业政策研究》等多部。
 
 **主要荣誉：**
 
-- 作为主要参与人`<font color=blue>`获教育部第九届高等学校科学研究（人文社科）优秀成果奖三等奖、上海市决策咨询成果一等奖（2项）`</font>`、中国工业经济学会青年杯论文竞赛提名奖、数字经济国际研讨会优秀成果奖等奖励。
+- 作为主要参与人<font color=blue>获教育部第九届高等学校科学研究（人文社科）优秀成果奖三等奖、上海市决策咨询成果一等奖（2项）</font>、中国工业经济学会青年杯论文竞赛提名奖、数字经济国际研讨会优秀成果奖等奖励。
 - 个人曾荣获校优秀共产党员、上海财经大学第八届研究生学术之星。
 
 **课题研究：**参与国家社科基金一般项目、上海市哲学社会科学规划课题、上海市决策咨询重大课题、上海市经信委重大招标课题等10余项。
@@ -47,7 +47,7 @@ redirect_from:
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济研究》，2023年</div><img src='images/jjyj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-余典范,龙睿,**王超**.`<font color=blue>`数字经济与边界地区污染治理.`<font color=red>`经济研究`</font>`,2023.`</font>`
+余典范,龙睿,**王超**.<font color=blue>数字经济与边界地区污染治理.<font color=red>经济研究</font>,2023.</font>
 
 <!-- 余典范, 龙睿,**王超** -->
 
@@ -65,7 +65,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《会计研究》，2023年</div><img src='images/kjyj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-余典范,**王超**,李鑫.`<font color=blue>`何种政府采购能发挥靶向创新效应?——来自上市公司的证据.`<font color=red>`会计研究`</font>`,2023.`</font>`
+余典范,**王超**,李鑫.<font color=blue>何种政府采购能发挥靶向创新效应?——来自上市公司的证据.<font color=red>会计研究</font>,2023.</font>
 
 <!-- 余典范,**王超**,李鑫 -->
 
@@ -82,7 +82,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济管理》，2023年</div><img src='images/jjgl.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-**王超**,余典范,龙睿.`<font color=blue>`经济政策不确定性与企业数字化——垫脚石还是绊脚石?.`<font color=red>`经济管理`</font>`,2023.`</font>`
+**王超**,余典范,龙睿.<font color=blue>经济政策不确定性与企业数字化——垫脚石还是绊脚石?.<font color=red>经济管理</font>,2023.</font>
 
 <!-- **王超**, 余典范, 龙睿 -->
 
@@ -99,7 +99,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济管理》，2022年</div><img src='images/jjgl2.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-余典范,**王超**,陈磊.`<font color=blue>`政府补助、产业链协同与企业数字化.`<font color=red>`经济管理`</font>`,2022.`</font>`
+余典范,**王超**,陈磊.<font color=blue>政府补助、产业链协同与企业数字化.<font color=red>经济管理</font>,2022.</font>
 
 <!-- 余典范, **王超**,陈磊 -->
 
@@ -116,7 +116,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《国际贸易问题》，2024年</div><img src='images/gjmywt.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-余典范,贾咏琪,**王超**.`<font color=blue>`跨境电子商务与企业供应链效率——基于跨境电商政策的经验研究.`<font color=red>`国际贸易问题`</font>`,2024.`</font>`
+余典范,贾咏琪,**王超**.<font color=blue>跨境电子商务与企业供应链效率——基于跨境电商政策的经验研究.<font color=red>国际贸易问题</font>,2024.</font>
 
 <!-- 余典范,贾咏琪, **王超** -->
 
@@ -133,7 +133,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《产业经济研究》，2023年</div><img src='images/cyjjyj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-陈磊,余典范,**王超**.`<font color=blue>`鼓励技术引进政策的创新溢出效应.`<font color=red>`产业经济研究`</font>`,2023.`</font>`
+陈磊,余典范,**王超**.<font color=blue>鼓励技术引进政策的创新溢出效应.<font color=red>产业经济研究</font>,2023.</font>
 
 <!-- 陈磊, 余典范,**王超** -->
 
@@ -151,7 +151,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《当代财经》，2023年</div><img src='images/ddcj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-**王超**,余典范.`<font color=blue>`企业数字化与跨区域供应链布局——基于统一大市场建设的视角.`<font color=red>`当代财经`</font>`,2023.`</font>`
+**王超**,余典范.<font color=blue>企业数字化与跨区域供应链布局——基于统一大市场建设的视角.<font color=red>当代财经</font>,2023.</font>
 
 <!-- **王超**, 余典范 -->
 
@@ -168,7 +168,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济与管理研究》，2023年</div><img src='images/jjyglyj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-**王超**,余典范.`<font color=blue>`企业数字化的供应链融资效应——基于商业信用视角.`<font color=red>`经济与管理研究`</font>`,2023.`</font>`
+**王超**,余典范.<font color=blue>企业数字化的供应链融资效应——基于商业信用视角.<font color=red>经济与管理研究</font>,2023.</font>
 
 <!-- **王超**, 余典范 -->
 
@@ -185,7 +185,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《产经评论》，2022年</div><img src='images/cjpl.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-余典范,**王超**,龙睿.`<font color=blue>`生产网络的理论与应用研究进展.`<font color=red>`产经评论`</font>`,2022.`</font>`
+余典范,**王超**,龙睿.<font color=blue>生产网络的理论与应用研究进展.<font color=red>产经评论</font>,2022.</font>
 
 <!-- 余典范,**王超**,龙睿 -->
 
@@ -202,7 +202,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《北京体育大学学报》，2021年</div><img src='images/btdxb.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-王裕雄,**王超**,等.`<font color=blue>`极端条件下体育经济韧性的微观行为基础：从SARS到新冠疫情的历史自然实验研究.`<font color=red>`北京体育大学学报`</font>`,2021.`</font>`
+王裕雄,**王超**,等.<font color=blue>极端条件下体育经济韧性的微观行为基础：从SARS到新冠疫情的历史自然实验研究.<font color=red>北京体育大学学报</font>,2021.</font>
 
 <!-- 王裕雄,**王超**,周腾军,靳厚忠,刘媛媛 -->
 
@@ -219,7 +219,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《北京体育大学学报》，2020年</div><img src='images/btdxb2.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-王裕雄,Catherine Lou,**王超**.`<font color=blue>`北京居民体育消费的两阶段决策差异及政策涵义.`<font color=red>`北京体育大学学报`</font>`,2020.`</font>`
+王裕雄,Catherine Lou,**王超**.<font color=blue>北京居民体育消费的两阶段决策差异及政策涵义.<font color=red>北京体育大学学报</font>,2020.</font>
 
 <!-- 王裕雄,Catherine Lou,**王超** -->
 
@@ -236,7 +236,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*International Studies of Economics*》，2023年</div><img src='images/ise.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-Yu, D., R. Long, and **C. Wang**. `<font color=blue >`Production Network: Application in China.`<font color=red>`International Studies of Economics`</font>`,2023.`</font>`
+Yu, D., R. Long, and **C. Wang**. <font color=blue >Production Network: Application in China.<font color=red>International Studies of Economics</font>,2023.</font>
 
 <!-- Yu, D., R. Long, and **C. Wang** -->
 
@@ -253,7 +253,7 @@ Based on the input–output table and the supplier–customer data disclosed by 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*Applied Economics Letters*》，2023年</div><img src='images/ael.png' alt="sym" width="140%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-Zhang M, and **C Wang**. `<font color=blue>`External shocks and corporate performance, `<font color=red>`Applied Economics Letters`</font>`,2023.`</font>`
+Zhang M, and **C Wang**. <font color=blue>External shocks and corporate performance, <font color=red>Applied Economics Letters</font>,2023.</font>
 
 <!-- Zhang M, and **C Wang** -->
 
