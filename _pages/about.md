@@ -21,7 +21,7 @@ redirect_from:
 
 # 📝 论文发表
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/经济管理.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/jjgl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [经济政策不确定性与企业数字化——垫脚石还是绊脚石?]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0OnNi4PjQEZb6USd0UB8efqnDxhnnzEB_pIN5PXo5JILT6Qts2Ny23dwN5kpxE2vbUYy-LUNBDfMaazccvodFCY_pRAGYkVIRbfamSGolablecx2wf2vdJ7gufwDzBfOzYl2-pk0bXlSsHc6xHnLFNWhKm2Us2PmOIcyhPmYsMbFs2efs7cmgvk&uniplatform=NZKPT&language=CHS))
