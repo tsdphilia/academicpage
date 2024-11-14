@@ -28,7 +28,7 @@ redirect_from:
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济研究》，2023年</div><img src='images/jjyj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>余典范,龙睿,王超.数字经济与边界地区污染治理.<font color=red>经济研究</font>,2023.</font>
+余典范,龙睿,**王超**.<font color=blue>数字经济与边界地区污染治理.<font color=red>经济研究</font>,2023.</font>
 
  <!-- 余典范, 龙睿,**王超** -->
 
@@ -42,7 +42,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《会计研究》，2023年</div><img src='images/kjyj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>余典范,王超,李鑫.何种政府采购能发挥靶向创新效应?——来自上市公司的证据.会计研究,2023.</font>
+余典范,**王超**,李鑫.<font color=blue>何种政府采购能发挥靶向创新效应?——来自上市公司的证据.<font color=red>会计研究</font>,2023.</font>
 
  <!-- 余典范,**王超**,李鑫 -->
 
@@ -55,7 +55,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济管理》，2023年</div><img src='images/jjgl.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>王超,余典范,龙睿.经济政策不确定性与企业数字化——垫脚石还是绊脚石?.经济管理,2023.</font>
+**王超**,余典范,龙睿.<font color=blue>经济政策不确定性与企业数字化——垫脚石还是绊脚石?.<font color=red>经济管理</font>,2023.</font>
 
 <!-- **王超**, 余典范, 龙睿 -->
 
@@ -68,7 +68,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济管理》，2022年</div><img src='images/jjgl2.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>余典范,王超,陈磊.政府补助、产业链协同与企业数字化.经济管理,2022.</font>
+余典范,**王超**,陈磊.<font color=blue>政府补助、产业链协同与企业数字化.<font color=red>经济管理</font>,2022.</font>
 <!-- 余典范, **王超**,陈磊 -->
 
 [**摘要**]
@@ -81,7 +81,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《国际贸易问题》，2024年</div><img src='images/gjmywt.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>余典范,贾咏琪,王超.跨境电子商务与企业供应链效率——基于跨境电商政策的经验研究.国际贸易问题,2024.</font>
+余典范,贾咏琪,**王超**.<font color=blue>跨境电子商务与企业供应链效率——基于跨境电商政策的经验研究.<font color=red>国际贸易问题</font>,2024.</font>
 <!-- 余典范,贾咏琪, **王超** -->
 
 [**摘要**]
@@ -94,7 +94,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《产业经济研究》，2023年</div><img src='images/cyjjyj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>陈磊,余典范,王超.鼓励技术引进政策的创新溢出效应.产业经济研究,2023.</font>
+陈磊,余典范,**王超**.<font color=blue>鼓励技术引进政策的创新溢出效应.<font color=red>产业经济研究</font>,2023.</font>
 
 <!-- 陈磊, 余典范,**王超** -->
 
@@ -108,7 +108,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《当代财经》，2023年</div><img src='images/ddcj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>王超,余典范.企业数字化与跨区域供应链布局——基于统一大市场建设的视角.当代财经,2023.</font>
+**王超,**余典范.<font color=blue>企业数字化与跨区域供应链布局——基于统一大市场建设的视角.<font color=red>当代财经</font>,2023.</font>
 
 <!-- **王超**, 余典范 -->
 
@@ -121,7 +121,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济与管理研究》，2023年</div><img src='images/jjyglyj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>王超,余典范.企业数字化的供应链融资效应——基于商业信用视角.经济与管理研究,2023.</font>
+**王超**,余典范.<font color=blue>企业数字化的供应链融资效应——基于商业信用视角.<font color=red>经济与管理研究</font>,2023.</font>
 
 <!-- **王超**, 余典范 -->
 
@@ -134,7 +134,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《产经评论》，2022年</div><img src='images/cjpl.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>余典范,王超,龙睿.生产网络的理论与应用研究进展.产经评论,2022.</font>
+余典范,**王超**,龙睿.<font color=blue>生产网络的理论与应用研究进展.<font color=red>产经评论</font>,2022.</font>
 
 <!-- 余典范,**王超**,龙睿 -->
 
@@ -147,7 +147,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《北京体育大学学报》，2021年</div><img src='images/btdxb.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>王裕雄,王超,等.极端条件下体育经济韧性的微观行为基础：从SARS到新冠疫情的历史自然实验研究.北京体育大学学报,2021.</font>
+王裕雄,**王超**,等.<font color=blue>极端条件下体育经济韧性的微观行为基础：从SARS到新冠疫情的历史自然实验研究.<font color=red>北京体育大学学报</font>,2021.</font>
 
 <!-- 王裕雄,**王超**,周腾军,靳厚忠,刘媛媛 -->
 
@@ -160,7 +160,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《北京体育大学学报》，2020年</div><img src='images/btdxb2.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>王裕雄,Catherine Lou,王超.北京居民体育消费的两阶段决策差异及政策涵义.北京体育大学学报,2020.</font>
+王裕雄,Catherine Lou,**王超**.<font color=blue>北京居民体育消费的两阶段决策差异及政策涵义.<font color=red>北京体育大学学报</font>,2020.</font>
 
 <!-- 王裕雄,Catherine Lou,**王超** -->
 
@@ -173,7 +173,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*International Studies of Economics*》，2023年</div><img src='images/ise.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>Yu, D., R. Long, and C. Wang. Production Network: Application in China.International Studies of Economics,2023.</font>
+Yu, D., R. Long, and **C. Wang**. <font color=blue >Production Network: Application in China.<font color=red>International Studies of Economics</font>,2023.</font>
 <!-- Yu, D., R. Long, and **C. Wang** -->
 
 [**摘要**]
@@ -186,7 +186,7 @@ Based on the input–output table and the supplier–customer data disclosed by 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*Applied Economics Letters*》，2023年</div><img src='images/ael.png' alt="sym" width="140%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 3>Zhang M, and C Wang*. External shocks and corporate performance, Applied Economics Letters,2023.</font>
+Zhang M, and **C Wang**. <font color=blue>External shocks and corporate performance, <font color=red>Applied Economics Letters</font>,2023.</font>
 
 <!-- Zhang M, and **C Wang** -->
 
