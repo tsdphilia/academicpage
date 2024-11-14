@@ -39,7 +39,7 @@ redirect_from:
 **主要荣誉：**
 
 - 作为主要参与人获教育部第九届高等学校科学研究（人文社科）优秀成果奖三等奖、上海市决策咨询成果一等奖（2项）、中国工业经济学会青年杯论文竞赛提名奖、数字经济国际研讨会优秀成果奖等奖励。
-- 
+  
 - 个人曾荣获校优秀共产党员、上海财经大学第八届研究生学术之星。
 
 **课题研究：**参与国家社科基金一般项目、上海市哲学社会科学规划课题、上海市决策咨询重大课题、上海市经信委重大招标课题等10余项。
@@ -132,7 +132,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《当代财经》，2023年</div><img src='images/ddcj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-**王超,**余典范.<font color=blue>企业数字化与跨区域供应链布局——基于统一大市场建设的视角.<font color=red>当代财经</font>,2023.</font>
+**王超**,余典范.<font color=blue>企业数字化与跨区域供应链布局——基于统一大市场建设的视角.<font color=red>当代财经</font>,2023.</font>
 
 <!-- **王超**, 余典范 -->
 
