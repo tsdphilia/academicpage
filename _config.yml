@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "王超"
-description              : "华东理工大学商学院讲师 "
+description              : 
 # repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "wangchao_econ@126.com"
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

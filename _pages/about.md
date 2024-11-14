@@ -182,7 +182,7 @@ Based on the input–output table and the supplier–customer data disclosed by 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*Applied Economics Letters*》，2023年</div><img src='images/ael.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*Applied Economics Letters*》，2023年</div><img src='images/ael.png' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [External shocks and corporate performance: evidence from the 2011 Fukushima earthquake](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2259582)
@@ -199,16 +199,27 @@ Using difference-in-differences (DID) approach and the data of China’s listed 
 # 🎖 课题研究
 
 -[1] 上海财经大学研究生创新基金项目“技术引进的创新溢出效应——基于产业关联的视角”（主持）
+
 -[2] 国家社会科学基金一般项目“我国核心技术自主创新突破口与实现路径的体制机制研究”（参与）
+
 -[3] 上海市教育委员会课题“上海加快供应链数字化转型研究”（参与）
+
 -[4] 上海市决咨委重大招标课题“全球城市科技创新网络的竞合新模式研究”（参与）
+
 -[5] 上海市哲学社会科学规划课题“提升上海产业链供应链韧性和安全水平高端论坛” （参与）
+
 -[6] 上海市哲学社会科学规划课题“上海先进制造业发展面临的主要问题与对策研究”（参与）
+
 -[7] 上海市经济和信息化委员会委托课题“上海重点领域产业链数字化转型的方式路径及政策需求研究”（参与）
+
 -[8] 上海市经信委重大招标课题“激发本市民营企业投资动能的对策研究”（参与）
+
 -[9] 上海市哲学社会科学规划课题“激发上海民营经济发展活力研究”（参与）
+
 -[10] 上海市经济和信息化委员会委托课题“上海产业和信息化创新法治保障专题研究”（参与）
+
 -[11] 上海市人民政府发展研究中心课题“上海提升全球资源配置功能的产业升级方向路径研究”（参与）
+
 -[12] 上海市人民政府决策咨询研究重大课题“上海降低工业企业成本研究”（参与）
 
 # 📖 著作出版
@@ -222,18 +233,27 @@ Using difference-in-differences (DID) approach and the data of China’s listed 
 
 ## 个人
 -[1] 上海财经大学第八届研究生学术之星
+
 -[2] 上海市优秀毕业生
+
 -[3] 山西大学优秀共产党员
 
 ## 集体
 -[1] 大变局下提升我国产业链供应链韧性和安全水平的对策研究，第九届高等学校科学研究优秀成果奖三等奖（排名第3）
+
 -[2] 上海增强产业链供应链自主可控能力研究，第十四届上海市决策咨询研究成果奖一等奖（排名第2）
+
 -[3] 新冠疫情冲击下全球产业链布局调整对上海产业发展的影响与对策研究，第十三届上海市决策咨询研究成果奖一等奖（排名第4）
+
 -[4] 中国工业经济学会青年杯论文竞赛提名奖
 
 # 💻 学术活动（2024年至今）
 
 - 2024年11月9日，“市场、科技与社会治理：中国式现代化前沿议题”论坛，上海，华东理工大学
+- 
 - 2024年11月3日，2024国际进口贸易论坛，上海，华东理工大学
+- 
 - 2024年11月2日，应用经济学学科论文工作坊，上海，华东理工大学
+- 
 - 2024年9月21日，中国工业经济学会2024年学术年会，昆明，云南财经大学
+- 
