@@ -182,7 +182,7 @@ Based on the input–output table and the supplier–customer data disclosed by 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*Applied Economics Letters*》，2023年</div><img src='images/ael.png' alt="sym" width="200%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*Applied Economics Letters*》，2023年</div><img src='images/ael.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [External shocks and corporate performance: evidence from the 2011 Fukushima earthquake](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2259582)
