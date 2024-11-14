@@ -28,13 +28,13 @@ redirect_from:
 
 **研究成果：**
 
-- 发表于<font face=楷体>《经济研究》《会计研究》《产业经济研究》《经济管理》《财经研究》《国际贸易问题》</font>等权威期刊杂志，研究成果多篇入选高被引、高下载论文，并被人大复印资料全文转载和期刊封面推荐。
-- 决策咨询研究成果多次被<font face=楷体>上海市委宣传部、上海市委办公厅、上海市教委等相关部门采纳，获得省部级领导多项肯定性批示</font>。
+- 发表于<font face=华文中宋>《经济研究》《会计研究》《产业经济研究》《经济管理》《财经研究》《国际贸易问题》</font>等权威期刊杂志，研究成果多篇入选高被引、高下载论文，并被人大复印资料全文转载和期刊封面推荐。
+- 决策咨询研究成果多次被<font face=华文中宋>上海市委宣传部、上海市委办公厅、上海市教委等相关部门采纳，获得省部级领导多项肯定性批示</font>。
 - 作为副主编出版《2021-2022年中国产业发展报告——数字经济与产业发展》《乘数而上——数字赋能上海产业高质量发展》研究报告2部，参编《中国特色产业政策研究》等多部。
 
 **主要荣誉：**
 
-- 作为主要参与人<font face=楷体>获教育部第九届高等学校科学研究（人文社科）优秀成果奖三等奖、上海市决策咨询成果一等奖（2项）</font>、中国工业经济学会青年杯论文竞赛提名奖、数字经济国际研讨会优秀成果奖等奖励。
+- 作为主要参与人<font face=华文中宋>获教育部第九届高等学校科学研究（人文社科）优秀成果奖三等奖、上海市决策咨询成果一等奖（2项）</font>、中国工业经济学会青年杯论文竞赛提名奖、数字经济国际研讨会优秀成果奖等奖励。
 - 个人曾荣获校优秀共产党员、上海财经大学第八届研究生学术之星。
 
 **课题研究：**参与国家社科基金一般项目、上海市哲学社会科学规划课题、上海市决策咨询重大课题、上海市经信委重大招标课题等10余项。
@@ -106,6 +106,7 @@ redirect_from:
 [**摘要**]
 <font face=楷体>本文基于产业数字化和数字产业化互促的视角，在对数字化产业链协同进行理论机制分析的基础上，利用2008—2019年中国上市公司数据实证检验了城市层面数字企业补助对其他企业数字化的影响。研究发现：对数字企业的补助能够通过产业间的传导，为其他产业的数字化转型赋能。经济意义上，数字产业的补助具有正向的普惠性。统计意义上，数字化补助对非国有企业、服务业企业、成长期企业以及所在城市数字化关注度低的企业作用效果更为显著；同时，数字产业的发展对于制造类企业和衰退期企业同样起到了数字化转型的支持作用。机制检验表明，其主要通过增加数字产业服务供给、激励数字化人力资本投入促进了企业数字化。进一步研究发现，由于产业链上游偏垄断且数字化解决方案专用性强，而下游竞争更充分、数字化方案通用性强，更能发挥数字化的规模效应，因此政府对数字企业的补助对产业链下游企业数字化有显著促进作用。在产业数字化中也存在产业链协同效应，上游企业的数字化水平对其下游企业具有显著的正向溢出效应。本文丰富了企业数字化促进机制和产业链协同发展的研究，为企业数字化精准施策提供了一定参考。</font>
 [文章链接](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0PEPq_1Z2LtCatHigP7OMr_rPsuqtATN1xv9ngeMJgzw-aCMSjWvgWsXHtVSLbaZnzdWAkE1xupV-JBWvmmgxfpZZN1jW-3XyePMyaVxybeALvWwxIZMouim1XdZqhrfItQ3lBfZrbE1g==&uniplatform=NZKPT&language=CHS)
+
 ---
 
 
@@ -258,7 +259,7 @@ Zhang M, and **C Wang**. <font color=blue>External shocks and corporate performa
 <!-- Zhang M, and **C Wang** -->
 
 [**摘要**]
-<font face=Times New Roman>BUsing difference-in-differences (DID) approach and the data of China’s listed companies, we evaluate the impact of 2011 Fukushima earthquake on Chinese corporate performance. The results show that the Fukushima earthquake reduces the quarterly sales growth rate by an average of 6.71%. This effect is more pronounced for high-tech and non-state-owned enterprises. Firms with ample cash flow and more diverse trading partners are more likely to recover from external shocks.</font>[文章链接](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2259582)
+<font face=Times New Roman>Using difference-in-differences (DID) approach and the data of China’s listed companies, we evaluate the impact of 2011 Fukushima earthquake on Chinese corporate performance. The results show that the Fukushima earthquake reduces the quarterly sales growth rate by an average of 6.71%. This effect is more pronounced for high-tech and non-state-owned enterprises. Firms with ample cash flow and more diverse trading partners are more likely to recover from external shocks.</font>[文章链接](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2259582)
 
 <!-- </div>
 </div> -->
