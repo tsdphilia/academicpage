@@ -60,7 +60,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济管理》，2023年</div><img src='images/jjgl2.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济管理》，2022年</div><img src='images/jjgl2.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [政府补助、产业链协同与企业数字化](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0PEPq_1Z2LtCatHigP7OMr_rPsuqtATN1xv9ngeMJgzw-aCMSjWvgWsXHtVSLbaZnzdWAkE1xupV-JBWvmmgxfpZZN1jW-3XyePMyaVxybeALvWwxIZMouim1XdZqhrfItQ3lBfZrbE1g==&uniplatform=NZKPT&language=CHS)
@@ -73,10 +73,11 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《国际贸易问题》，2023年</div><img src='images/gjmywt.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《国际贸易问题》，2024年</div><img src='images/gjmywt.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [跨境电子商务与企业供应链效率——基于跨境电商政策的经验研究](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0Mav8dlZMO1FNZUH6J3SP7NGgWnNvDFpzuz7dpJBlkCp8yaHIyk7UvBbyS_glpWWfSNfV8I-DJl9-_52krWGrAieaVvF2phgxzdasY5PsN1jqWhrqkAUS9rP2aLCOf_Go0=&uniplatform=NZKPT&language=CHS)
+
 余典范,贾咏琪, **王超**
 
 [**摘要**]
@@ -84,6 +85,112 @@ redirect_from:
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《产业经济研究》，2023年</div><img src='images/cyjjyj.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[鼓励技术引进政策的创新溢出效应](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0O1MEw7W98jUQVvFnlNoNGRfEThJXI2QmATb-J3T-Fdqvg65MmfBRwF48ppFFcvasM22xCk0P17My7DQHsbWwlMNAgjNDtD9P2L1qtzm1qMNq31nr1Yvs0Gt6r-N-KtkwuigkTMKlOyRXUOwSJw1w8RB8CcFRR0orYI2jhAj1fPWVngSBjzzcUL&uniplatform=NZKPT&language=CHS)
+
+陈磊, 余典范,**王超**
+
+[**摘要**]
+利用2006年颁布的《中国鼓励引进技术目录》,从产业内(企业)和产业间的视角全面考察了鼓励技术引进政策的创新溢出效应。经多种稳健性分析和考虑内生性问题后发现，这一政策显著促进了技术引进经费的增加，且具有创新溢出效应。从产业内(企业)溢出效应看，鼓励技术引进政策通过激发企业创新内部动力和增强企业创新外部支撑，促进了本产业内(企业)的创新，主要是激励了非发明专利申请。从产业间溢出效应看，鼓励技术引进政策能够在产业间起到创新涟漪效应，增加研发投入和降低融资约束是企业承接溢出效应的关键。经异质性分析发现：鼓励技术引进政策对混合所有制企业的创新促进效应更强；相比民营企业，鼓励技术引进政策更多地促进了国有企业的发明专利申请。进一步分析发现：鼓励技术引进政策造成国内中间品以及国内最终品的市场占有率下降；上游配套产业加大研发力度、提高竞争力，有助于降低鼓励技术引进政策对国内产品的挤出效应。研究为全面审视鼓励技术引进政策的产业关联创新溢出效应、“靶向”引进先进适用技术、优化创新政策的传导路径、应对技术管制的长臂管辖等提供了实践参考。
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《当代财经》，2023年</div><img src='images/ddcj.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[企业数字化与跨区域供应链布局——基于统一大市场建设的视角](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NAvneOKTmC1NAT91EmRUggiXcZQb2C4TQ_sAoyjfkPAGo_CtyghqKpFpFPUaM2XNw2hPNk-rrkRDHzwAXd4J3gvF-ly9XtV0banFCJqRCH3WFTA0AvFEOIx3bGEDzeazxugdJt0mRKtWe0b0Zq4K3ym9wFWGQyQik7czoqAoEGMe5E5tu5rdNl&uniplatform=NZKPT&language=CHS)
+
+**王超**, 余典范
+
+[**摘要**]
+加快全国统一大市场建设不仅有助于企业提升中间品的质量，还对分散企业供应链风险、实现强链补链有重要的作用。利用2008—2020年中国A股上市公司的数据研究了企业数字化对企业跨区域的供应链布局影响。研究发现，企业数字化可促进企业在省外布局供应链。机制分析发现，企业数字化降低了企业的供应链管理成本和沟通成本，从而可促进企业在省外布局供应链。调节效应分析发现，企业供应链越集中、研发强度越大，越能增强企业数字化对企业跨区域供应链布局的促进作用。进一步研究发现，相比于传统企业，企业数字化对企业跨区域供应链布局的促进作用在高科技企业中更显著。为此，要发挥数字技术在促进企业跨区域供应链布局中的积极作用，总结和推广供应链数字化的典型案例，培育和打造个性化的数字化服务商。
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济与管理研究》，2023年</div><img src='images/jjyglyj.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[企业数字化的供应链融资效应——基于商业信用视角](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NAvneOKTmC1NAT91EmRUggiXcZQb2C4TS3FCTiyQ8qYnlKqWPvxMCtzN8bxnmsh5NdcROU6oXfM6LcTqdOMfINzHXlBHzLF7i1ZaNUWJTuFd_-ZzMgVkk2flpop0IYnV5gtiDrvC9QR1OWxY18Gusz8ySrqPOKj7fCU032Ds0IZ0pIZ978PrtN&uniplatform=NZKPT&language=CHS)
+
+**王超**, 余典范
+
+[**摘要**]
+本文基于2010—2020年中国上市公司数据，实证研究了企业数字化对供应链融资的影响。研究结果显示，数字化提高了企业风险承担能力和经营绩效，显著促进了商业信用供给。随着数字化的深入推进，企业延缓了客户销售款的收取并且更快地向供应商支付货款。异质性分析结果表明，企业数字化的供应链融资效应在非国有企业、上下游数字化协同水平较高以及地区信任水平较低的样本中更为显著；企业数字化主要促进了以融资而非交易为目的的商业信用供给；数字化促使供应链中的资金显著流向了交易次数较少、非国有企业以及融资约束较低的上下游供应商和客户。应继续推进数字技术在企业信用评估、风险规避和供应链协作中的应用，为供应链发挥融资作用提供有力支持。
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《产经评论》，2022年</div><img src='images/cjpl.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[生产网络的理论与应用研究进展](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0POsum-rhPo7s7sHMputOWIhojGQdKjotg4KuAtkQE3ui5UAjpIr9hgC5zwVqSbFqFn1qui5n8JYxF9n4ALU8mw4sGTc7g9G9t2_Lj9x172TVy8sYlRyVfFYF5uWek-VhBxQTXrsf1tzYLtzZEXyJDeo0JAm7tcY8_dyWo0zC4FPeVKCBtliaAt&uniplatform=NZKPT&language=CHS)
+
+余典范,**王超**,龙睿
+
+[**摘要**]
+在生产高度分工、全球贸易联系不断加强的背景下，一国经济活动的开展往往需要多个国内外企业的中间产品予以支持。企业间形成的复杂供应、销售网络不仅便利了贸易来往、降低生产成本，也带来了外部负面冲击跨区域、跨行业传播的潜在风险。梳理和分析近年来逐渐兴起的生产网络研究发现：(1)生产网络理论的发展在考虑要素替代弹性、市场扭曲和网络内生调整后对现实的解释力增强；(2)生产网络分析在准确刻画产业网络结构特征、合理评估外部冲击上具有重要应用价值；(3)中国复杂的国内外产业网络体系、产业政策的应用、数字经济的发展以及面临的不确定性冲击都为生产网络研究提供了丰富的场景；(4)生产网络除了广泛应用于评估各类冲击的传播外，未来的研究方向主要还在于挖掘大样本的供应网络数据、考虑网络内生变化及其对经济增长和企业经营的影响。
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《北京体育大学学报》，2021年</div><img src='images/btdxb.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[极端条件下体育经济韧性的微观行为基础：从SARS到新冠疫情的历史自然实验研究](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NccYaqEcStVpr5HdZXAPrMErgoajXP-Dzf999X-bBqE5bf2fUS0VlLMiSKirO_XD6twy2faISEhsU9rxh1rheiPLS-UfGZZdTE36hGMA7sU-EnOHw6qcnUgL_RgpYEvGkF_xW-LCdhOkX_j6FYF2ez6-3iWEgwFfZC6MWriqGSJyKy-ZAM6HBj&uniplatform=NZKPT&language=CHS)
+
+王裕雄,**王超**,周腾军,靳厚忠,刘媛媛
+
+[**摘要**]
+新冠疫情暴发以来,我国体育经济受到严重冲击,同时也展现出了很高的韧性,这种韧性来源于多个方面,其中最为基础的是内生于居民行为中的对疫情威胁的"对冲"反应,即疫情发生后居民的体育参与会增长,从而构筑了体育经济韧性的微观行为基础。这种"对冲"反应究竟是一个短期"应激"还是长期行为,这一问题既关系到疫情之后对体育经济发展趋势判断的现实意义,又对居民体育参与行为研究和疫情经济社会影响研究补充具有重要理论价值,进而可对极端经济韧性来源理论做出重要补充。利用2003年SARS疫情这一历史自然实验,在中国居民健康和营养调查(CHNS)历次调查数据基础上,使用计量模型在控制其他因素前提下比较有疫情省份和无疫情省份居民体育参与行为的差异来实证判断疫情影响,发现疫情冲击导致居民体育参与行为发生了持续但并非永久的改变。同时发现,疫情死亡病例对居民体育参与行为的影响比居民所在区域内是否有疫情,以及疫情发病病例的影响更为深远,所带来的增长幅度更大,持续时间更长。另外,疫情的影响存在城乡差异,对城市居民体育参与行为的影响更为深远。这一结果加深了人们对于居民体育参与行为的理解。通常改变体育参与行为被认为是复杂的过程,然而重大传染病疫情的发生却带来了立竿见影的改变,并且这种改变会持续较长时间。由此判断,体育经济所具有的独特韧性会帮助其在经受疫情的"洗礼"之后打开新的增长空间。
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《北京体育大学学报》，2020年</div><img src='images/btdxb2.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[北京居民体育消费的两阶段决策差异及政策涵义——基于Double-hurdle模型的研究](https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0OfFtgMNUNPwot0oWzXl6D2coj5h7G-bw6ywSUhy_BoywJKjdOm4nFopl_DdpgjXrbB0C7KsmHNCBcpMgWMN0GYDnYUIFimhgdZYuVkfvQNSmBs9bSEZDyl7CoT7IAtMj7LvAWwCWjjFDfdMjp5oNXK6RiWgilGIJNvc3AgBxTko5Lfdh4GJeY4&uniplatform=NZKPT&language=CHS)
+
+王裕雄,Catherine Lou,**王超**
+
+[**摘要**]
+体育消费在新时代扩内需、保增长中被寄予厚望,通过实证研究深入洞察居民体育消费行为可以为有效促进体育消费提供微观依据。通过抽样问卷调查采集了2018年北京居民体育消费及相关数据,使用Double-hurdle模型分析了他们在参与体育消费和体育消费支出2个决策阶段的影响机制,发现存在很大差异。参与决策中起显著决定作用的是年龄、性别、受教育水平、时间因素以及群众性体育活动赛事供给;支出决策中起显著决定作用的是受教育程度,居住地特征,收入,房产情况,职业,体育设施、群众性体育活动赛事和商业性体育培训服务的供给等。由此可以更准确理解居民体育消费行为,例如时间因素会影响体育消费参与,但不会影响体育消费支出;经济条件不会影响体育消费参与,但影响支出;体育设施、商业体育培训服务的改善对于提升体育消费参与没有作用,但对促进支出有显著作用,而群众性体育活动及赛事的宣传推广在两阶段决策中均能发挥作用。在此基础上可以制定更为精准的体育消费政策。
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*International Studies of Economics*》，2023年</div><img src='images/ise.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Production Network: Application in China](https://onlinelibrary.wiley.com/doi/full/10.1002/ise3.35)
+
+Yu, D., R. Long, and **C. Wang**
+
+[**摘要**]
+Based on the input–output table and the supplier–customer data disclosed by the listed companies in China, this paper builds China's production network on both industry level and firm level. We describe the characteristics of such network using various network indexes and obtain the following results: first, China's production network on industry level is featured by “small world” and “sparsity,” and continues to become sparser. The existence of hub-like sectors makes the influence of sectoral shocks on macro fluctuations increasingly important. Second, China's production network on firm level has three types of structures: horizontal, ring, and star. Automobile and pharmaceutical industries show obvious intra-industry network cluster features. This paper aims to deepen the understanding of production network on both macro and micro levels, and provide a basis for future study on the propagation of external shocks in production networks.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*Applied Economics Letters*》，2023年</div><img src='images/ael.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[External shocks and corporate performance: evidence from the 2011 Fukushima earthquake](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2259582)
+
+Zhang M, and **C Wang**
+
+[**摘要**]
+Using difference-in-differences (DID) approach and the data of China’s listed companies, we evaluate the impact of 2011 Fukushima earthquake on Chinese corporate performance. The results show that the Fukushima earthquake reduces the quarterly sales growth rate by an average of 6.71%. This effect is more pronounced for high-tech and non-state-owned enterprises. Firms with ample cash flow and more diverse trading partners are more likely to recover from external shocks.
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 
