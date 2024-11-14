@@ -14,7 +14,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='个人简介'></span>
 
 王超，华东理工大学商学院讲师，上海财经大学产业经济学博士（导师：余典范）。
 
@@ -22,6 +22,7 @@ redirect_from:
 
 个人曾荣获校优秀共产党员、上海财经大学第八届研究生学术之星。参与国家社科基金一般项目、上海市哲学社会科学规划课题、上海市决策咨询重大课题、上海市经信委重大招标课题等10余项。作为副主编出版《2021-2022年中国产业发展报告——数字经济与产业发展》《乘数而上——数字赋能上海产业高质量发展》研究报告2部，参编《中国特色产业政策研究》等多部。
 
+<span class='anchor' id='论文发表'></span>
 # 📝 论文发表
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济研究》，2023年</div><img src='images/jjyj.png' alt="sym" width="70%"></div></div>
@@ -182,7 +183,7 @@ Based on the input–output table and the supplier–customer data disclosed by 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*Applied Economics Letters*》，2023年</div><img src='images/ael.png' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《*Applied Economics Letters*》，2023年</div><img src='images/ael.png' alt="sym" width="140%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [External shocks and corporate performance: evidence from the 2011 Fukushima earthquake](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2259582)
@@ -195,6 +196,7 @@ Using difference-in-differences (DID) approach and the data of China’s listed 
 </div>
 </div>
 
+<span class='anchor' id='课题研究'></span>
 
 # 🎖 课题研究
 
@@ -222,12 +224,19 @@ Using difference-in-differences (DID) approach and the data of China’s listed 
 
 -[12] 上海市人民政府决策咨询研究重大课题“上海降低工业企业成本研究”（参与）
 
+<span class='anchor' id='著作出版'></span>
+
 # 📖 著作出版
 
 -[1]《乘数而上：数字经济与上海产业高质量发展》，上海人民出版社，2023年（副主编，第5章执笔，入选2023年度《上海智库报告》出版计划）
+
 -[2]《中国特色产业政策研究——理论探索、实践与经验总结》，格致出版社，2023年（第13章执笔）
+
 -[3]《2020年中国产业发展报告》上海人民出版社，2021年（第13章执笔）
+
 -[4]《2021-2022年中国产业发展报告》上海人民出版社，2024年（副主编，第14章执笔）
+
+<span class='anchor' id='荣誉奖项'></span>
 
 # 💬 荣誉奖项
 
@@ -247,13 +256,15 @@ Using difference-in-differences (DID) approach and the data of China’s listed 
 
 -[4] 中国工业经济学会青年杯论文竞赛提名奖
 
-# 💻 学术活动（2024年至今）
+<span class='anchor' id='学术活动'></span>
+
+# 💻 学术活动（2024年9月至今）
 
 - 2024年11月9日，“市场、科技与社会治理：中国式现代化前沿议题”论坛，上海，华东理工大学
-- 
+
 - 2024年11月3日，2024国际进口贸易论坛，上海，华东理工大学
-- 
+  
 - 2024年11月2日，应用经济学学科论文工作坊，上海，华东理工大学
-- 
+  
 - 2024年9月21日，中国工业经济学会2024年学术年会，昆明，云南财经大学
-- 
+  
