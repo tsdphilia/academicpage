@@ -28,7 +28,7 @@ redirect_from:
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">《经济研究》，2023年</div><img src='images/jjyj.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<font color=blue size = 10>[余典范,龙睿,王超.数字经济与边界地区污染治理.经济研究,2023.]</font> (https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NkPPGNmRdeRaoLw7EbyaojWfrfz97F2RBkmfW6s-X3aCd1VdGdphX32z6_8-x8nwn76E2YvBN5RnqtA1v5xh4-hFwc7a_7VM1fjIyOeUaWMS3fALq7pv-e4F3LYbKh9XaE5kfV1I2D-OhthNxgYtu6ks9z9CF8xnUJke4SN1LsJXNo42NwDbM0&uniplatform=NZKPT&language=CHS)
+<font color=blue size = 5>[余典范,龙睿,王超.数字经济与边界地区污染治理.经济研究,2023.] (https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NkPPGNmRdeRaoLw7EbyaojWfrfz97F2RBkmfW6s-X3aCd1VdGdphX32z6_8-x8nwn76E2YvBN5RnqtA1v5xh4-hFwc7a_7VM1fjIyOeUaWMS3fALq7pv-e4F3LYbKh9XaE5kfV1I2D-OhthNxgYtu6ks9z9CF8xnUJke4SN1LsJXNo42NwDbM0&uniplatform=NZKPT&language=CHS)</font>
 
  <!-- 余典范, 龙睿,**王超** -->
 
