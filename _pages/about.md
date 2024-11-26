@@ -63,6 +63,7 @@ redirect_from:
 
 
 - [First Prize of 18th National University Student Smart Car Competition(5G Autonomous Driving Group, National runner-up🥈)](https://zhijianli2003.github.io/images/first_prize.png), **Zhijian Li**, Zhang Yu, Tianyu Zhou, Yanmao He, Yuesheng Liu, &nbsp;2023.12,&nbsp;Chongqing,&nbsp;China
+- [First Prize of 2024 Provincial Undergraduate Electronic Design Competition(We are invited by Texas Instruments and open source our code)](https://github.com/ZhijianLi2003/ZLC_MSPM0_Peripheral_Library), **Zhijian Li**, Haoran Chen, Tianyu Zhou,  &nbsp;2024.08,&nbsp;Shandong,&nbsp;China
 
 # 📖 Educations and Work experience
 - ***2025.06 - 2030.06 (future)***,  &nbsp;Ph.D.student(Supervisor: [Prof. Fu Kun](http://www.aircas.ac.cn/sourcedb/cn/expert/yjy/201811/t20181106_5165762.html)), &nbsp;Aerospace Information Research Institute,&nbsp; Chinese Academy of Sciences,&nbsp; Beijing, &nbsp;China
