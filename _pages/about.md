@@ -70,7 +70,8 @@ redirect_from:
 - ***2021.09 - 2025.06 (now)***,  &nbsp;B.Eng. in Electronic Science and Technology, &nbsp;School of Mechanial and Information Engineering, &nbsp;Shandong University, &nbsp;Weihai,&nbsp; China. 
 
 # 💬 Talk and Contact
-- *2024.04*, Talk:["机信青年说（山东大学机电与信息工程学院公众号推文）"](https://mp.weixin.qq.com/s?__biz=MzAwNjI2NzM0NQ==&mid=2247534606&idx=1&sn=e2d0664c1999eb6a3a72556f2f55cbf6). 
+- *2024.11*, video:["我们把小车题做到了极致！3年电赛，冲刺最高奖！"](https://www.bilibili.com/video/BV1UJzgY7E3s/?vd_source=cc6e1299ec907ed5efddd8a4591377e3). 
+- *2024.04*, Talk:["机信青年说（山东大学机电与信息工程学院公众号推文）"](https://mp.weixin.qq.com/s?__biz=MzAwNjI2NzM0NQ==&mid=2247534606&idx=1&sn=e2d0664c1999eb6a3a72556f2f55cbf6).
 - *Email:* lizhijian_sdu@163.com
 - *github:* [ZhijianLi2003](https://github.com/ZhijianLi2003)
 - *gitee:* [warrior_Li](https://gitee.com/warrior_Li)
