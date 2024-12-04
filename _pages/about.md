@@ -117,10 +117,10 @@ Quality analysis of mangoes during storage using color imaging
 </div>
 
 # Publications and Conference Proceedings
-- *2023*,  A Two-stage Deep-learning Model for Detection and Occlusion-based Classification of Kashmiri Orchard Apples for Robotic Harvesting. *Journal of Biosystems Engineering, 48, 242-256*
+- *2023*,  A Two-stage Deep-learning Model for Detection and Occlusion-based Classification of Kashmiri Orchard Apples for Robotic Harvesting. *Journal of Biosystems Engineering, 48, 242-256*.
 - *2023*,  Recent advances in non-destructive techniques for grain quality monitoring. *Canadian Society for BioEngineering Annual Meet 2023*.
-- *2023*,  Classification of carambola (Averrhoa carambola l.) according to the maturation stage using computer vision. *15 Simpósio Latino Americano de Ciência de Alimentos e Nutrição - SLACAN (2023)*
-- *2024*,  Adaptability and Effectiveness of inbuilt vision foundational model to quantify grape foliage powdery mildew infection.
+- *2023*,  Classification of carambola (Averrhoa carambola l.) according to the maturation stage using computer vision. *15 Simpósio Latino Americano de Ciência de Alimentos e Nutrição - SLACAN (2023)*.
+- *2024*,  Adaptability and Effectiveness of inbuilt vision foundational model to quantify grape foliage powdery mildew infection. *Cornell CALS Summer Scholars Programs Poster Presentation*.
 
 # Competitions 
 - *2021.10*, Silver Medalist, Cloud Physician’s Vital Extraction Challenge, Inter IIT Tech Meet 11.0, IIT Kanpur
