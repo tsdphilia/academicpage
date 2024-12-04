@@ -37,7 +37,7 @@ In my free time, I love to play badminton and read books. Other than this, I als
 - *2022.05*: &nbsp; Summer Intern at Virginia Tech University. 
 
 # Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/manipulator.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/manipulator.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  Autonomous manipulation platform for tissue culture operation
@@ -75,7 +75,7 @@ Vanshika Sahu, Ayushi Saha, Marcus da Silva Ferreira, Sylvio Barbon Junior, Soms
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/disease_assessment_bird_eye_view.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/disease_assessment_bird_eye_view.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Adaptability and Effectiveness of inbuilt vision foundational model to quantify grape foliage powdery mildew infection
@@ -106,7 +106,7 @@ Simulating an autonomous navigation system for a ground robot using NAV2
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/mango.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/mango.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Quality analysis of mangoes during storage using color imaging
