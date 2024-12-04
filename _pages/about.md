@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am a final year student at the Department of Agricultural and Food Engineering, IIT Kharagpur, pursuing my Integrated Mtech (5 Year Course) in Agricultural Systems Management with micro-specialization in Artificial intelligence and its applications. I am currently working with Prof. Yu Jiang on developing an autonomous manipulation system for tissue culture operations at the CAIR lab at Cornell University. 
+I am a final year student at the Department of Agricultural and Food Engineering, IIT Kharagpur, pursuing my Integrated Mtech (5 Year Course) in Agricultural Systems Management with micro-specialization in Artificial intelligence and its applications. I am currently working with Prof. Yu Jiang on developing an autonomous manipulation system for tissue culture operations at the Cyber-Agricultural Intelligence and Robotics Lab [**CAIR**](https://cair.cals.cornell.edu/) lab at Cornell University. 
 
-My research interests lie in agricultural robotics and smart sensing and I am specifically interested in robotics and Vision integration for Agricultural and Food Automation and increasing the robustness and generalization capabilities of the autonomous robotic system method.
+My research interests lie in robotics automation and smart sensing, and I am specifically interested in robotics and Vision integration for Agricultural and Food Automation and increasing the robustness and generalization capabilities of the autonomous robotic system method.
 
-In my free time, I love to play badminton and read books. Other than this, I also love traveling to new places, especially hills and mountains and also cities for unique architecture.
+In my free time, I love to play badminton and read books. Other than this, I also love traveling to new places, especially hills and mountains and also cities, for unique architecture.
 
 # Research Interests
 - *Agricultural Robotics*
