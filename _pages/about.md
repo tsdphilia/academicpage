@@ -61,18 +61,6 @@ Divya Rathore, Divyanth L G, Lalit Reddy, Yogesh Chawla, **Mridula Buragohain**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSBE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Recent advances in non-destructive techniques for grain quality monitoring
-
- **Mridula Buragohain**, Jitendra Palliwal, Mohammad Nadimi
-
-**Oral Presentation**
-- Review of all the non-destructive techniques used and developed to date for grain quality monitoring.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">15 SLACAN 2023</div><img src='images/tea.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
