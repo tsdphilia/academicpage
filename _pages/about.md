@@ -37,7 +37,7 @@ In my free time, I love to play badminton and read books. Other than this, I als
 - *2022.05*: &nbsp; Summer Intern at Virginia Tech University. 
 
 # Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/img2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/Manipulator.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  Autonomous manipulation platform for tissue culture operation
