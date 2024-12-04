@@ -102,7 +102,7 @@ Mechanical damage assessment in canola using X-ray imaging and computer vision
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/btp1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Simulating an autonomous navigation system for ground robot using NAV2
+Simulating an autonomous navigation system for a ground robot using NAV2
 **Semester Project** 
 -  Developed and tested a ground robot in the Gazebo simulation environment for autonomous navigation and obstacle avoidance using NAV2, Lidar, and the A* algorithm. Gained hands-on experience with ROS2 for controlling both virtual and real-world robot designs.
 </div>
