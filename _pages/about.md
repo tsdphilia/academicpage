@@ -37,6 +37,16 @@ In my free time, I love to play badminton and read books. Other than this, I als
 - *2022.05*: &nbsp; Summer Intern at Virginia Tech University. 
 
 # Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/img2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ Autonomous manipulation platform for tissue culture operation
+
+**Project** 
+-  Designed and integrated a hardware setup with RaspberryPi, RealSense camera, and manipulator arm; implemented ROS 2 MoveIt2 for autonomous transfer of callus during tissue culture operation,
+-  Developed callus detection algorithms, camera calibration, and collision safety controls using point cloud data to enhance manipulator accuracy.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/apple_paper.png' alt="sym" width="100%" height="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -115,16 +125,6 @@ Quality analysis of mangoes during storage using color imaging
 
 **Project** 
 -  Conducted quality assessments of mangoes during storage by applying classification algorithms on RGB and lab images, comparing machine-vision results with chemical-based methods. Achieved an 84% accuracy in predicting the ripening index of the mangoes.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/img2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Wheat yield prediction using aerial imagery-based spike counting approach
-
-**Summer Project** 
--  Developed and tested deep learning models for detecting wheat heads from aerial RGB images, optimizing model performance through data augmentation and benchmarking against EfficientDet, YOLO-V4, V6, V7, and MobileNet. Achieved high mAP values, with YOLO-v7 and YOLO-v6 reaching 84% and 82%, respectively.
 </div>
 </div>
 
