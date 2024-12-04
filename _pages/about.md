@@ -33,8 +33,8 @@ In my free time, I love to play badminton and read books. Other than this, I als
 # News
 - *2024.05*: &nbsp; Cornell CALS Summer Research Scholar 2024. 
 - *2023.05*: &nbsp; Mitacs Summer Research Scholarship 2024.
-- *2022.05*: &nbsp; Summer Intern at University of Campinas.
-- *2022.05*: &nbsp; Summer Intern at Virginia Tech University. 
+- *2022.05*: &nbsp; Summer Research Internship at the University of Campinas.
+- *2022.05*: &nbsp; Summer Research Internship at Virginia Tech University. 
 
 # Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/manipulator.jpeg' alt="sym" width="100%"></div></div>
