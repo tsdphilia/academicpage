@@ -68,7 +68,7 @@ Recent advances in non-destructive techniques for grain quality monitoring
 
  **Mridula Buragohain**, Jitendra Palliwal, Mohammad Nadimi
 
-[**Presentation**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Oral Presentation**
 - Review of all the non-destructive techniques used and developed to date for grain quality monitoring.
 </div>
 </div>
@@ -81,7 +81,7 @@ Recent advances in non-destructive techniques for grain quality monitoring
 Dhanus Raj, Ingrid Moraes, **Mridula Buragohain**, Sai Chaitanya K, Vansh Agrawal,
 Vanshika Sahu, Ayushi Saha, Marcus da Silva Ferreira, Sylvio Barbon Junior, Somsubhra Chakraborty, Jayeeta Mitra, Douglas Fernandes Barbin
 
-[**Presentation**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Conference Presentation**
 - Developed machine learning models, including SVM, Random Forest, and ANNs, for classification based on using color, texture, and morphological features extracted from RGB images. Achieved a peak prediction accuracy of 89% with the Random Forest classifier.
 </div>
 </div>
