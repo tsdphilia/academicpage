@@ -64,7 +64,7 @@ Divya Rathore, Divyanth L G, Lalit Reddy, Yogesh Chawla, **Mridula Buragohain**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">15 SLACAN 2023</div><img src='images/tea.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- Classification of carambola (Averrhoa carambola l.) according to the maturation stage using computer vision
+ Classification of tea according to the texture and color analysis based on origin using computer vision
 
 Dhanus Raj, Ingrid Moraes, **Mridula Buragohain**, Sai Chaitanya K, Vansh Agrawal,
 Vanshika Sahu, Ayushi Saha, Marcus da Silva Ferreira, Sylvio Barbon Junior, Somsubhra Chakraborty, Jayeeta Mitra, Douglas Fernandes Barbin
@@ -79,7 +79,9 @@ Vanshika Sahu, Ayushi Saha, Marcus da Silva Ferreira, Sylvio Barbon Junior, Soms
 <div class='paper-box-text' markdown="1">
 
 Adaptability and Effectiveness of inbuilt vision foundational model to quantify grape foliage powdery mildew infection
+
 **Mridula Buragohain**, Yu Jiang, Yiyuan Lin
+
 **Poster Presentation** 
 -  Tested our built vision foundation model for adaptability results across different vineyards in the US
 -  Obtained bird-eye view severity assessment results of mildew infection in the fields compared with human assessment.
@@ -91,6 +93,7 @@ Adaptability and Effectiveness of inbuilt vision foundational model to quantify 
 <div class='paper-box-text' markdown="1">
 
 Mechanical damage assessment in canola using X-ray imaging and computer vision
+
 **Summer Project**
 -  Utilized X-ray imaging with computer vision techniques, including OpenCV for image enhancement and ROI detection, to classify canola damage into four categories. Tested machine learning and deep learning models, achieving a top mAP of 92.08% with MobileNetV2.
 </div>
@@ -101,6 +104,7 @@ Mechanical damage assessment in canola using X-ray imaging and computer vision
 <div class='paper-box-text' markdown="1">
 
 Simulating an autonomous navigation system for a ground robot using NAV2
+
 **Semester Project** 
 -  Developed and tested a ground robot in the Gazebo simulation environment for autonomous navigation and obstacle avoidance using NAV2, Lidar, and the A* algorithm. Gained hands-on experience with ROS2 for controlling both virtual and real-world robot designs.
 </div>
