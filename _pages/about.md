@@ -24,7 +24,7 @@ My research interests lie in robotics automation and smart sensing, and I am spe
 In my free time, I love to play badminton and read books. Other than this, I also love traveling to new places, especially hills and mountains and also cities, for unique architecture.
 
 # Research Interests
-- *Agricultural Robotics*
+- *Robotics Automation*
 - *Automation in Agri-Food Systems*
 - *Smart Sensing*
 - *Computer vision and deep learning*
