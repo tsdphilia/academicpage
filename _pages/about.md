@@ -25,6 +25,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 获得山东大学本科生最高荣誉"校长奖(综合)".
 - *2024.10*: &nbsp;🎉🎉 顺利通过学校答辩，获得本科生“詹天佑”奖学金.
 - *2024.10*: &nbsp;🎉🎉 顺利通过学院答辩，连续三年蝉联本科生国家奖学金. 
 - *2024.09*: &nbsp;🎉🎉 推免至中国科学院空天信息创新研究院（AIRCAS）攻读博士学位. 
@@ -32,12 +33,11 @@ redirect_from:
 
 
 # 🏅 Honors and Awards
+- *2024.12* President's Award of Shandong University (the highest undergraduate award of Shandong University).
 - *2024.10* "ZhanTianYou" Scholarship,ZhanTianYou Development Foundation of Science and Technology (Only 3 Students in Shandong University).
 - *2024.05* Excellent University Student of Shandong Province.
-- *2023.12* National Scholarship for Undergraduate Student in 2023(Top 1%).
-- *2023.09* Merit Student of Shandong University.
-- *2022.12* National Scholarship for Undergraduate Student in 2022(Top 1%).
-- *2022.09* Excellent Student Cadre of Shandong University.
+- *2024.12* National Scholarship for Undergraduate Student in 2022, 2023 and 2024(Top 1%).
+- *2022.09* Merit Student and Excellent Student Cadre of Shandong University.
 
 # 📝 Publications 
 - waiting for hard working🏃‍♂️ ......
