@@ -34,7 +34,7 @@ redirect_from:
 
 # 🏅 Honors and Awards
 - *2024.12* President's Award of Shandong University (the highest undergraduate award of Shandong University).
-- *2024.10* "ZhanTianYou" Scholarship,ZhanTianYou Development Foundation of Science and Technology (Only 3 Students in Shandong University).
+- *2024.10* "ZhanTianYou" Scholarship, ZhanTianYou Development Foundation of Science and Technology ([39 undergraduate students in China](https://zhijianli2003.github.io/images/2024_ZhanTianYou_Scholarship.pdf)).
 - *2024.05* Excellent University Student of Shandong Province.
 - *2024.12* National Scholarship for Undergraduate Student in 2022, 2023 and 2024(Top 1%).
 - *2022.09* Merit Student and Excellent Student Cadre of Shandong University.
@@ -45,7 +45,6 @@ redirect_from:
 # 🏆 Competition Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 18th Undergraduate Smart Car Competition</div><img src='images/5G_Project .png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [**5G Outdoor Autonomous Vehicle With Multi-sensor Fusion(Undergraduate Project)**](https://zhijianli2003.github.io/images/5G_Team_Introduce.pdf)
 
 **Zhijian Li**, Zhang Yu, Tianyu Zhou, Yanmao He, Yuesheng Liu
