@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👨‍🎓 About Me
- &nbsp; &nbsp; I'm **Zhijian Li**, a senior undergraduate from [ShanDong University](https://www.wh.sdu.edu.cn/). And I will start my doctoral research at the [Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**)](http://www.aircas.cn/) in September 2025.
+ &nbsp; &nbsp; I'm **Zhijian Li**, a senior undergraduate from [ShanDong University](https://www.wh.sdu.edu.cn/). And I will start my doctoral research at the Key Laboratory of Target Cognition and Application Technology,  [Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**)](http://www.aircas.cn/) in September 2025.
 
  &nbsp; &nbsp;My main research interest includes **Computer Vision** and **Remote Sensing Image Interpreting**. And I am also very interested in Embedded System Development.
 
