@@ -26,10 +26,19 @@ I am now a Ph.D. candidate of [Westlake University--SMART joint PhD programme](h
 - *2023.10*: &nbsp;🎉🎉 Just won the **National postgraduate schloaship** (TOP 1%)! 🎉🎉
 - *2023.07*: &nbsp;🎉🎉 Just won the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition! 🎉🎉
 - *2023.06*: &nbsp;🎉🎉 Scored **7.0** in IELTS English test (R:7.5 S:6.5 L:7.5 W:6.5) ! 🎉🎉
-- *2023.04*: &nbsp;[🎉🎉 Participated in the "Meeting with Youth" activities of French President **Emmanuel Macron**'s visit to Sun Yat-sen University! 🎉🎉](assets/macron.jpg)
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQUACULTURE</div><img src='assets/macron.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- *2023.04*: &nbsp;🎉🎉 Participated in the "Meeting with Youth" activities of French President **Emmanuel Macron**'s visit to Sun Yat-sen University! 🎉🎉
+  
 - *2023.03*: &nbsp;🎉🎉 My first research article got accepted by ***AQUATIC TOXICOLOGY***!🎉🎉
 - *2022.08*: &nbsp;🎉🎉 Just won the **L.X.H-L.D scholarship** from Sun Yat-sen University! 🎉🎉
-- *2021.09*: &nbsp;🎉🎉 Thrilled to particapate in acting [**《行先》**](https://www.bilibili.com/video/BV1zP4y1V71d/?share_source=copy_web&vd_source=3873e2d3a2b4b4695d6e5e0f62643f4b) as Mr. Fei Hongnian! [🎉🎉](assets/xingxian.jpg) 
+  
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQUACULTURE</div><img src='assets/xingxian.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- *2021.09*: &nbsp;🎉🎉 Thrilled to particapate in acting [**《行先》**](https://www.bilibili.com/video/BV1zP4y1V71d/?share_source=copy_web&vd_source=3873e2d3a2b4b4695d6e5e0f62643f4b) as Mr. Fei Hongnian! 🎉🎉
 - *2021.04*: &nbsp;🎉🎉 Got admitted by **Sun Yat-sen University** as rank No.1! 🎉🎉
 
 # 📝 Publications 
