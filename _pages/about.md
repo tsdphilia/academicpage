@@ -26,12 +26,7 @@ I am now a Ph.D. candidate of [Westlake University--SMART joint PhD programme](h
 - *2023.10*: &nbsp;🎉🎉 Just won the **National postgraduate schloaship** (TOP 1%)! 🎉🎉
 - *2023.07*: &nbsp;🎉🎉 Just won the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition! 🎉🎉
 - *2023.06*: &nbsp;🎉🎉 Scored **7.0** in [IELTS English test](assets/ILETS.png) (R:7.5 S:6.5 L:7.5 W:6.5) ! 🎉🎉
-
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='assets/macron.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- *2023.04*: &nbsp;🎉🎉 Participated in the "Meeting with Youth" activities of French President **Emmanuel Macron**'s visit to Sun Yat-sen University! 🎉🎉
-  
+- *2023.04*: &nbsp;[🎉🎉 Participated in the "Meeting with Youth" activities of French President **Emmanuel Macron**'s visit to Sun Yat-sen University! 🎉🎉](assets/macron.jpg)
 - *2023.03*: &nbsp;🎉🎉 My first research article got accepted by ***AQUATIC TOXICOLOGY***!🎉🎉
 - *2022.08*: &nbsp;🎉🎉 Just won the **L.X.H-L.D scholarship** from Sun Yat-sen University! 🎉🎉
   
