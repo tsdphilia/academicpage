@@ -25,7 +25,7 @@ I am now a Ph.D. candidate of [Westlake University--SMART joint PhD programme](h
 - *2023.11*: &nbsp;🎉🎉 Received PhD offer from **University of Edingburgh**! 🎉🎉
 - *2023.10*: &nbsp;🎉🎉 Just won the **National postgraduate schloaship** (TOP 1%)! 🎉🎉
 - *2023.07*: &nbsp;🎉🎉 Just won the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition! 🎉🎉
-- *2023.06*: &nbsp;🎉🎉 Scored **7.0** in IELTS English test (R:7.5 S:6.5 L:7.5 W:6.5) ! 🎉🎉
+- *2023.06*: &nbsp;🎉🎉 Scored **7.0** in [IELTS English test](assets/ILETS.png) (R:7.5 S:6.5 L:7.5 W:6.5) ! 🎉🎉
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='assets/macron.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,7 +68,7 @@ Grass carp exhibited great adaptability to low salinity (2 ppt), with no signifi
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06*: &nbsp;🎉🎉 the **first-class award** of the the 1st Academic Forum Competition of department of science, Sun Yat-sen University 🎉🎉
+- *2024.07*: &nbsp;🎉🎉 the **first-class award** of the the 1st Academic Forum Competition of department of science, Sun Yat-sen University 🎉🎉
 - *2024.06*: &nbsp;🎉🎉 the **Outstanding Graduates** of Sun Yat-sen University 🎉🎉
 - *2023.12*: &nbsp;🎉🎉 the **first-class award** of the 2nd Academic Forum Competition of School of Life Sciences, Sun Yat-sen University 🎉🎉
 - *2023.10*: &nbsp;🎉🎉 the **National postgraduate schloaship** (TOP 1%) 🎉🎉
@@ -88,6 +88,6 @@ Grass carp exhibited great adaptability to low salinity (2 ppt), with no signifi
 - *2024.06*, Effects of salinity on fish: From microbiota to muscle quality, The First Postgraduate Academic Achievements Exchange Report of Science Department of Sun Yat-sen University.  \| [\[news\]]([https://github.com/](https://lifesciences.sysu.edu.cn/zh-hans/article/4646))
 - *2023.10*, Effects of salinity on growth, physiology, biochemistry and gut microbiota of juvenile grass carp (*Ctenopharyngodon idella*), the 2nd Academic Forum Competition of School of Life Sciences.  \| [\[news\]]([https://github.com/](https://lifesciences.sysu.edu.cn/zh-hans/article/2544))
 
-# 💻 Internships
-- *2023.04 - 2022.08*, Guangzhou Nansha aquatic park industry co, ltd. Guangzhou, China.
+# 💻 Internshipsjpg
+- *2023.04 - 2022.08*, [Guangzhou Nansha aquatic park industry co, ltd. Guangzhou, China.](assets/nansha.jpg)
 - *2021.10 - 2022.06*, Guangdong Liangshi aquatic breeding co, ltd. Foshan, China.
