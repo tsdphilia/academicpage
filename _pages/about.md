@@ -21,9 +21,11 @@ I am a second-year Ph.D. Student in Computer Science at the University of Maryla
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 **New on arXiv**: "Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free" is now available on arXiv.
-- *2024.03*: &nbsp;🎉🎉 **New on arXiv**: "Many-Objective Multi-Solution Transport" is now available on arXiv.
-- *2023.08*: &nbsp;🎉🎉 **Entering University of Maryland (UMD)** as a Ph.D. Candidate in Computer Science.
+- *2025.01*: &nbsp;🎉🎉 One paper have been accepted by NAACL 2025 Main Conference.
+- *2025.01*: &nbsp;🎉🎉 Two papers have been accepted by ICLR 2025.
+- *2024.10*: &nbsp;**New on arXiv**: "Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free" is now available on arXiv.
+- *2024.03*: &nbsp; **New on arXiv**: "Many-Objective Multi-Solution Transport" is now available on arXiv.
+- *2023.08*: &nbsp; **Entering University of Maryland (UMD)** as a Ph.D. Candidate in Computer Science.
 
 # 📝 Publications 
 
