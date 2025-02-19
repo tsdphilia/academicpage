@@ -1,2 +1,2 @@
 bundle add webrick
-bundle exec jekyll liveserve
+bundle exec jekyll liveserve --incremental
