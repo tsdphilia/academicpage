@@ -17,42 +17,57 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi there! 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Welcome to my website!
+My name is **Thang Phan Chau**. I am currently an AI Resident in [AI Center @ FPT Software](https://fpt-aicenter.com/) from Mar 2024,
+advised by [Dr. Nghi Bui](https://bdqnghi.github.io/). 
+
+My research focuses on **LLMs' reasoning** abilities, particularly in coding tasks. In the future, I am interested in making LLMs stronger and more efficient.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2025.07*: &nbsp;Graduate from the FPT AI Residency Program! Huge thanks to my mentors, all my brothers and sisters in the program! -->
+- *2025.01*: &nbsp;One papers [CodeMMLU](https://openreview.net/forum?id=CahIEKCu5Q) accepted by ICLR'25!
+- *2025.01*: &nbsp;One papers [AgileCoder](https://arxiv.org/abs/2406.11912) accepted by FORGE'25!
+- *2023.08*: &nbsp;My first A* as Co-first author [VisoBert](https://aclanthology.org/2023.emnlp-main.315/) accepted by EMNLP'23! 
 
 # 📝 Publications 
+<sup>* denote equal contribution</sup>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs**](https://openreview.net/forum?id=CahIEKCu5Q)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Dung Manh Nguyen, **Thang Phan Chau**, Nam Le Hai, Tien-Thong Doan, Nam V. Nguyen, Quang Pham, Nghi D. Q. Bui
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[**ViSoBERT: A Pre-Trained Language Model for Vietnamese Social Media Text Processing**](https://aclanthology.org/2023.emnlp-main.315/)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Nam Nguyen<sup>*</sup>, **Thang Phan Chau<sup>*</sup>**, Duc-Vu Nguyen, Kiet Nguyen
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- ### Preprint
+TBF
+
+# 🎖 Honors and Awards 
+TBF -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2025.06*, B.S. in Data Science, University of Infomation Technology, Vietnam National University, Ho Chi Minh City
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- Statcounter code for personal website
+http://horseee.github.io on Google Sites (new) -->
+<script type="text/javascript">
+var sc_project=12946013; 
+var sc_invisible=1; 
+var sc_security="08b61411"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="website
+statistics" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12946013/0/08b61411/1/"
+alt="website statistics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
