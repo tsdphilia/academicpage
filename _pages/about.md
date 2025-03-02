@@ -14,7 +14,7 @@ redirect_from:
 I am a third-year undergraduate student from the School of Electronic and Information Engineering, Sun Yat-sen University. My research interests include machine learning, deep learning, reinforcement learning, large language models, multimodal models, embodied intelligence, and agents.
 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [XX's Curriculum Vitae](../assets/cv.pdf).
 
 [Email](yanyh39@mail2.sysu.edu.cn) / [Github](https://github.com/scrapier) 
 
