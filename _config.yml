@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Personal CV"
-description              : "I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography"
+description              : "I am a third-year undergraduate student from the School of Electronic and Information Engineering, Sun Yat-sen University. My research interests include machine learning, deep learning, reinforcement learning, large language models, multimodal models, embodied intelligence, and agents."
 repository               : ".scrapier/Yuhao-Yan.github.io"
 google_scholar_stats_use_cdn : true
 
