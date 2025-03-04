@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Personal CV"
-description              : "“Hey, I’m a self-proclaimed ‘keyboard wizard’ and tech nerd who spends my days wrestling with code and bugs—and mostly losing to the latter! By day, I’m deep in lines of Python and debugging nightmares; by night, I stare at the stars, dreaming of writing a script to beam me straight to Mars. I’m obsessed with AI, tinker with open-source projects, and occasionally post wild ideas on social media—like ‘How to Make My Coffee Machine Run on Machine Learning.’ Don’t let my serious face fool you—I’m a closet comedian. My latest life motto? ‘If the code runs on the first try, I probably forgot the comments!’ 😄 Hit me up to chat tech, life, or how to convince AI to do my dishes—though, sadly, it hasn’t mastered that yet!”"
+title                    : "My Introduction"
+description              : ""
 repository               : ".scrapier/Yuhao-Yan.github.io"
 google_scholar_stats_use_cdn : true
 
