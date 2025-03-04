@@ -29,6 +29,7 @@ Scholarships:
   2022-2023 Sun Yat-sen University First-Class Scholarship
   2023-2024 Huawei Scholarship
   2023-2024 Sun Yat-sen University Second-Class Scholarship
+
 Awards:
  Second Prize at the 6th Global Campus AI Algorithm Elite Competition (National Level)
  First Prize at the Provincial Level in the National College Students' Integrated Circuit Innovation and Entrepreneurship Competition
@@ -49,5 +50,4 @@ Awards:
 
 # 💻 Internships
 Research on the Laser Cockroach Killing System for College Student Entrepreneurship Projects (Rated Excellent)
-Medical Image Segmentation Work (Ongoing)
-Embodied Intelligence Navigation Work (Ongoing)
+Research on Ground-Glass Nodules CT Segmentation by DeepLearning models (Ongoing)
