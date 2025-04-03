@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Hao Liu (刘豪), and I am currently pursuing a PhD at the Hangzhou International Innovation Institute, Beihang University. I am based in both Hangzhou and Beijing, China. My research areas include artificial intelligence and cyberspace security. Additionally, I have conducted research in quantitative investment, national governance and economics. If you are interested in academic collaboration, please feel free to email me at <a href="mailto:lh@computer.org">lh@computer.org</a>.
+My name is Hao Liu (刘豪), and I am currently pursuing a Ph.D. degree with the Hangzhou International Innovation Institute, Beihang University, Hangzhou, China. My research areas include artificial intelligence and cyberspace security. Additionally, I have conducted research in quantitative investment, national governance and economics. If you are interested in academic collaboration, please feel free to email me at <a href="mailto:lh@computer.org">lh@computer.org</a>.
 
 # 📝 Papers 
 - *SpaceSeg: A High-Precision Intelligent Perception Segmentation Method for Multi-Spacecraft On-Orbit Targets*
