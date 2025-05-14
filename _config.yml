@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yongbin Huang"
 description              : "C.V. "
-repository               : "tsdphilia/academicpage.github.io"
+repository               : "tsdphilia.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
